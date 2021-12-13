@@ -1,0 +1,1448 @@
+fileFormatVersion: 2
+guid: 6c8aebabe2ba53d4984b5defe49d3763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1911599034047144454
+    second: classroom - tiles 1_0
+  - first:
+      213: -2414619585775597731
+    second: classroom - tiles 1_1
+  - first:
+      213: 3038889323847202930
+    second: classroom - tiles 1_2
+  - first:
+      213: -6645847707803997678
+    second: classroom - tiles 1_3
+  - first:
+      213: -674729773837320709
+    second: classroom - tiles 1_4
+  - first:
+      213: 2270128345403097407
+    second: classroom - tiles 1_5
+  - first:
+      213: -797353864960576995
+    second: classroom - tiles 1_6
+  - first:
+      213: -2582671612530005971
+    second: classroom - tiles 1_7
+  - first:
+      213: 4452052938293606840
+    second: classroom - tiles 1_8
+  - first:
+      213: 9221884166646099822
+    second: classroom - tiles 1_9
+  - first:
+      213: 3260338426707922019
+    second: classroom - tiles 1_10
+  - first:
+      213: 8658492084966586228
+    second: classroom - tiles 1_11
+  - first:
+      213: -939595589890351768
+    second: classroom - tiles 1_12
+  - first:
+      213: -5876053128268181086
+    second: classroom - tiles 1_13
+  - first:
+      213: -570605197053689128
+    second: classroom - tiles 1_14
+  - first:
+      213: 7764874685624668667
+    second: classroom - tiles 1_15
+  - first:
+      213: -6475816509320968071
+    second: classroom - tiles 1_16
+  - first:
+      213: 6846132520680347978
+    second: classroom - tiles 1_17
+  - first:
+      213: 5845873408735811644
+    second: classroom - tiles 1_18
+  - first:
+      213: 8151289893952939213
+    second: classroom - tiles 1_19
+  - first:
+      213: 6738349844407114740
+    second: classroom - tiles 1_20
+  - first:
+      213: -2854358374588487343
+    second: classroom - tiles 1_21
+  - first:
+      213: 1600645138041541728
+    second: classroom - tiles 1_22
+  - first:
+      213: -6587352293691144908
+    second: classroom - tiles 1_23
+  - first:
+      213: -4182206888916885656
+    second: classroom - tiles 1_24
+  - first:
+      213: 3590464428799312629
+    second: classroom - tiles 1_25
+  - first:
+      213: -2629211539345952682
+    second: classroom - tiles 1_26
+  - first:
+      213: 986387652014459438
+    second: classroom - tiles 1_27
+  - first:
+      213: -5707427186951987587
+    second: classroom - tiles 1_28
+  - first:
+      213: 3790100933502701573
+    second: classroom - tiles 1_29
+  - first:
+      213: -3535827195640823768
+    second: classroom - tiles 1_30
+  - first:
+      213: -2193744218997074563
+    second: classroom - tiles 1_31
+  - first:
+      213: 6188516432552697895
+    second: classroom - tiles 1_32
+  - first:
+      213: 9167979380025408913
+    second: classroom - tiles 1_33
+  - first:
+      213: 6349229050048115646
+    second: classroom - tiles 1_34
+  - first:
+      213: 6189166648891816953
+    second: classroom - tiles 1_35
+  - first:
+      213: -2873336385522753183
+    second: classroom - tiles 1_36
+  - first:
+      213: 9118636989806358729
+    second: classroom - tiles 1_37
+  - first:
+      213: -763395873544862680
+    second: classroom - tiles 1_38
+  - first:
+      213: 2978647680801535562
+    second: classroom - tiles 1_39
+  - first:
+      213: -6283831301034326441
+    second: classroom - tiles 1_40
+  - first:
+      213: 133406751273403209
+    second: classroom - tiles 1_41
+  - first:
+      213: 4483155252656180565
+    second: classroom - tiles 1_42
+  - first:
+      213: 4935086690172540824
+    second: classroom - tiles 1_43
+  - first:
+      213: 4807954317882969043
+    second: classroom - tiles 1_44
+  - first:
+      213: 5451295784863727058
+    second: classroom - tiles 1_45
+  - first:
+      213: -5983640153311866386
+    second: classroom - tiles 1_46
+  - first:
+      213: -2630635181190666360
+    second: classroom - tiles 1_47
+  - first:
+      213: 7720231999879234999
+    second: classroom - tiles 1_48
+  - first:
+      213: 7965476397250269232
+    second: classroom - tiles 1_49
+  - first:
+      213: -5915382400131680051
+    second: classroom - tiles 1_50
+  - first:
+      213: -7393709592465500789
+    second: classroom - tiles 1_51
+  - first:
+      213: 1590788698392174049
+    second: classroom - tiles 1_52
+  - first:
+      213: -9035264114208766091
+    second: classroom - tiles 1_53
+  - first:
+      213: 2495960990151571365
+    second: classroom - tiles 1_54
+  - first:
+      213: -3094737921734808431
+    second: classroom - tiles 1_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: classroom - tiles 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd3ae7ec2a875e0800000000000000
+      internalID: -1911599034047144454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57052aa74c8d7ed0800000000000000
+      internalID: -2414619585775597731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b3a34dbd4c2a20800000000000000
+      internalID: 3038889323847202930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aaff098b435c3a0800000000000000
+      internalID: -6645847707803997678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdfb0778d0e2a6f0800000000000000
+      internalID: -674729773837320709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f310c46d3bd118f10800000000000000
+      internalID: 2270128345403097407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d127db662ea3fe4f0800000000000000
+      internalID: -797353864960576995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e9ab1ad1882cd0800000000000000
+      internalID: -2582671612530005971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b979343f8ed8cd30800000000000000
+      internalID: 4452052938293606840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6db83ac6baff70800000000000000
+      internalID: 9221884166646099822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4b7b668c0f3d20800000000000000
+      internalID: 3260338426707922019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f6f63da4292870800000000000000
+      internalID: 8658492084966586228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ddf080ac2e5f2f0800000000000000
+      internalID: -939595589890351768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1904000d0147ea0800000000000000
+      internalID: -5876053128268181086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d28f92b89dc418f0800000000000000
+      internalID: -570605197053689128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1d412f26062cb60800000000000000
+      internalID: 7764874685624668667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9784053f1374126a0800000000000000
+      internalID: -6475816509320968071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d6645149520f50800000000000000
+      internalID: 6846132520680347978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38999974e6b02150800000000000000
+      internalID: 5845873408735811644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4eb4e98f23f1170800000000000000
+      internalID: 8151289893952939213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd1307b7d638d50800000000000000
+      internalID: 6738349844407114740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159edfc6e284368d0800000000000000
+      internalID: -2854358374588487343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0641c60c542a63610800000000000000
+      internalID: 1600645138041541728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354f2c7df50594a0800000000000000
+      internalID: -6587352293691144908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fdae82ef0d5f5c0800000000000000
+      internalID: -4182206888916885656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f24249ff54e3d130800000000000000
+      internalID: 3590464428799312629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503dedf80a238bd0800000000000000
+      internalID: -2629211539345952682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4729e75a50bd00800000000000000
+      internalID: 986387652014459438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ed15476352bc0b0800000000000000
+      internalID: -5707427186951987587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5001e4cd7b4299430800000000000000
+      internalID: 3790100933502701573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c9a036e73eeec0800000000000000
+      internalID: -3535827195640823768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75dc9a71414e81e0800000000000000
+      internalID: -2193744218997074563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a8f048e602e550800000000000000
+      internalID: 6188516432552697895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d358e0ca43b3f70800000000000000
+      internalID: 9167979380025408913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb375bd6e2efc1850800000000000000
+      internalID: 6349229050048115646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb34ea864654e550800000000000000
+      internalID: 6189166648891816953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16126bce7cbdf18d0800000000000000
+      internalID: -2873336385522753183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c035259708eb8e70800000000000000
+      internalID: 9118636989806358729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8240c566f7fd765f0800000000000000
+      internalID: -763395873544862680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46773db848465920800000000000000
+      internalID: 2978647680801535562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7564e5199b85bc8a0800000000000000
+      internalID: -6283831301034326441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9434a44cbb4f9d100800000000000000
+      internalID: 133406751273403209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8f7313fd573e30800000000000000
+      internalID: 4483155252656180565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971e7f8233fc7440800000000000000
+      internalID: 4935086690172540824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db48bd7af849b240800000000000000
+      internalID: 4807954317882969043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddf26652a4e6ab40800000000000000
+      internalID: 5451295784863727058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11516bbf6d5fca0800000000000000
+      internalID: -5983640153311866386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8872c7b8d3b1e7bd0800000000000000
+      internalID: -2630635181190666360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c760b916c32b60800000000000000
+      internalID: 7720231999879234999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0305cd4949e0b8e60800000000000000
+      internalID: 7965476397250269232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8bd815c0758eda0800000000000000
+      internalID: -5915382400131680051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8512b89c44446990800000000000000
+      internalID: -7393709592465500789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1f5094ed931610800000000000000
+      internalID: 1590788698392174049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57780c4b82b4c9280800000000000000
+      internalID: -9035264114208766091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7773fdb4f63a220800000000000000
+      internalID: 2495960990151571365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom - tiles 1_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ce01eb1484d05d0800000000000000
+      internalID: -3094737921734808431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

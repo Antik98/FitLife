@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - turn
+  - Edge
+  - music
+  - StatusController
+  - Quests
+  - SoundManager
+  - UI
+  - PopUpMessage
+  - WordManager
+  - TutorialText
+  - TutorialBox
+  - ContinueText
+  - UI_Quest
+  - NewGameButton
+  - SettingsButton
+  - CreditsButton
+  - LoadGameButton
+  - SavingMenu
+  - TutorialTextBox
+  - UI_Quests
+  - UI_QuestsList
+  - UI_QuestFab
+  - QuestsFITentry
+  - Grass
+  - Beton
+  - Wood
+  - InputField
+  - UI_Subjects
+  - DayNightManager
+  - DayNightSprites
+  - Day_1
+  - Day_2
+  - Day_3
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CollisionLayer
+    uniqueID: 3698767679
+    locked: 0
+  - name: Decorations
+    uniqueID: 1561872087
+    locked: 0
+  - name: UI
+    uniqueID: 1602790615
+    locked: 0

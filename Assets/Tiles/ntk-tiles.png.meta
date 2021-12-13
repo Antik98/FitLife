@@ -1,0 +1,3767 @@
+fileFormatVersion: 2
+guid: 7374195e5a159454eb87bb8a21d19388
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 854660490035088116
+    second: ntk-tiles_0
+  - first:
+      213: -8810293849338382530
+    second: ntk-tiles_1
+  - first:
+      213: -1105106126150383747
+    second: ntk-tiles_2
+  - first:
+      213: -7050233835128722091
+    second: ntk-tiles_3
+  - first:
+      213: -2877987236611412944
+    second: ntk-tiles_4
+  - first:
+      213: 1106442099186840929
+    second: ntk-tiles_5
+  - first:
+      213: -2611617570197317795
+    second: ntk-tiles_6
+  - first:
+      213: -3062846140463592924
+    second: ntk-tiles_7
+  - first:
+      213: -3135694083703136853
+    second: ntk-tiles_8
+  - first:
+      213: -1051337279757249776
+    second: ntk-tiles_9
+  - first:
+      213: -1570549841246654238
+    second: ntk-tiles_10
+  - first:
+      213: 1843779273652188784
+    second: ntk-tiles_11
+  - first:
+      213: -8873641640866487561
+    second: ntk-tiles_12
+  - first:
+      213: 8722509768708851146
+    second: ntk-tiles_13
+  - first:
+      213: 6271808759436869389
+    second: ntk-tiles_14
+  - first:
+      213: -9139505071987129750
+    second: ntk-tiles_15
+  - first:
+      213: -8738271136256404897
+    second: ntk-tiles_16
+  - first:
+      213: 8549618370710495520
+    second: ntk-tiles_17
+  - first:
+      213: 7763881433988691662
+    second: ntk-tiles_18
+  - first:
+      213: 8872120650668020295
+    second: ntk-tiles_19
+  - first:
+      213: 4509126318011799329
+    second: ntk-tiles_20
+  - first:
+      213: 164004353866765589
+    second: ntk-tiles_21
+  - first:
+      213: -3273442362576259087
+    second: ntk-tiles_22
+  - first:
+      213: -7052360896862110384
+    second: ntk-tiles_23
+  - first:
+      213: 105125951715106306
+    second: ntk-tiles_24
+  - first:
+      213: -4877351257616188954
+    second: ntk-tiles_25
+  - first:
+      213: -5326201255061569357
+    second: ntk-tiles_26
+  - first:
+      213: 1359548117786058728
+    second: ntk-tiles_27
+  - first:
+      213: -396609523616108306
+    second: ntk-tiles_28
+  - first:
+      213: 550837077381007074
+    second: ntk-tiles_29
+  - first:
+      213: -9066324533249619508
+    second: ntk-tiles_30
+  - first:
+      213: -8210886603500647365
+    second: ntk-tiles_31
+  - first:
+      213: -7378488102566441513
+    second: ntk-tiles_32
+  - first:
+      213: 4543572682650778329
+    second: ntk-tiles_33
+  - first:
+      213: -3511902006392503611
+    second: ntk-tiles_34
+  - first:
+      213: -5907501566292677959
+    second: ntk-tiles_35
+  - first:
+      213: -6856517615468863582
+    second: ntk-tiles_36
+  - first:
+      213: -4905776874523834669
+    second: ntk-tiles_37
+  - first:
+      213: -6095046797982872430
+    second: ntk-tiles_38
+  - first:
+      213: -9140476075905214549
+    second: ntk-tiles_39
+  - first:
+      213: -7066168054597805843
+    second: ntk-tiles_40
+  - first:
+      213: -4729463280067046319
+    second: ntk-tiles_41
+  - first:
+      213: 3929820593161976677
+    second: ntk-tiles_42
+  - first:
+      213: -7112243031879088937
+    second: ntk-tiles_43
+  - first:
+      213: -6444815956793911606
+    second: ntk-tiles_44
+  - first:
+      213: 2099214742396498121
+    second: ntk-tiles_45
+  - first:
+      213: -4131743068784305681
+    second: ntk-tiles_46
+  - first:
+      213: -8414645113404187133
+    second: ntk-tiles_47
+  - first:
+      213: -2616321585733712527
+    second: ntk-tiles_48
+  - first:
+      213: -8556357957073258624
+    second: ntk-tiles_49
+  - first:
+      213: -8720699946991195418
+    second: ntk-tiles_50
+  - first:
+      213: 969080621355033744
+    second: ntk-tiles_51
+  - first:
+      213: 1707558367730615567
+    second: ntk-tiles_52
+  - first:
+      213: -6684093154778308820
+    second: ntk-tiles_53
+  - first:
+      213: 9154673576569169393
+    second: ntk-tiles_54
+  - first:
+      213: 7580622462735269690
+    second: ntk-tiles_55
+  - first:
+      213: -1157900748609636301
+    second: ntk-tiles_56
+  - first:
+      213: 6163222722145260379
+    second: ntk-tiles_57
+  - first:
+      213: 4191852576318894083
+    second: ntk-tiles_58
+  - first:
+      213: 9159009373140399192
+    second: ntk-tiles_59
+  - first:
+      213: 4714058376513817884
+    second: ntk-tiles_60
+  - first:
+      213: -7504885727217285884
+    second: ntk-tiles_61
+  - first:
+      213: 6786937038681454057
+    second: ntk-tiles_62
+  - first:
+      213: -5575055937133964530
+    second: ntk-tiles_63
+  - first:
+      213: -8299547054915955792
+    second: ntk-tiles_64
+  - first:
+      213: 4831792791777676130
+    second: ntk-tiles_65
+  - first:
+      213: -171945367862898365
+    second: ntk-tiles_66
+  - first:
+      213: 11394676195415961
+    second: ntk-tiles_67
+  - first:
+      213: 7840381975749342081
+    second: ntk-tiles_68
+  - first:
+      213: -2014352535035318020
+    second: ntk-tiles_69
+  - first:
+      213: -4336808318852981178
+    second: ntk-tiles_70
+  - first:
+      213: -1939328475949174498
+    second: ntk-tiles_71
+  - first:
+      213: -683557184763563846
+    second: ntk-tiles_72
+  - first:
+      213: 8840361722902056970
+    second: ntk-tiles_73
+  - first:
+      213: 3170494195805129869
+    second: ntk-tiles_74
+  - first:
+      213: 2808672072929930955
+    second: ntk-tiles_75
+  - first:
+      213: -5952027801235280476
+    second: ntk-tiles_76
+  - first:
+      213: -2692609322975179445
+    second: ntk-tiles_77
+  - first:
+      213: 5371739110082421205
+    second: ntk-tiles_78
+  - first:
+      213: 5056166845469594483
+    second: ntk-tiles_79
+  - first:
+      213: 845134792981094129
+    second: ntk-tiles_80
+  - first:
+      213: -8671516285877982821
+    second: ntk-tiles_81
+  - first:
+      213: -2596255896475700197
+    second: ntk-tiles_82
+  - first:
+      213: 1864601706127954686
+    second: ntk-tiles_83
+  - first:
+      213: -4911862457639376068
+    second: ntk-tiles_84
+  - first:
+      213: -7410185998804797290
+    second: ntk-tiles_85
+  - first:
+      213: -1865492658325659822
+    second: ntk-tiles_86
+  - first:
+      213: 4489332818717365990
+    second: ntk-tiles_87
+  - first:
+      213: -357723824799143891
+    second: ntk-tiles_88
+  - first:
+      213: 8176214022013836689
+    second: ntk-tiles_89
+  - first:
+      213: 5955255756407782924
+    second: ntk-tiles_90
+  - first:
+      213: -5295523538842739043
+    second: ntk-tiles_91
+  - first:
+      213: 7616989644893990787
+    second: ntk-tiles_92
+  - first:
+      213: -4356036029541164316
+    second: ntk-tiles_93
+  - first:
+      213: -2006249853237880127
+    second: ntk-tiles_94
+  - first:
+      213: -2728442556456955241
+    second: ntk-tiles_95
+  - first:
+      213: -6493880633956835234
+    second: ntk-tiles_96
+  - first:
+      213: -6913594620439575776
+    second: ntk-tiles_97
+  - first:
+      213: -8813866814522754560
+    second: ntk-tiles_98
+  - first:
+      213: -7538154217277063573
+    second: ntk-tiles_99
+  - first:
+      213: 5090716153746648504
+    second: ntk-tiles_100
+  - first:
+      213: 7304129622205723665
+    second: ntk-tiles_101
+  - first:
+      213: 9067672325607973360
+    second: ntk-tiles_102
+  - first:
+      213: -7384576960763736335
+    second: ntk-tiles_103
+  - first:
+      213: 6995988789941298854
+    second: ntk-tiles_104
+  - first:
+      213: -9112563263423411268
+    second: ntk-tiles_105
+  - first:
+      213: 1805649055772703783
+    second: ntk-tiles_106
+  - first:
+      213: -4385969480925095476
+    second: ntk-tiles_107
+  - first:
+      213: -8368159578538286045
+    second: ntk-tiles_108
+  - first:
+      213: -994225520620748034
+    second: ntk-tiles_109
+  - first:
+      213: -6074932954180940794
+    second: ntk-tiles_110
+  - first:
+      213: -6706540787552339830
+    second: ntk-tiles_111
+  - first:
+      213: -3590492064213604347
+    second: ntk-tiles_112
+  - first:
+      213: -8452060242696153721
+    second: ntk-tiles_113
+  - first:
+      213: -8251276374849855413
+    second: ntk-tiles_114
+  - first:
+      213: 169954603387481468
+    second: ntk-tiles_115
+  - first:
+      213: -6795169378933995325
+    second: ntk-tiles_116
+  - first:
+      213: -2090272133506127915
+    second: ntk-tiles_117
+  - first:
+      213: -6025182627069950050
+    second: ntk-tiles_118
+  - first:
+      213: 7111380379734713103
+    second: ntk-tiles_119
+  - first:
+      213: 5041964959827174737
+    second: ntk-tiles_120
+  - first:
+      213: 3000434366774695252
+    second: ntk-tiles_121
+  - first:
+      213: -8606107643222572667
+    second: ntk-tiles_122
+  - first:
+      213: -4885026801257003640
+    second: ntk-tiles_123
+  - first:
+      213: -5033595555594094474
+    second: ntk-tiles_124
+  - first:
+      213: -5373757074964677624
+    second: ntk-tiles_125
+  - first:
+      213: -3591127832294212396
+    second: ntk-tiles_126
+  - first:
+      213: -8843794650287316862
+    second: ntk-tiles_127
+  - first:
+      213: 5098843984470849128
+    second: ntk-tiles_128
+  - first:
+      213: 5455200601750770462
+    second: ntk-tiles_129
+  - first:
+      213: -5394759105180132700
+    second: ntk-tiles_130
+  - first:
+      213: 6910295837670730826
+    second: ntk-tiles_131
+  - first:
+      213: -8615840580144458062
+    second: ntk-tiles_132
+  - first:
+      213: -1387301010047457181
+    second: ntk-tiles_133
+  - first:
+      213: 6673108480084949024
+    second: ntk-tiles_134
+  - first:
+      213: 342992771137491177
+    second: ntk-tiles_135
+  - first:
+      213: -5605188720038437380
+    second: ntk-tiles_136
+  - first:
+      213: -4837014015424695488
+    second: ntk-tiles_137
+  - first:
+      213: -2984020521611454128
+    second: ntk-tiles_138
+  - first:
+      213: -2056355143176980580
+    second: ntk-tiles_139
+  - first:
+      213: 1617917760182103007
+    second: ntk-tiles_140
+  - first:
+      213: -8997377622270125517
+    second: ntk-tiles_141
+  - first:
+      213: 7944100794959645553
+    second: ntk-tiles_142
+  - first:
+      213: 1883586510220697269
+    second: ntk-tiles_143
+  - first:
+      213: 7895236545494675861
+    second: ntk-tiles_144
+  - first:
+      213: 6301630640506847936
+    second: ntk-tiles_145
+  - first:
+      213: 2365385002559194346
+    second: ntk-tiles_146
+  - first:
+      213: -286823714712283492
+    second: ntk-tiles_147
+  - first:
+      213: 5874318526952359440
+    second: ntk-tiles_148
+  - first:
+      213: 5785123074253049470
+    second: ntk-tiles_149
+  - first:
+      213: 8070760534859094553
+    second: ntk-tiles_150
+  - first:
+      213: 7183701329221774454
+    second: ntk-tiles_151
+  - first:
+      213: 2341054694518462676
+    second: ntk-tiles_152
+  - first:
+      213: 5663070885311499604
+    second: ntk-tiles_153
+  - first:
+      213: 3279188712241282923
+    second: ntk-tiles_154
+  - first:
+      213: -8476569861743499275
+    second: ntk-tiles_155
+  - first:
+      213: 1204472146645009837
+    second: ntk-tiles_156
+  - first:
+      213: 4909419058946862972
+    second: ntk-tiles_157
+  - first:
+      213: -418831279482090377
+    second: ntk-tiles_158
+  - first:
+      213: 2417906897664933795
+    second: ntk-tiles_159
+  - first:
+      213: -5733219314861614618
+    second: ntk-tiles_160
+  - first:
+      213: 6959493930696641364
+    second: ntk-tiles_161
+  - first:
+      213: 7622770960820816364
+    second: ntk-tiles_162
+  - first:
+      213: -1590431660602070000
+    second: ntk-tiles_163
+  - first:
+      213: -104310331648721460
+    second: ntk-tiles_164
+  - first:
+      213: 2236416891789216921
+    second: ntk-tiles_165
+  - first:
+      213: 8060790190992621567
+    second: ntk-tiles_166
+  - first:
+      213: 3820509803743981848
+    second: ntk-tiles_167
+  - first:
+      213: 7655705551167828491
+    second: ntk-tiles_168
+  - first:
+      213: -8761506031626999288
+    second: ntk-tiles_169
+  - first:
+      213: 9055469960496191361
+    second: ntk-tiles_170
+  - first:
+      213: -7552538727859164128
+    second: ntk-tiles_171
+  - first:
+      213: -7971084414100723596
+    second: ntk-tiles_172
+  - first:
+      213: -6478256904965345949
+    second: ntk-tiles_173
+  - first:
+      213: -4087354041108673769
+    second: ntk-tiles_174
+  - first:
+      213: -6977572167637033272
+    second: ntk-tiles_175
+  - first:
+      213: -153330384386311778
+    second: ntk-tiles_176
+  - first:
+      213: 7099592641448035490
+    second: ntk-tiles_177
+  - first:
+      213: 7836599554380817444
+    second: ntk-tiles_178
+  - first:
+      213: -5090199554405159991
+    second: ntk-tiles_179
+  - first:
+      213: 8362462063629802768
+    second: ntk-tiles_180
+  - first:
+      213: -6188870137244154979
+    second: ntk-tiles_181
+  - first:
+      213: -4752856295417022891
+    second: ntk-tiles_182
+  - first:
+      213: -2767161325137708631
+    second: ntk-tiles_183
+  - first:
+      213: -65840205867871626
+    second: ntk-tiles_184
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ntk-tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4a10003d5cdb00800000000000000
+      internalID: 854660490035088116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3770674c6c8bb580800000000000000
+      internalID: -8810293849338382530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c2b755dfd9a0f0800000000000000
+      internalID: -1105106126150383747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d66b14ea9882e90800000000000000
+      internalID: -7050233835128722091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2ba54bd55f08d0800000000000000
+      internalID: -2877987236611412944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165b19e1a3fda5f00800000000000000
+      internalID: 1106442099186840929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57583728aba1cbd0800000000000000
+      internalID: -2611617570197317795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42acdf3b9a59e75d0800000000000000
+      internalID: -3062846140463592924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad949038d6cb74d0800000000000000
+      internalID: -3135694083703136853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01391f47056e861f0800000000000000
+      internalID: -1051337279757249776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e072729d39443ae0800000000000000
+      internalID: -1570549841246654238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076344a0b7b669910800000000000000
+      internalID: 1843779273652188784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e90431fd7ad480800000000000000
+      internalID: -8873641640866487561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac504c9bb649c0970800000000000000
+      internalID: 8722509768708851146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ffa6556d0f90750800000000000000
+      internalID: 6271808759436869389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6283596f84f92180800000000000000
+      internalID: -9139505071987129750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52536ce2bc6bb680800000000000000
+      internalID: -8738271136256404897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0216a5f3c9856a670800000000000000
+      internalID: 8549618370710495520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec675278709debb60800000000000000
+      internalID: 7763881433988691662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742997ba9ba102b70800000000000000
+      internalID: 8872120650668020295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1275570fe72a39e30800000000000000
+      internalID: 4509126318011799329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51598d54719a64200800000000000000
+      internalID: 164004353866765589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73de1c3856292d0800000000000000
+      internalID: -3273442362576259087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbdaa112bf02e90800000000000000
+      internalID: -7052360896862110384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e57a00f7b757100800000000000000
+      internalID: 105125951715106306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e97bfc5fda205cb0800000000000000
+      internalID: -4877351257616188954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c0dd8d288516b0800000000000000
+      internalID: -5326201255061569357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef50b75fc51ed210800000000000000
+      internalID: 1359548117786058728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee033565db5fe7af0800000000000000
+      internalID: -396609523616108306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c8664767f4a700800000000000000
+      internalID: 550837077381007074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 478
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da719038430e0f30800000000000000
+      internalID: 4543572682650778329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 479
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baaf0fef96540ea0800000000000000
+      internalID: -5907501566292677959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_36
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 483
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af15cd5e81c8d0a0800000000000000
+      internalID: -6856517615468863582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d64eaeaced2bebb0800000000000000
+      internalID: -4905776874523834669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c49dcea3b0a6ba0800000000000000
+      internalID: -6095046797982872430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba796b1ff61862180800000000000000
+      internalID: -9140476075905214549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de81c7ea79defed90800000000000000
+      internalID: -7066168054597805843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154995d54329d5eb0800000000000000
+      internalID: -4729463280067046319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3f662207898630800000000000000
+      internalID: 3929820593161976677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4899015ac3c4d90800000000000000
+      internalID: -7112243031879088937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6978c880a6f86a0800000000000000
+      internalID: -6444815956793911606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c07ec3afa8e12d10800000000000000
+      internalID: 2099214742396498121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 452
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e11902adc293b80800000000000000
+      internalID: -8414645113404187133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_48
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 445
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c7203165f0bbd0800000000000000
+      internalID: -2616321585733712527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_49
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 445
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087bf8585c5b14980800000000000000
+      internalID: -8556357957073258624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 446
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea62da3a99d9f680800000000000000
+      internalID: -8720699946991195418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_52
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 441
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0544d5d94772b710800000000000000
+      internalID: 1707558367730615567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f91d780b45d33a0800000000000000
+      internalID: -6684093154778308820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56f064d1feb0f70800000000000000
+      internalID: 9154673576569169393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fbeab47f7c33960800000000000000
+      internalID: 7580622462735269690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b6f9676f4eefe0800000000000000
+      internalID: -1157900748609636301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b539511696a288550800000000000000
+      internalID: 6163222722145260379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003b4275b37c2a30800000000000000
+      internalID: 4191852576318894083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854b1849f765b1f70800000000000000
+      internalID: 9159009373140399192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8f860e13bb6140800000000000000
+      internalID: 4714058376513817884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058055913a49d790800000000000000
+      internalID: -7504885727217285884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_62
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 414
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5bc87274b003e50800000000000000
+      internalID: 6786937038681454057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 430
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e039230c92c61a2b0800000000000000
+      internalID: -5575055937133964530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 415
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1833ae7edd1aecc60800000000000000
+      internalID: 7840381975749342081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_69
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 416
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0ffc8ba059b04e0800000000000000
+      internalID: -2014352535035318020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_70
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 402
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.49464586, y: 0.25905082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1fc7bfcf80d3c0800000000000000
+      internalID: -4336808318852981178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00998316264faa70800000000000000
+      internalID: 8840361722902056970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c076f4cabdffb20800000000000000
+      internalID: 3170494195805129869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6c8d8e586af620800000000000000
+      internalID: 2808672072929930955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2f1eff36266da0800000000000000
+      internalID: -5952027801235280476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc829361ee1aad0800000000000000
+      internalID: -2692609322975179445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1298a82404c8a40800000000000000
+      internalID: 5371739110082421205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373925d05fc1b2640800000000000000
+      internalID: 5056166845469594483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe16f2dd958abb00800000000000000
+      internalID: 845134792981094129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b996a34b1e598a780800000000000000
+      internalID: -8671516285877982821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_87
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 395
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d622c9605d4e30800000000000000
+      internalID: 4489332818717365990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_88
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 394
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28272f931c190bf0800000000000000
+      internalID: -357723824799143891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_89
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 400
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dd3b5655fb77170800000000000000
+      internalID: 8176214022013836689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_90
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 370
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e3943ee8155a250800000000000000
+      internalID: 5955255756407782924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e1f87f5658286b0800000000000000
+      internalID: -5295523538842739043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2cb9b9bbf4b960800000000000000
+      internalID: 7616989644893990787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea55667f404c83c0800000000000000
+      internalID: -4356036029541164316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9317536e5824e0800000000000000
+      internalID: -2006249853237880127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792135863ff922ad0800000000000000
+      internalID: -2728442556456955241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e63f28f911e5a0800000000000000
+      internalID: -6493880633956835234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c5af825afd00a0800000000000000
+      internalID: -6913594620439575776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a74ce74dadea580800000000000000
+      internalID: -8813866814522754560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_99
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4871401, y: 0.1796552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7611ada8136790800000000000000
+      internalID: -7538154217277063573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_101
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 379
+        width: 86
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4926261, y: 0.17454134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114faf4413b7d5560800000000000000
+      internalID: 7304129622205723665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_105
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 367
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8f5a0efba98180800000000000000
+      internalID: -9112563263423411268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_106
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 367
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cf95edf34fe0910800000000000000
+      internalID: 1805649055772703783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_107
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc951c5bef7e123c0800000000000000
+      internalID: -4385969480925095476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_108
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 333
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324617123335edb80800000000000000
+      internalID: -8368159578538286045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c5c8182dc332f0800000000000000
+      internalID: -994225520620748034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0bbf1aa081bba0800000000000000
+      internalID: -6074932954180940794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88364ebfa49de2a0800000000000000
+      internalID: -6706540787552339830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50860b7ad720c2ec0800000000000000
+      internalID: -3590492064213604347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_113
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785d4ed7dff34ba80800000000000000
+      internalID: -8452060242696153721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40608daad39d7d80800000000000000
+      internalID: -8251276374849855413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_116
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 338
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c80704c375b2b1a0800000000000000
+      internalID: -6795169378933995325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_118
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 327
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50950116, y: 0.48914832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9704aec250426ca0800000000000000
+      internalID: -6025182627069950050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_119
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 338
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0325c417c2b0b260800000000000000
+      internalID: 7111380379734713103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_120
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1552770ea68a8f540800000000000000
+      internalID: 5041964959827174737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_121
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 336
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455da7bd82fa3a920800000000000000
+      internalID: 3000434366774695252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_122
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 331
+        width: 7
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49272808, y: 0.21267521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581c1f212b6f09880800000000000000
+      internalID: -8606107643222572667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88540d89106e43cb0800000000000000
+      internalID: -4885026801257003640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67834d5e283152ab0800000000000000
+      internalID: -5033595555594094474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cfc7569649c65b0800000000000000
+      internalID: -5373757074964677624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcb51d5340c92ec0800000000000000
+      internalID: -3591127832294212396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280ef1b3f97844580800000000000000
+      internalID: -8843794650287316862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b58bc69bb2c640800000000000000
+      internalID: 5098843984470849128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131add5b04c4bb40800000000000000
+      internalID: 5455200601750770462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1fee2d27f125b0800000000000000
+      internalID: -5394759105180132700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6939b37d46ef50800000000000000
+      internalID: 6910295837670730826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_132
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6181b14a26e6880800000000000000
+      internalID: -8615840580144458062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_134
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 289
+        width: 18
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4999983, y: 0.23747559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283c179ec4ab9c50800000000000000
+      internalID: 6673108480084949024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_137
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 282
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043760d61697fdcb0800000000000000
+      internalID: -4837014015424695488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0599fd64521a696d0800000000000000
+      internalID: -2984020521611454128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9773ee64eb5673e0800000000000000
+      internalID: -2056355143176980580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb237b71aff37610800000000000000
+      internalID: 1617917760182103007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5a8209b4e22380800000000000000
+      internalID: -8997377622270125517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bc777559d1f3e60800000000000000
+      internalID: 7944100794959645553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1c6d83f7d32a10800000000000000
+      internalID: 1883586510220697269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59174efaec3819d60800000000000000
+      internalID: 7895236545494675861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_145
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2c0291ea3e37750800000000000000
+      internalID: 6301630640506847936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4c392a02983d020800000000000000
+      internalID: 2365385002559194346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_147
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c969a63e95ff40cf0800000000000000
+      internalID: -286823714712283492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_149
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 266
+        width: 18
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4861094, y: 0.19997558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec4cef8c2e84050800000000000000
+      internalID: 5785123074253049470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d49d847f4479e40800000000000000
+      internalID: 5663070885311499604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fbc9882c4028d20800000000000000
+      internalID: 3279188712241282923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f72ffc1f9c2d5a80800000000000000
+      internalID: -8476569861743499275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c0aa290527b010800000000000000
+      internalID: 1204472146645009837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f6f067f92c12440800000000000000
+      internalID: 4909419058946862972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc5ad9b23003af0800000000000000
+      internalID: -418831279482090377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_159
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aff84743812e8120800000000000000
+      internalID: 2417906897664933795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_160
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d346b8638f60b0800000000000000
+      internalID: -5733219314861614618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_161
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 128
+        width: 15
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48536783, y: 0.061505564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b09a36bd6159060800000000000000
+      internalID: 6959493930696641364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6746c4d6ade9e0800000000000000
+      internalID: -1590431660602070000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdbca75e4a6d8ef0800000000000000
+      internalID: -104310331648721460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c87c46059590f10800000000000000
+      internalID: 2236416891789216921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff711788fdaddf60800000000000000
+      internalID: 8060790190992621567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811be01bc6d250530800000000000000
+      internalID: 3820509803743981848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187989d73fd7bad70800000000000000
+      internalID: 9055469960496191361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce295ca0eff2790800000000000000
+      internalID: -7552538727859164128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478afde35f4016190800000000000000
+      internalID: -7971084414100723596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce9751151faa2f90800000000000000
+      internalID: -6977572167637033272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246add46c131cc60800000000000000
+      internalID: 7836599554380817444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_179
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb24db697afb59b0800000000000000
+      internalID: -5090199554405159991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d955ec0fe6d0470800000000000000
+      internalID: 8362462063629802768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930a847667bc1aa0800000000000000
+      internalID: -6188870137244154979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556703b81667a0eb0800000000000000
+      internalID: -4752856295417022891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b7f29f611999d0800000000000000
+      internalID: -2767161325137708631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ntk-tiles_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6729e4d7ea6161ff0800000000000000
+      internalID: -65840205867871626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1940 @@
+fileFormatVersion: 2
+guid: bb6c75e4eb092164aa56a1d172ab65b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7175700308538244151
+    second: strahov tiles_0
+  - first:
+      213: 5929303897017468320
+    second: strahov tiles_1
+  - first:
+      213: -5431291024129693294
+    second: strahov tiles_2
+  - first:
+      213: 6788925062630424805
+    second: strahov tiles_3
+  - first:
+      213: -3309837598847781766
+    second: strahov tiles_4
+  - first:
+      213: -5224246375313866595
+    second: strahov tiles_5
+  - first:
+      213: 3866774957272840766
+    second: strahov tiles_6
+  - first:
+      213: -1320742016231198886
+    second: strahov tiles_7
+  - first:
+      213: -7858596733181097193
+    second: strahov tiles_8
+  - first:
+      213: -4724048667748072666
+    second: strahov tiles_9
+  - first:
+      213: -1961328695819738518
+    second: strahov tiles_10
+  - first:
+      213: -7106641382365862654
+    second: strahov tiles_11
+  - first:
+      213: 869132570127491986
+    second: strahov tiles_12
+  - first:
+      213: -712363933707526312
+    second: strahov tiles_13
+  - first:
+      213: -5368075121470316933
+    second: strahov tiles_14
+  - first:
+      213: 1097460480817329616
+    second: strahov tiles_15
+  - first:
+      213: 6143947563555742713
+    second: strahov tiles_16
+  - first:
+      213: -4771170235796079293
+    second: strahov tiles_17
+  - first:
+      213: 7473891619531491632
+    second: strahov tiles_18
+  - first:
+      213: -4411229968314475022
+    second: strahov tiles_19
+  - first:
+      213: 6656924801758843572
+    second: strahov tiles_20
+  - first:
+      213: 3204820695793800899
+    second: strahov tiles_21
+  - first:
+      213: -7178293968527550031
+    second: strahov tiles_22
+  - first:
+      213: 4637141528664477727
+    second: strahov tiles_23
+  - first:
+      213: -3057290474517809560
+    second: strahov tiles_24
+  - first:
+      213: 4046427412358605350
+    second: strahov tiles_25
+  - first:
+      213: -1131356419591207989
+    second: strahov tiles_26
+  - first:
+      213: -6360582396943426125
+    second: strahov tiles_27
+  - first:
+      213: 9100496265899887844
+    second: strahov tiles_28
+  - first:
+      213: 4834023215233802145
+    second: strahov tiles_29
+  - first:
+      213: 6055410264273222081
+    second: strahov tiles_30
+  - first:
+      213: -8078820733643428209
+    second: strahov tiles_31
+  - first:
+      213: 2345013784244346940
+    second: strahov tiles_32
+  - first:
+      213: 8282336436704798296
+    second: strahov tiles_33
+  - first:
+      213: 4527119656954095842
+    second: strahov tiles_34
+  - first:
+      213: 3326425522713700207
+    second: strahov tiles_35
+  - first:
+      213: 6009703707033471990
+    second: strahov tiles_36
+  - first:
+      213: 2173786820944859936
+    second: strahov tiles_37
+  - first:
+      213: -6649802403636045493
+    second: strahov tiles_38
+  - first:
+      213: -3868225237780755717
+    second: strahov tiles_39
+  - first:
+      213: -7946876031249819564
+    second: strahov tiles_40
+  - first:
+      213: -9048003981286045523
+    second: strahov tiles_41
+  - first:
+      213: -18099157548333492
+    second: strahov tiles_42
+  - first:
+      213: 7720663991766353922
+    second: strahov tiles_43
+  - first:
+      213: 2876193111564878833
+    second: strahov tiles_44
+  - first:
+      213: -5036297089780593081
+    second: strahov tiles_45
+  - first:
+      213: -5139414905530845824
+    second: strahov tiles_46
+  - first:
+      213: -3057369067981104045
+    second: strahov tiles_47
+  - first:
+      213: 7048164973259351030
+    second: strahov tiles_48
+  - first:
+      213: -8780722438398546477
+    second: strahov tiles_49
+  - first:
+      213: -3662040677635920914
+    second: strahov tiles_50
+  - first:
+      213: 4483217070269601289
+    second: strahov tiles_51
+  - first:
+      213: 9176814132554911959
+    second: strahov tiles_52
+  - first:
+      213: 7298086103967447479
+    second: strahov tiles_53
+  - first:
+      213: 8678507408993623440
+    second: strahov tiles_54
+  - first:
+      213: -8542244851705703377
+    second: strahov tiles_55
+  - first:
+      213: -3057220479700078042
+    second: strahov tiles_56
+  - first:
+      213: 3028933871259116780
+    second: strahov tiles_57
+  - first:
+      213: -1582015163194492553
+    second: strahov tiles_58
+  - first:
+      213: -7390948997824785489
+    second: strahov tiles_59
+  - first:
+      213: 2872834696401042192
+    second: strahov tiles_60
+  - first:
+      213: 991264207550141242
+    second: strahov tiles_61
+  - first:
+      213: -2605110461655143394
+    second: strahov tiles_62
+  - first:
+      213: -5908215745625888446
+    second: strahov tiles_63
+  - first:
+      213: 1293181789272936237
+    second: strahov tiles_64
+  - first:
+      213: 3972353362783790962
+    second: strahov tiles_65
+  - first:
+      213: 7770127353720262567
+    second: strahov tiles_66
+  - first:
+      213: -6878590781166513105
+    second: strahov tiles_67
+  - first:
+      213: -9006908010491928552
+    second: strahov tiles_68
+  - first:
+      213: 2271074683573861616
+    second: strahov tiles_69
+  - first:
+      213: 7992624844397391364
+    second: strahov tiles_70
+  - first:
+      213: -1363592904856391858
+    second: strahov tiles_71
+  - first:
+      213: 3496717386084432342
+    second: strahov tiles_72
+  - first:
+      213: -8841493920161126614
+    second: strahov tiles_73
+  - first:
+      213: 6213000513567116085
+    second: strahov tiles_74
+  - first:
+      213: 7709284950600759401
+    second: strahov tiles_75
+  - first:
+      213: -5834815469804904634
+    second: strahov tiles_76
+  - first:
+      213: -7809049615881621008
+    second: strahov tiles_77
+  - first:
+      213: 549490580748428433
+    second: strahov tiles_78
+  - first:
+      213: -6971613475631740380
+    second: strahov tiles_79
+  - first:
+      213: 8584778643462337458
+    second: strahov tiles_80
+  - first:
+      213: -8427787187674529831
+    second: strahov tiles_81
+  - first:
+      213: 8990139649279059660
+    second: strahov tiles_82
+  - first:
+      213: -7685514708355755230
+    second: strahov tiles_83
+  - first:
+      213: 2615302531771045523
+    second: strahov tiles_84
+  - first:
+      213: -7256600069347082090
+    second: strahov tiles_85
+  - first:
+      213: 6202250042119110949
+    second: strahov tiles_86
+  - first:
+      213: -861578809382083801
+    second: strahov tiles_87
+  - first:
+      213: 7641537308916422775
+    second: strahov tiles_88
+  - first:
+      213: -4968080661628539650
+    second: strahov tiles_89
+  - first:
+      213: -3101206816282347917
+    second: strahov tiles_90
+  - first:
+      213: 7695057755909096360
+    second: strahov tiles_91
+  - first:
+      213: -3171760684423093907
+    second: strahov tiles_92
+  - first:
+      213: -5444793135337942655
+    second: strahov tiles_93
+  - first:
+      213: -6441714147265394658
+    second: strahov tiles_94
+  - first:
+      213: 8567503492167917327
+    second: strahov tiles_95
+  - first:
+      213: 827533952528058869
+    second: strahov tiles_96
+  - first:
+      213: -3520781829914574137
+    second: strahov tiles_97
+  - first:
+      213: 3169686834585743126
+    second: strahov tiles_98
+  - first:
+      213: -7450070428054801899
+    second: strahov tiles_99
+  - first:
+      213: 136087947789511053
+    second: strahov tiles_100
+  - first:
+      213: 2865990004965663633
+    second: strahov tiles_101
+  - first:
+      213: 7875047816463970853
+    second: strahov tiles_102
+  - first:
+      213: 8561369935207932209
+    second: strahov tiles_103
+  - first:
+      213: 6334170879092282881
+    second: strahov tiles_104
+  - first:
+      213: 1153088502485458384
+    second: strahov tiles_105
+  - first:
+      213: 6659318216817381131
+    second: strahov tiles_106
+  - first:
+      213: 8024150071922137044
+    second: strahov tiles_107
+  - first:
+      213: -8914349066219212015
+    second: strahov tiles_108
+  - first:
+      213: 7180023812712272565
+    second: strahov tiles_109
+  - first:
+      213: -3469141435836017283
+    second: strahov tiles_110
+  - first:
+      213: 52647802577387386
+    second: strahov tiles_111
+  - first:
+      213: 4559397636876556918
+    second: strahov tiles_112
+  - first:
+      213: 8674618253422458473
+    second: strahov tiles_113
+  - first:
+      213: -8292304704079487508
+    second: strahov tiles_114
+  - first:
+      213: 3321316048625908234
+    second: strahov tiles_115
+  - first:
+      213: 661453022447330325
+    second: strahov tiles_116
+  - first:
+      213: -3586059925692554198
+    second: strahov tiles_117
+  - first:
+      213: -461058742407561281
+    second: strahov tiles_118
+  - first:
+      213: 1350827529736317580
+    second: strahov tiles_119
+  - first:
+      213: -7817682546213531536
+    second: strahov tiles_120
+  - first:
+      213: 8043946364704986067
+    second: strahov tiles_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strahov tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c35118965359360800000000000000
+      internalID: 7175700308538244151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c013ca7e194250800000000000000
+      internalID: 5929303897017468320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996bfaf69d20a4b0800000000000000
+      internalID: -5431291024129693294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e045dc006b173e50800000000000000
+      internalID: 6788925062630424805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7432787d381112d0800000000000000
+      internalID: -3309837598847781766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623083904cec07eb0800000000000000
+      internalID: -4724048667748072666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6262e551f5f7c4e0800000000000000
+      internalID: -1961328695819738518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205edf9b053206d90800000000000000
+      internalID: -7106641382365862654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293eb29b777cf0c00800000000000000
+      internalID: 869132570127491986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 519
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.51661026, y: 0.112453885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e56294e14c085b0800000000000000
+      internalID: -5368075121470316933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d575222e76fa3f00800000000000000
+      internalID: 1097460480817329616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ed5cc1cfa34550800000000000000
+      internalID: 6143947563555742713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d357403f569cdb0800000000000000
+      internalID: -4771170235796079293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03981ff54d898b760800000000000000
+      internalID: 7473891619531491632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91698faa3916c90800000000000000
+      internalID: -7178293968527550031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101245d6af6a5040800000000000000
+      internalID: 4637141528664477727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8663e2bf2825295d0800000000000000
+      internalID: -3057290474517809560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa90bea4cc72830800000000000000
+      internalID: 4046427412358605350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc388ef945d9c40f0800000000000000
+      internalID: -1131356419591207989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd9591820caab7a0800000000000000
+      internalID: -6360582396943426125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306743cc992b8020800000000000000
+      internalID: 2345013784244346940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85660148b15c0f270800000000000000
+      internalID: 8282336436704798296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ef60a75f83de30800000000000000
+      internalID: 4527119656954095842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a4258366d92e20800000000000000
+      internalID: 3326425522713700207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb04174ea1c66350800000000000000
+      internalID: 6009703707033471990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02318dfa897da2e10800000000000000
+      internalID: 2173786820944859936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491cb032f727b3a0800000000000000
+      internalID: -6649802403636045493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa80e614ad415ac0800000000000000
+      internalID: -3868225237780755717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458d94b9a5607b190800000000000000
+      internalID: -7946876031249819564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8002141580f6280800000000000000
+      internalID: -9048003981286045523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46099f79e2bfbff0800000000000000
+      internalID: -18099157548333492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080263aefe452b60800000000000000
+      internalID: 7720663991766353922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f30040756a4ae720800000000000000
+      internalID: 2876193111564878833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4b44fa7a7b1ab0800000000000000
+      internalID: -5036297089780593081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857c7a8f512da8b0800000000000000
+      internalID: -5139414905530845824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906136c1c26973e30800000000000000
+      internalID: 4483217070269601289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d058bc25d79a5f70800000000000000
+      internalID: 9176814132554911959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b13705a2084560800000000000000
+      internalID: 7298086103967447479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d19adf180407870800000000000000
+      internalID: 8678507408993623440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f241cade099d37980800000000000000
+      internalID: -8542244851705703377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227d6beb229295d0800000000000000
+      internalID: -3057220479700078042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce46c84de4fe80a20800000000000000
+      internalID: 3028933871259116780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b288479d8b0ae0800000000000000
+      internalID: -1582015163194492553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3df9f9b031e6990800000000000000
+      internalID: -7390948997824785489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb6697feb5ed720800000000000000
+      internalID: 2872834696401042192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d5997b8da1cd00800000000000000
+      internalID: 991264207550141242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c246c66d9c8dbd0800000000000000
+      internalID: -2605110461655143394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2496999151dc10ea0800000000000000
+      internalID: -5908215745625888446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0e9b5cfd42f110800000000000000
+      internalID: 1293181789272936237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2776e074652a02730800000000000000
+      internalID: 3972353362783790962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_66
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afca0a09a905db60800000000000000
+      internalID: 7770127353720262567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc7dcc546a748f10800000000000000
+      internalID: 2271074683573861616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9be7dafe5d68030800000000000000
+      internalID: 3496717386084432342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272505bf14bc4580800000000000000
+      internalID: -8841493920161126614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3beee21b2432770800000000000000
+      internalID: 8584778643462337458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df3214843c7a0b80800000000000000
+      internalID: -8427787187674529831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 341
+        width: 17
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47264367, y: 0.0507972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6ee64116463cc70800000000000000
+      internalID: 8990139649279059660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2235a64a711975590800000000000000
+      internalID: -7685514708355755230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3969462dbcb6b4420800000000000000
+      internalID: 2615302531771045523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 329
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca424d5f4dd0bb0800000000000000
+      internalID: -4968080661628539650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3831342465aca60800000000000000
+      internalID: 7695057755909096360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6169645674abf3d0800000000000000
+      internalID: -3171760684423093907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1843abdc1f6a96a0800000000000000
+      internalID: -6441714147265394658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_95
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 318
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f56969803e5e670800000000000000
+      internalID: 8567503492167917327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d718550af18b5f60800000000000000
+      internalID: 8024150071922137044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 212
+        width: 98
+        height: 85
+      alignment: 9
+      pivot: {x: 0.13969031, y: 0.33110294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f109cc6cc2d16f0800000000000000
+      internalID: -712363933707526312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_70
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 221
+        width: 148
+        height: 49
+      alignment: 9
+      pivot: {x: 0.49626654, y: 0.42670393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea44103f18bee60800000000000000
+      internalID: 7992624844397391364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_71
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 318
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4faac74a7b831de0800000000000000
+      internalID: -1363592904856391858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 461
+        width: 109
+        height: 108
+      alignment: 9
+      pivot: {x: 0.27553844, y: 0.13099642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3198c9996d1af60800000000000000
+      internalID: 8043946364704986067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov tiles_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 235
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3abf9a265b89a530800000000000000
+      internalID: 3866774957272840766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

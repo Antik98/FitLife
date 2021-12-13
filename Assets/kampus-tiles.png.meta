@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: 46adb8466c699ec4fb0e19568a502495
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3289742083462322309
+    second: kampus-tiles_0
+  - first:
+      213: 2203767471877580942
+    second: kampus-tiles_1
+  - first:
+      213: 8380186657323497150
+    second: kampus-tiles_2
+  - first:
+      213: -2681826719670267631
+    second: kampus-tiles_3
+  - first:
+      213: -7552761218185691886
+    second: kampus-tiles_4
+  - first:
+      213: 143233459658096073
+    second: kampus-tiles_5
+  - first:
+      213: -8802185033680440480
+    second: kampus-tiles_6
+  - first:
+      213: -4948897962297208698
+    second: kampus-tiles_7
+  - first:
+      213: 8697086307102975897
+    second: kampus-tiles_8
+  - first:
+      213: 8304891416936439288
+    second: kampus-tiles_9
+  - first:
+      213: -8789705948870502539
+    second: kampus-tiles_10
+  - first:
+      213: 1814010379067374462
+    second: kampus-tiles_11
+  - first:
+      213: -6170969288561094842
+    second: kampus-tiles_12
+  - first:
+      213: 8169450760345279244
+    second: kampus-tiles_13
+  - first:
+      213: -4852392749925422348
+    second: kampus-tiles_14
+  - first:
+      213: -8759633211471939171
+    second: kampus-tiles_15
+  - first:
+      213: -7203490823069415223
+    second: kampus-tiles_16
+  - first:
+      213: -5187122467920374858
+    second: kampus-tiles_17
+  - first:
+      213: -1768089041361347299
+    second: kampus-tiles_18
+  - first:
+      213: 6373476571109648230
+    second: kampus-tiles_19
+  - first:
+      213: 5182084796689515862
+    second: kampus-tiles_20
+  - first:
+      213: -3943829166688927045
+    second: kampus-tiles_21
+  - first:
+      213: 75047540952940192
+    second: kampus-tiles_22
+  - first:
+      213: 7252920071020393972
+    second: kampus-tiles_23
+  - first:
+      213: -8350387205376919305
+    second: kampus-tiles_24
+  - first:
+      213: -5674661557713823392
+    second: kampus-tiles_25
+  - first:
+      213: -2609971595392335135
+    second: kampus-tiles_26
+  - first:
+      213: -3232139013050690527
+    second: kampus-tiles_27
+  - first:
+      213: 1481804654344227404
+    second: kampus-tiles_28
+  - first:
+      213: 8231730379986242998
+    second: kampus-tiles_29
+  - first:
+      213: 3297416304021878783
+    second: kampus-tiles_30
+  - first:
+      213: 155732629779073023
+    second: kampus-tiles_31
+  - first:
+      213: 3868672041135254111
+    second: kampus-tiles_32
+  - first:
+      213: 1591790690214541965
+    second: kampus-tiles_33
+  - first:
+      213: -5150882778140443874
+    second: kampus-tiles_34
+  - first:
+      213: -1134882415025527053
+    second: kampus-tiles_35
+  - first:
+      213: 391159733307369072
+    second: kampus-tiles_36
+  - first:
+      213: 6614916846060561982
+    second: kampus-tiles_37
+  - first:
+      213: -1759173023515023119
+    second: kampus-tiles_38
+  - first:
+      213: 3826414867041451313
+    second: kampus-tiles_39
+  - first:
+      213: 745949917219722864
+    second: kampus-tiles_40
+  - first:
+      213: -2096338511803185351
+    second: kampus-tiles_41
+  - first:
+      213: 5909520599046867159
+    second: kampus-tiles_42
+  - first:
+      213: -1462954071496982823
+    second: kampus-tiles_43
+  - first:
+      213: -2222015409293968338
+    second: kampus-tiles_44
+  - first:
+      213: -4584840150972786222
+    second: kampus-tiles_45
+  - first:
+      213: 2831370579606738332
+    second: kampus-tiles_46
+  - first:
+      213: 7469571195188911499
+    second: kampus-tiles_47
+  - first:
+      213: -278723829033883441
+    second: kampus-tiles_48
+  - first:
+      213: -1144224752944200388
+    second: kampus-tiles_49
+  - first:
+      213: 7405422349806062043
+    second: kampus-tiles_50
+  - first:
+      213: 8566183327046856622
+    second: kampus-tiles_51
+  - first:
+      213: 5975118991217496144
+    second: kampus-tiles_52
+  - first:
+      213: 3394400268166568406
+    second: kampus-tiles_53
+  - first:
+      213: 8437036612807849422
+    second: kampus-tiles_54
+  - first:
+      213: 8962766176773118193
+    second: kampus-tiles_55
+  - first:
+      213: -161349730360494267
+    second: kampus-tiles_56
+  - first:
+      213: 5686499051599547142
+    second: kampus-tiles_57
+  - first:
+      213: -9111787584772369936
+    second: kampus-tiles_58
+  - first:
+      213: -1435445535329904072
+    second: kampus-tiles_59
+  - first:
+      213: 3130206277246121352
+    second: kampus-tiles_60
+  - first:
+      213: 3439574749556960031
+    second: kampus-tiles_61
+  - first:
+      213: -4342546907589425472
+    second: kampus-tiles_62
+  - first:
+      213: 3103557449905850095
+    second: kampus-tiles_63
+  - first:
+      213: 7429461926032189633
+    second: kampus-tiles_64
+  - first:
+      213: -2830025167235912750
+    second: kampus-tiles_65
+  - first:
+      213: 1377470606922519863
+    second: kampus-tiles_66
+  - first:
+      213: -7422422244918109536
+    second: kampus-tiles_67
+  - first:
+      213: -5825206285966070651
+    second: kampus-tiles_68
+  - first:
+      213: 977858448644174232
+    second: kampus-tiles_69
+  - first:
+      213: 1856630634082511310
+    second: kampus-tiles_70
+  - first:
+      213: 920484446800356228
+    second: kampus-tiles_71
+  - first:
+      213: 8102909762203461213
+    second: kampus-tiles_72
+  - first:
+      213: -2233428315111441577
+    second: kampus-tiles_73
+  - first:
+      213: 792647063850660609
+    second: kampus-tiles_74
+  - first:
+      213: -1191941463162440736
+    second: kampus-tiles_75
+  - first:
+      213: 3704857158473112478
+    second: kampus-tiles_76
+  - first:
+      213: 484388077296522314
+    second: kampus-tiles_77
+  - first:
+      213: 7398727077922763353
+    second: kampus-tiles_78
+  - first:
+      213: -7104130388163222720
+    second: kampus-tiles_79
+  - first:
+      213: 8107289667299912509
+    second: kampus-tiles_80
+  - first:
+      213: -7079933221589679559
+    second: kampus-tiles_81
+  - first:
+      213: 7545959028069953826
+    second: kampus-tiles_82
+  - first:
+      213: 7592210213882185441
+    second: kampus-tiles_83
+  - first:
+      213: 6758112713463582045
+    second: kampus-tiles_84
+  - first:
+      213: -3469077752417376053
+    second: kampus-tiles_85
+  - first:
+      213: 8524191004992135277
+    second: kampus-tiles_86
+  - first:
+      213: -2396771994950551444
+    second: kampus-tiles_87
+  - first:
+      213: -1830163562761443033
+    second: kampus-tiles_88
+  - first:
+      213: 6423453079136981490
+    second: kampus-tiles_89
+  - first:
+      213: 4593951472138535730
+    second: kampus-tiles_90
+  - first:
+      213: 2571328335952397627
+    second: kampus-tiles_91
+  - first:
+      213: 3510593707514416563
+    second: kampus-tiles_92
+  - first:
+      213: 8014055177581506656
+    second: kampus-tiles_93
+  - first:
+      213: 4165904413162226457
+    second: kampus-tiles_94
+  - first:
+      213: 6950171039987752255
+    second: kampus-tiles_95
+  - first:
+      213: 2611484654849142716
+    second: kampus-tiles_96
+  - first:
+      213: 3790232394666495657
+    second: kampus-tiles_97
+  - first:
+      213: -4719185129248190642
+    second: kampus-tiles_98
+  - first:
+      213: -3330075330412501011
+    second: kampus-tiles_99
+  - first:
+      213: -8490633377481069683
+    second: kampus-tiles_100
+  - first:
+      213: -2358940804236078493
+    second: kampus-tiles_101
+  - first:
+      213: -547628714664073884
+    second: kampus-tiles_102
+  - first:
+      213: 9200317779078163056
+    second: kampus-tiles_103
+  - first:
+      213: 5658742279001617668
+    second: kampus-tiles_104
+  - first:
+      213: 4632729540212264992
+    second: kampus-tiles_105
+  - first:
+      213: 3185138461846359968
+    second: kampus-tiles_106
+  - first:
+      213: 5827154221557514549
+    second: kampus-tiles_107
+  - first:
+      213: 2533346855001300548
+    second: kampus-tiles_108
+  - first:
+      213: 8662307165070501751
+    second: kampus-tiles_109
+  - first:
+      213: 7973207335652977096
+    second: kampus-tiles_110
+  - first:
+      213: -1857580691671342945
+    second: kampus-tiles_111
+  - first:
+      213: -5405258846183014788
+    second: kampus-tiles_112
+  - first:
+      213: 7169084293587451836
+    second: kampus-tiles_113
+  - first:
+      213: -3688585813666749167
+    second: kampus-tiles_114
+  - first:
+      213: -8778946179837683286
+    second: kampus-tiles_115
+  - first:
+      213: 1103180744323253514
+    second: kampus-tiles_116
+  - first:
+      213: 7627744424648931718
+    second: kampus-tiles_117
+  - first:
+      213: -1132985486147532711
+    second: kampus-tiles_118
+  - first:
+      213: -3741159522897997413
+    second: kampus-tiles_119
+  - first:
+      213: 2801108211245848858
+    second: kampus-tiles_120
+  - first:
+      213: -8090590402789727665
+    second: kampus-tiles_121
+  - first:
+      213: 3627458794327525191
+    second: kampus-tiles_122
+  - first:
+      213: 7324914389120860021
+    second: kampus-tiles_123
+  - first:
+      213: -1461014391167786626
+    second: kampus-tiles_124
+  - first:
+      213: 4594054632514548621
+    second: kampus-tiles_125
+  - first:
+      213: 4563682964925244643
+    second: kampus-tiles_126
+  - first:
+      213: 2355032114116587897
+    second: kampus-tiles_127
+  - first:
+      213: 2643157957221636808
+    second: kampus-tiles_128
+  - first:
+      213: -5553434032431186268
+    second: kampus-tiles_129
+  - first:
+      213: 636708560981299975
+    second: kampus-tiles_15
+  - first:
+      213: 3592029138921117208
+    second: kampus-tiles_17
+  - first:
+      213: -872817345864753484
+    second: kampus-tiles_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kampus-tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588dc6fbef287ad20800000000000000
+      internalID: 3289742083462322309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e2d0f6da559e10800000000000000
+      internalID: 2203767471877580942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb63c3d5d576c4470800000000000000
+      internalID: 8380186657323497150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11117e0becc38cad0800000000000000
+      internalID: -2681826719670267631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df1b430b33f2790800000000000000
+      internalID: -7552761218185691886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680de9f068bf15bb0800000000000000
+      internalID: -4948897962297208698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99769cbcae142b870800000000000000
+      internalID: 8697086307102975897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fddfa41eb6e04370800000000000000
+      internalID: 8304891416936439288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5779f656201b40680800000000000000
+      internalID: -8789705948870502539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbe2724d8ac2910800000000000000
+      internalID: 1814010379067374462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f887390205c5aa0800000000000000
+      internalID: -6170969288561094842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bdc64de28bf5170800000000000000
+      internalID: 8169450760345279244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa306c086d8acb0800000000000000
+      internalID: -4852392749925422348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e34d5c23237850800000000000000
+      internalID: 6373476571109648230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65581aeaaa67ae740800000000000000
+      internalID: 5182084796689515862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28ea8a444b449c0800000000000000
+      internalID: -3943829166688927045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae34c3475f9a0100800000000000000
+      internalID: 75047540952940192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b871806c87a460800000000000000
+      internalID: 7252920071020393972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ba8634177d1c80800000000000000
+      internalID: -8350387205376919305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06917eff06d8f31b0800000000000000
+      internalID: -5674661557713823392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf24167636488b0800000000000000
+      internalID: -5150882778140443874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e096d4761040f0800000000000000
+      internalID: -1134882415025527053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e83a74bdad6500800000000000000
+      internalID: 391159733307369072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ef2cf2d7eccb50800000000000000
+      internalID: 6614916846060561982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8efe2a4792697e0800000000000000
+      internalID: -1759173023515023119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d77416c082a1530800000000000000
+      internalID: 3826414867041451313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761d1c5f752a5a00800000000000000
+      internalID: 745949917219722864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_54
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 428
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec570671910661570800000000000000
+      internalID: 8437036612807849422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e2225e820c4670800000000000000
+      internalID: 8524191004992135277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683e59b194fcbed0800000000000000
+      internalID: -2396771994950551444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 286
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729adb0bfe3f996e0800000000000000
+      internalID: -1830163562761443033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfaaa4157bdd3420800000000000000
+      internalID: 2611484654849142716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae464c084c999430800000000000000
+      internalID: 3790232394666495657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0bd5d026128eb0800000000000000
+      internalID: -4719185129248190642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_99
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 265
+        width: 13
+        height: 79
+      alignment: 9
+      pivot: {x: 0.48837516, y: 0.031312965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a877612239c1d0800000000000000
+      internalID: -3330075330412501011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e4a1e59e6668f0800000000000000
+      internalID: -547628714664073884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2aa256481eaf70800000000000000
+      internalID: 9200317779078163056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40530671f14e78e40800000000000000
+      internalID: 5658742279001617668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209fc8b8f2ca4040800000000000000
+      internalID: 4632729540212264992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af49c23e82e33c20800000000000000
+      internalID: 3185138461846359968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318a5314e53ed050800000000000000
+      internalID: 5827154221557514549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e9439da81482320800000000000000
+      internalID: 2533346855001300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772955c872b63870800000000000000
+      internalID: 8662307165070501751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c96222f3d586ae60800000000000000
+      internalID: 7973207335652977096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f902e4be33c8836e0800000000000000
+      internalID: -1857580691671342945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e393ab7b9acf4b0800000000000000
+      internalID: -5405258846183014788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfbc1c7e24bd7360800000000000000
+      internalID: 7169084293587451836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11529d4deb28fccc0800000000000000
+      internalID: -3688585813666749167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9908856faea2680800000000000000
+      internalID: -8778946179837683286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a054074ca094f4f00800000000000000
+      internalID: 1103180744323253514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897aa404213bd960800000000000000
+      internalID: 7627744424648931718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c08204b3d640f0800000000000000
+      internalID: -1132985486147532711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9158954c3bb41cc0800000000000000
+      internalID: -3741159522897997413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 62
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a191db4c3198fd620800000000000000
+      internalID: 2801108211245848858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a88af4e278bf80800000000000000
+      internalID: -8090590402789727665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474249ed82575230800000000000000
+      internalID: 3627458794327525191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f32bde3d257a560800000000000000
+      internalID: 7324914389120860021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e5bae62f69bbe0800000000000000
+      internalID: -1461014391167786626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8374c1195c51cf30800000000000000
+      internalID: 4594054632514548621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4eed72a75755f30800000000000000
+      internalID: 4563682964925244643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9717e84fa31cea020800000000000000
+      internalID: 2355032114116587897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 30
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca517578226ea420800000000000000
+      internalID: 2643157957221636808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 401
+        width: 129
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49343434, y: 0.20241183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039db2101b06d800800000000000000
+      internalID: 636708560981299975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 381
+        width: 37
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52726704, y: 0.7768238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8492c134f080c90800000000000000
+      internalID: -7203490823069415223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 499
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49999946, y: 0.13931614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816de30787379d130800000000000000
+      internalID: 3592029138921117208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 543
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9ee19f3123e3f0800000000000000
+      internalID: -872817345864753484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 452
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b73c095b58d580800000000000000
+      internalID: -8802185033680440480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 384
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d5566726c7677e0800000000000000
+      internalID: -1768089041361347299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.49788538, y: 0.19148137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c7c689a487cbd0800000000000000
+      internalID: -2609971595392335135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kampus-tiles_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 240
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1249e6631b22523d0800000000000000
+      internalID: -3232139013050690527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

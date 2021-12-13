@@ -1,0 +1,3965 @@
+fileFormatVersion: 2
+guid: 8d9585f4c0ae0bb479c53b85aedfd1e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8477471378097525444
+    second: pub 2nd floor - tiles_0
+  - first:
+      213: 5777154510082547620
+    second: pub 2nd floor - tiles_1
+  - first:
+      213: -1651281491396527109
+    second: pub 2nd floor - tiles_2
+  - first:
+      213: 5363832813235173415
+    second: pub 2nd floor - tiles_3
+  - first:
+      213: -4223004607496389391
+    second: pub 2nd floor - tiles_4
+  - first:
+      213: 8759268503029355162
+    second: pub 2nd floor - tiles_5
+  - first:
+      213: 6700960457506711559
+    second: pub 2nd floor - tiles_6
+  - first:
+      213: -2891961938900710110
+    second: pub 2nd floor - tiles_7
+  - first:
+      213: 1534807783423661846
+    second: pub 2nd floor - tiles_8
+  - first:
+      213: 9188366973834498361
+    second: pub 2nd floor - tiles_9
+  - first:
+      213: -3866173467606001859
+    second: pub 2nd floor - tiles_10
+  - first:
+      213: -7168171157708938241
+    second: pub 2nd floor - tiles_11
+  - first:
+      213: -36425054431123806
+    second: pub 2nd floor - tiles_12
+  - first:
+      213: -6671795532438050450
+    second: pub 2nd floor - tiles_13
+  - first:
+      213: -7224224956212976541
+    second: pub 2nd floor - tiles_14
+  - first:
+      213: 93870938497737968
+    second: pub 2nd floor - tiles_15
+  - first:
+      213: 2132677068300824189
+    second: pub 2nd floor - tiles_16
+  - first:
+      213: -5975030775276077837
+    second: pub 2nd floor - tiles_17
+  - first:
+      213: -8077973984556108500
+    second: pub 2nd floor - tiles_18
+  - first:
+      213: -203589055292515603
+    second: pub 2nd floor - tiles_19
+  - first:
+      213: 5357191257639260843
+    second: pub 2nd floor - tiles_20
+  - first:
+      213: 236270174350147206
+    second: pub 2nd floor - tiles_21
+  - first:
+      213: 994665084026591020
+    second: pub 2nd floor - tiles_22
+  - first:
+      213: -3282490216098905563
+    second: pub 2nd floor - tiles_23
+  - first:
+      213: 4623108111216202519
+    second: pub 2nd floor - tiles_24
+  - first:
+      213: 2006467296362295676
+    second: pub 2nd floor - tiles_25
+  - first:
+      213: -3648095076577064316
+    second: pub 2nd floor - tiles_26
+  - first:
+      213: 999939639580421963
+    second: pub 2nd floor - tiles_27
+  - first:
+      213: 8493221992099624518
+    second: pub 2nd floor - tiles_28
+  - first:
+      213: -6368654165161518168
+    second: pub 2nd floor - tiles_29
+  - first:
+      213: 3387132016497600889
+    second: pub 2nd floor - tiles_30
+  - first:
+      213: -8703401524374984870
+    second: pub 2nd floor - tiles_31
+  - first:
+      213: 8373951866257164109
+    second: pub 2nd floor - tiles_32
+  - first:
+      213: 6673774951357281407
+    second: pub 2nd floor - tiles_33
+  - first:
+      213: 3953674918413111345
+    second: pub 2nd floor - tiles_34
+  - first:
+      213: -2858126289528827526
+    second: pub 2nd floor - tiles_35
+  - first:
+      213: -1274470188436347144
+    second: pub 2nd floor - tiles_36
+  - first:
+      213: -963256854786722994
+    second: pub 2nd floor - tiles_37
+  - first:
+      213: 522307352532917794
+    second: pub 2nd floor - tiles_38
+  - first:
+      213: 3070105939932387950
+    second: pub 2nd floor - tiles_39
+  - first:
+      213: 242587773180544724
+    second: pub 2nd floor - tiles_40
+  - first:
+      213: -6227465251287925190
+    second: pub 2nd floor - tiles_41
+  - first:
+      213: 1646089578775736001
+    second: pub 2nd floor - tiles_42
+  - first:
+      213: 4561720338819128527
+    second: pub 2nd floor - tiles_43
+  - first:
+      213: 3988655230110689162
+    second: pub 2nd floor - tiles_44
+  - first:
+      213: 4006822812499532764
+    second: pub 2nd floor - tiles_45
+  - first:
+      213: -7984445084628207146
+    second: pub 2nd floor - tiles_46
+  - first:
+      213: -2728409965940299091
+    second: pub 2nd floor - tiles_47
+  - first:
+      213: 7652895352357389857
+    second: pub 2nd floor - tiles_48
+  - first:
+      213: -2251404515521530860
+    second: pub 2nd floor - tiles_49
+  - first:
+      213: 342614895111001817
+    second: pub 2nd floor - tiles_50
+  - first:
+      213: 3290089965287787258
+    second: pub 2nd floor - tiles_51
+  - first:
+      213: 4872366969325283678
+    second: pub 2nd floor - tiles_52
+  - first:
+      213: 3156464994381606229
+    second: pub 2nd floor - tiles_53
+  - first:
+      213: 8620410097734171725
+    second: pub 2nd floor - tiles_54
+  - first:
+      213: 5556048511112797469
+    second: pub 2nd floor - tiles_55
+  - first:
+      213: -8100124957899054478
+    second: pub 2nd floor - tiles_56
+  - first:
+      213: -7261588282395752110
+    second: pub 2nd floor - tiles_57
+  - first:
+      213: -8771769066675423761
+    second: pub 2nd floor - tiles_58
+  - first:
+      213: 4922027444266915440
+    second: pub 2nd floor - tiles_59
+  - first:
+      213: -1760545666351219083
+    second: pub 2nd floor - tiles_60
+  - first:
+      213: -3352740317021089523
+    second: pub 2nd floor - tiles_61
+  - first:
+      213: 2903285196281173833
+    second: pub 2nd floor - tiles_62
+  - first:
+      213: -2783846251309024135
+    second: pub 2nd floor - tiles_63
+  - first:
+      213: 9100311846120161761
+    second: pub 2nd floor - tiles_64
+  - first:
+      213: -828678327511454603
+    second: pub 2nd floor - tiles_65
+  - first:
+      213: 172848093613350070
+    second: pub 2nd floor - tiles_66
+  - first:
+      213: -1459399148192665154
+    second: pub 2nd floor - tiles_67
+  - first:
+      213: -5626688996862757610
+    second: pub 2nd floor - tiles_68
+  - first:
+      213: 1346823586339362703
+    second: pub 2nd floor - tiles_69
+  - first:
+      213: -781758160863986403
+    second: pub 2nd floor - tiles_70
+  - first:
+      213: -2219943863383607315
+    second: pub 2nd floor - tiles_71
+  - first:
+      213: 1218712586270328049
+    second: pub 2nd floor - tiles_72
+  - first:
+      213: 3778653133733727682
+    second: pub 2nd floor - tiles_73
+  - first:
+      213: 7552891507074168045
+    second: pub 2nd floor - tiles_74
+  - first:
+      213: 6248312412544069693
+    second: pub 2nd floor - tiles_75
+  - first:
+      213: -162715572040304079
+    second: pub 2nd floor - tiles_76
+  - first:
+      213: -749285056084984319
+    second: pub 2nd floor - tiles_77
+  - first:
+      213: 4811152697512424288
+    second: pub 2nd floor - tiles_78
+  - first:
+      213: 7895434029832789185
+    second: pub 2nd floor - tiles_79
+  - first:
+      213: 3251146243201316643
+    second: pub 2nd floor - tiles_80
+  - first:
+      213: 4231464453739581169
+    second: pub 2nd floor - tiles_81
+  - first:
+      213: 8394036396675425691
+    second: pub 2nd floor - tiles_82
+  - first:
+      213: 7394593871307436765
+    second: pub 2nd floor - tiles_83
+  - first:
+      213: -8955739081644871779
+    second: pub 2nd floor - tiles_84
+  - first:
+      213: -2178568633485614680
+    second: pub 2nd floor - tiles_85
+  - first:
+      213: -5078980233000035474
+    second: pub 2nd floor - tiles_86
+  - first:
+      213: 2134906294917466660
+    second: pub 2nd floor - tiles_87
+  - first:
+      213: 8372047540949634829
+    second: pub 2nd floor - tiles_88
+  - first:
+      213: -4893924911765158563
+    second: pub 2nd floor - tiles_89
+  - first:
+      213: 1728924584006172868
+    second: pub 2nd floor - tiles_90
+  - first:
+      213: -2422254726522068913
+    second: pub 2nd floor - tiles_91
+  - first:
+      213: -862656716536934826
+    second: pub 2nd floor - tiles_92
+  - first:
+      213: -778479243733698816
+    second: pub 2nd floor - tiles_93
+  - first:
+      213: -5672039392774123452
+    second: pub 2nd floor - tiles_94
+  - first:
+      213: 253573656901052595
+    second: pub 2nd floor - tiles_95
+  - first:
+      213: -1245276721411453618
+    second: pub 2nd floor - tiles_96
+  - first:
+      213: -1909161007702627407
+    second: pub 2nd floor - tiles_97
+  - first:
+      213: 9013114649556706215
+    second: pub 2nd floor - tiles_98
+  - first:
+      213: -6646759285455955898
+    second: pub 2nd floor - tiles_99
+  - first:
+      213: 5504562273428993463
+    second: pub 2nd floor - tiles_100
+  - first:
+      213: -5709710816716968956
+    second: pub 2nd floor - tiles_101
+  - first:
+      213: 1396400801458532275
+    second: pub 2nd floor - tiles_102
+  - first:
+      213: 7080024095690313595
+    second: pub 2nd floor - tiles_103
+  - first:
+      213: 5108014348199911704
+    second: pub 2nd floor - tiles_104
+  - first:
+      213: -6986576460821410585
+    second: pub 2nd floor - tiles_105
+  - first:
+      213: 5784919837778518708
+    second: pub 2nd floor - tiles_106
+  - first:
+      213: 4269999407946929876
+    second: pub 2nd floor - tiles_107
+  - first:
+      213: -8898020399350433730
+    second: pub 2nd floor - tiles_108
+  - first:
+      213: -6741770151113137967
+    second: pub 2nd floor - tiles_109
+  - first:
+      213: -8669624447520599648
+    second: pub 2nd floor - tiles_110
+  - first:
+      213: 4225926229181896745
+    second: pub 2nd floor - tiles_111
+  - first:
+      213: 987999513939163641
+    second: pub 2nd floor - tiles_112
+  - first:
+      213: 2493608584284283385
+    second: pub 2nd floor - tiles_113
+  - first:
+      213: 721376824225320514
+    second: pub 2nd floor - tiles_114
+  - first:
+      213: -7283780748218560722
+    second: pub 2nd floor - tiles_115
+  - first:
+      213: 8957814412913367697
+    second: pub 2nd floor - tiles_116
+  - first:
+      213: 1803013408647536555
+    second: pub 2nd floor - tiles_117
+  - first:
+      213: -3806953763466143272
+    second: pub 2nd floor - tiles_118
+  - first:
+      213: -4688943229495138364
+    second: pub 2nd floor - tiles_119
+  - first:
+      213: 654563647611451041
+    second: pub 2nd floor - tiles_120
+  - first:
+      213: -2395744834915746247
+    second: pub 2nd floor - tiles_121
+  - first:
+      213: -3575772970685119717
+    second: pub 2nd floor - tiles_122
+  - first:
+      213: -4850745285147512642
+    second: pub 2nd floor - tiles_123
+  - first:
+      213: 2346601517232527767
+    second: pub 2nd floor - tiles_124
+  - first:
+      213: 830101093321466475
+    second: pub 2nd floor - tiles_125
+  - first:
+      213: 2460216105858336552
+    second: pub 2nd floor - tiles_126
+  - first:
+      213: 8418005311346677916
+    second: pub 2nd floor - tiles_127
+  - first:
+      213: 9095325015529585251
+    second: pub 2nd floor - tiles_128
+  - first:
+      213: -1982433643135273744
+    second: pub 2nd floor - tiles_129
+  - first:
+      213: -2702297348910984133
+    second: pub 2nd floor - tiles_130
+  - first:
+      213: 4618250681957073536
+    second: pub 2nd floor - tiles_131
+  - first:
+      213: 7265417688490249116
+    second: pub 2nd floor - tiles_132
+  - first:
+      213: -6644768025405208261
+    second: pub 2nd floor - tiles_133
+  - first:
+      213: -2489353618410150270
+    second: pub 2nd floor - tiles_134
+  - first:
+      213: 6851288947524322518
+    second: pub 2nd floor - tiles_135
+  - first:
+      213: 1912027354518329435
+    second: pub 2nd floor - tiles_136
+  - first:
+      213: -7408143774272065134
+    second: pub 2nd floor - tiles_137
+  - first:
+      213: 3321458999546803380
+    second: pub 2nd floor - tiles_138
+  - first:
+      213: -606912129465367325
+    second: pub 2nd floor - tiles_139
+  - first:
+      213: 1999371170396666399
+    second: pub 2nd floor - tiles_140
+  - first:
+      213: 6869573122359096606
+    second: pub 2nd floor - tiles_141
+  - first:
+      213: 7080512938431818359
+    second: pub 2nd floor - tiles_142
+  - first:
+      213: -3663994439280321238
+    second: pub 2nd floor - tiles_143
+  - first:
+      213: -4990731218518302907
+    second: pub 2nd floor - tiles_144
+  - first:
+      213: -5372190762597133328
+    second: pub 2nd floor - tiles_145
+  - first:
+      213: -850006944768924609
+    second: pub 2nd floor - tiles_146
+  - first:
+      213: -8830600680849227212
+    second: pub 2nd floor - tiles_147
+  - first:
+      213: -2480715072362319098
+    second: pub 2nd floor - tiles_148
+  - first:
+      213: -1126538863949702072
+    second: pub 2nd floor - tiles_149
+  - first:
+      213: -2253987787902894575
+    second: pub 2nd floor - tiles_150
+  - first:
+      213: -1022553572002835400
+    second: pub 2nd floor - tiles_151
+  - first:
+      213: -2591614394085617917
+    second: pub 2nd floor - tiles_152
+  - first:
+      213: 1519304541726549921
+    second: pub 2nd floor - tiles_153
+  - first:
+      213: -4231006451603753625
+    second: pub 2nd floor - tiles_154
+  - first:
+      213: -7825211817916397527
+    second: pub 2nd floor - tiles_155
+  - first:
+      213: 369845617775301211
+    second: pub 2nd floor - tiles_156
+  - first:
+      213: 247354618201149441
+    second: pub 2nd floor - tiles_157
+  - first:
+      213: 1921058407818492797
+    second: pub 2nd floor - tiles_158
+  - first:
+      213: -2549587700628819919
+    second: pub 2nd floor - tiles_159
+  - first:
+      213: -2761437016751722616
+    second: pub 2nd floor - tiles_160
+  - first:
+      213: -5465079291791679606
+    second: pub 2nd floor - tiles_161
+  - first:
+      213: -445032801612382218
+    second: pub 2nd floor - tiles_162
+  - first:
+      213: -540635267279496960
+    second: pub 2nd floor - tiles_163
+  - first:
+      213: -207413662021269629
+    second: pub 2nd floor - tiles_164
+  - first:
+      213: -1358612518581353565
+    second: pub 2nd floor - tiles_165
+  - first:
+      213: 2472687706588478912
+    second: pub 2nd floor - tiles_166
+  - first:
+      213: 7654726178108385189
+    second: pub 2nd floor - tiles_167
+  - first:
+      213: 2087920952203894840
+    second: pub 2nd floor - tiles_168
+  - first:
+      213: 4509659613412686160
+    second: pub 2nd floor - tiles_169
+  - first:
+      213: -5734112141759195820
+    second: pub 2nd floor - tiles_170
+  - first:
+      213: 2211094649999060563
+    second: pub 2nd floor - tiles_171
+  - first:
+      213: 3043693422655627814
+    second: pub 2nd floor - tiles_172
+  - first:
+      213: 6065010316151811894
+    second: pub 2nd floor - tiles_173
+  - first:
+      213: 3447235460916671655
+    second: pub 2nd floor - tiles_174
+  - first:
+      213: -199779975392745125
+    second: pub 2nd floor - tiles_175
+  - first:
+      213: -1988746617523286335
+    second: pub 2nd floor - tiles_176
+  - first:
+      213: -4843991958687085833
+    second: pub 2nd floor - tiles_177
+  - first:
+      213: -8635419690524309881
+    second: pub 2nd floor - tiles_178
+  - first:
+      213: 3184132200279192647
+    second: pub 2nd floor - tiles_179
+  - first:
+      213: 5448700156017314606
+    second: pub 2nd floor - tiles_180
+  - first:
+      213: 5452408806805450513
+    second: pub 2nd floor - tiles_181
+  - first:
+      213: 7166117513234911193
+    second: pub 2nd floor - tiles_182
+  - first:
+      213: -6699223898084806380
+    second: pub 2nd floor - tiles_183
+  - first:
+      213: 6695658954109788685
+    second: pub 2nd floor - tiles_184
+  - first:
+      213: 2100909125853947494
+    second: pub 2nd floor - tiles_185
+  - first:
+      213: -3330390666468441017
+    second: pub 2nd floor - tiles_186
+  - first:
+      213: 8941400733264848434
+    second: pub 2nd floor - tiles_187
+  - first:
+      213: -4466038032540565150
+    second: pub 2nd floor - tiles_188
+  - first:
+      213: -4800897645496966060
+    second: pub 2nd floor - tiles_189
+  - first:
+      213: 3428721329922435697
+    second: pub 2nd floor - tiles_190
+  - first:
+      213: -5606496653953667333
+    second: pub 2nd floor - tiles_191
+  - first:
+      213: 6510895147304778909
+    second: pub 2nd floor - tiles_192
+  - first:
+      213: -5925814559970422202
+    second: pub 2nd floor - tiles_193
+  - first:
+      213: -6060595042137663078
+    second: pub 2nd floor - tiles_141
+  - first:
+      213: 8707832822373146170
+    second: pub 2nd floor - tiles_142
+  - first:
+      213: 1326334967792863215
+    second: pub 2nd floor - tiles_136
+  - first:
+      213: 7494169621257562959
+    second: pub 2nd floor - tiles_137
+  - first:
+      213: -8142766147268340470
+    second: pub 2nd floor - tiles_138
+  - first:
+      213: 5916458577317254174
+    second: pub 2nd floor - tiles_139
+  - first:
+      213: -3491803227835309811
+    second: pub 2nd floor - tiles_143
+  - first:
+      213: 995404476471817268
+    second: pub 2nd floor - tiles_149
+  - first:
+      213: -6542618730820726544
+    second: pub 2nd floor - tiles_54
+  - first:
+      213: 7326624814608042605
+    second: pub 2nd floor - tiles_55
+  - first:
+      213: -7576042397002185709
+    second: pub 2nd floor - tiles_56
+  - first:
+      213: -8143802186575630822
+    second: pub 2nd floor - tiles_57
+  - first:
+      213: 6076671907003357395
+    second: pub 2nd floor - tiles_66
+  - first:
+      213: -2608989326677033025
+    second: pub 2nd floor - tiles_67
+  - first:
+      213: 2879004426728674478
+    second: pub 2nd floor - tiles_72
+  - first:
+      213: -7489914109201496442
+    second: pub 2nd floor - tiles_73
+  - first:
+      213: 9215653569164881621
+    second: pub 2nd floor - tiles_74
+  - first:
+      213: 7022210926125116401
+    second: pub 2nd floor - tiles_75
+  - first:
+      213: 3569359299075559100
+    second: pub 2nd floor - tiles_85
+  - first:
+      213: -181387081951980643
+    second: pub 2nd floor - tiles_86
+  - first:
+      213: 8430417478379866119
+    second: pub 2nd floor - tiles_89
+  - first:
+      213: -2489537797580375955
+    second: pub 2nd floor - tiles_90
+  - first:
+      213: -1206963040157206750
+    second: pub 2nd floor - tiles_91
+  - first:
+      213: -6673165693887179214
+    second: pub 2nd floor - tiles_92
+  - first:
+      213: 6441615507078339736
+    second: pub 2nd floor - tiles_102
+  - first:
+      213: 4003926182536397503
+    second: pub 2nd floor - tiles_103
+  - first:
+      213: -5178308973919833692
+    second: pub 2nd floor - tiles_104
+  - first:
+      213: -3643019498131340428
+    second: pub 2nd floor - tiles_105
+  - first:
+      213: 861561038141513892
+    second: pub 2nd floor - tiles_106
+  - first:
+      213: -7834348113211961642
+    second: pub 2nd floor - tiles_107
+  - first:
+      213: 8930137500049852477
+    second: pub 2nd floor - tiles_108
+  - first:
+      213: -9123859713117695524
+    second: pub 2nd floor - tiles_109
+  - first:
+      213: 7567782435332415828
+    second: pub 2nd floor - tiles_110
+  - first:
+      213: -7582207916843278130
+    second: pub 2nd floor - tiles_119
+  - first:
+      213: 1184326197847676957
+    second: pub 2nd floor - tiles_120
+  - first:
+      213: 6574449659217430460
+    second: pub 2nd floor - tiles_121
+  - first:
+      213: -7279587894102630126
+    second: pub 2nd floor - tiles_122
+  - first:
+      213: -3845973541652796897
+    second: pub 2nd floor - tiles_123
+  - first:
+      213: -103532858347699853
+    second: pub 2nd floor - tiles_124
+  - first:
+      213: -1598563136668632700
+    second: pub 2nd floor - tiles_125
+  - first:
+      213: 7582854940204018728
+    second: pub 2nd floor - tiles_126
+  - first:
+      213: 8672078843433043496
+    second: pub 2nd floor - tiles_127
+  - first:
+      213: 2573692645653428699
+    second: pub 2nd floor - tiles_128
+  - first:
+      213: 6086354394427631103
+    second: pub 2nd floor - tiles_129
+  - first:
+      213: -7510738479880369383
+    second: pub 2nd floor - tiles_130
+  - first:
+      213: -8858813978397893008
+    second: pub 2nd floor - tiles_131
+  - first:
+      213: 722990297419857697
+    second: pub 2nd floor - tiles_132
+  - first:
+      213: 5110824454877812661
+    second: pub 2nd floor - tiles_133
+  - first:
+      213: -4715908862247113133
+    second: pub 2nd floor - tiles_134
+  - first:
+      213: -2866281885489282760
+    second: pub 2nd floor - tiles_135
+  - first:
+      213: -3129683944532079737
+    second: pub 2nd floor - tiles_140
+  - first:
+      213: 2328897569535635447
+    second: pub 2nd floor - tiles_144
+  - first:
+      213: -5195117270559878555
+    second: pub 2nd floor - tiles_145
+  - first:
+      213: -4950060821421130779
+    second: pub 2nd floor - tiles_146
+  - first:
+      213: -917977851982046152
+    second: pub 2nd floor - tiles_147
+  - first:
+      213: 86658305127102398
+    second: pub 2nd floor - tiles_148
+  - first:
+      213: 1067736491914158045
+    second: pub 2nd floor - tiles_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25b058d4706a570800000000000000
+      internalID: 8477471378097525444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af14021b639c2050800000000000000
+      internalID: 5777154510082547620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf1218b387519e0800000000000000
+      internalID: -1651281491396527109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728777b5689207a40800000000000000
+      internalID: 5363832813235173415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcf6551fafd465c0800000000000000
+      internalID: -4223004607496389391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92155f7b4c2f8970800000000000000
+      internalID: 8759268503029355162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70860ab68089efc50800000000000000
+      internalID: 6700960457506711559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d8fd750ffadd7d0800000000000000
+      internalID: -2891961938900710110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d8791c8bbc4510800000000000000
+      internalID: 1534807783423661846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9311655a413a38f70800000000000000
+      internalID: 9188366973834498361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37dd4f07b7985ac0800000000000000
+      internalID: -3866173467606001859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ee878f4a858c90800000000000000
+      internalID: -7168171157708938241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a665b12b979e7ff0800000000000000
+      internalID: -36425054431123806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69edfadf450963a0800000000000000
+      internalID: -6671795532438050450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e96b8da56ebb90800000000000000
+      internalID: -7224224956212976541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4e3e70f1f7d4100800000000000000
+      internalID: 93870938497737968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e21b48e7ac89d10800000000000000
+      internalID: 2132677068300824189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc74adba2d641da0800000000000000
+      internalID: -5975030775276077837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25bfa1c57545ef80800000000000000
+      internalID: -8077973984556108500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead12735d4bc2df0800000000000000
+      internalID: -203589055292515603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba29a61b011985a40800000000000000
+      internalID: 5357191257639260843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef825c876674300800000000000000
+      internalID: 236270174350147206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2793ebbf92cdcd00800000000000000
+      internalID: 994665084026591020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522cab23a804272d0800000000000000
+      internalID: -3282490216098905563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d4473554982040800000000000000
+      internalID: 4623108111216202519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fc15106768db10800000000000000
+      internalID: 2006467296362295676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac5c53bdc5f5dc0800000000000000
+      internalID: -3648095076577064316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe506edcf70ed00800000000000000
+      internalID: 999939639580421963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64632ad176cfdd570800000000000000
+      internalID: 8493221992099624518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5c3487cefd97a0800000000000000
+      internalID: -6368654165161518168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97921ba8f92810f20800000000000000
+      internalID: 3387132016497600889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57290a1d6e473780800000000000000
+      internalID: -8703401524374984870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474a72fad0463470800000000000000
+      internalID: 8373951866257164109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74fc8685f20e9c50800000000000000
+      internalID: 6673774951357281407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130926d04664ed630800000000000000
+      internalID: 3953674918413111345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71dd6d5845e558d0800000000000000
+      internalID: -2858126289528827526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62d65bd1c205ee0800000000000000
+      internalID: -1274470188436347144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e433afe7ef2d1a2f0800000000000000
+      internalID: -963256854786722994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9c4315cb9f3700800000000000000
+      internalID: 522307352532917794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a9c7416153b9a20800000000000000
+      internalID: 3070105939932387950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6874f5b48dd5300800000000000000
+      internalID: 242587773180544724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef4e539599399a0800000000000000
+      internalID: -6227465251287925190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce666320c518d610800000000000000
+      internalID: 1646089578775736001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc1df7aa7c7e4f30800000000000000
+      internalID: 4561720338819128527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87604a8ccc8a5730800000000000000
+      internalID: 3988655230110689162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb57f07e181b9730800000000000000
+      internalID: 4006822812499532764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d93f1abf7d813190800000000000000
+      internalID: -7984445084628207146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa2e7a779db22ad0800000000000000
+      internalID: -2728409965940299091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1260084b6cb843a60800000000000000
+      internalID: 7652895352357389857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f0a6858761c0e0800000000000000
+      internalID: -2251404515521530860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d659dd8e6631c400800000000000000
+      internalID: 342614895111001817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59eaf591ff1e9340800000000000000
+      internalID: 4872366969325283678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d221050340ecb20800000000000000
+      internalID: 3156464994381606229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53d09328a644680800000000000000
+      internalID: -8771769066675423761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d04ee1ed8e4440800000000000000
+      internalID: 4922027444266915440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_60
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e38425b094197e0800000000000000
+      internalID: -1760545666351219083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d3dbf17ca871d0800000000000000
+      internalID: -3352740317021089523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9475df5f08a8a4820800000000000000
+      internalID: 2903285196281173833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3c69759acd59d0800000000000000
+      internalID: -2783846251309024135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_64
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18545986dca4e70800000000000000
+      internalID: 9100311846120161761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6d9f9371ff74f0800000000000000
+      internalID: -828678327511454603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61575683b2cf9e1b0800000000000000
+      internalID: -5626688996862757610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d70793813a625f0800000000000000
+      internalID: -781758160863986403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de736b961dc2131e0800000000000000
+      internalID: -2219943863383607315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13afc11ac0bedbdf0800000000000000
+      internalID: -162715572040304079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ebb8c16310a95f0800000000000000
+      internalID: -749285056084984319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_78
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f36743e5a4c240800000000000000
+      internalID: 4811152697512424288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd6b71b67329d60800000000000000
+      internalID: 7895434029832789185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3273cda68446e1d20800000000000000
+      internalID: 3251146243201316643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe07dc508e29ba30800000000000000
+      internalID: 4231464453739581169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e98711ab9d7470800000000000000
+      internalID: 8394036396675425691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd27f8d92ffde9660800000000000000
+      internalID: 7394593871307436765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f697931c2d6b380800000000000000
+      internalID: -8955739081644871779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a0d49c6f5b0ad10800000000000000
+      internalID: 2134906294917466660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007fc3c90494235f0800000000000000
+      internalID: -778479243733698816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4401da9593ed841b0800000000000000
+      internalID: -5672039392774123452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ebffb5efd48300800000000000000
+      internalID: 253573656901052595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d053d6b63e7bee0800000000000000
+      internalID: -1245276721411453618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbabdcbd2c4185e0800000000000000
+      internalID: -1909161007702627407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a362be2504051d70800000000000000
+      internalID: 9013114649556706215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_99
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6485eda55a7f1c3a0800000000000000
+      internalID: -6646759285455955898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b570c72932246c40800000000000000
+      internalID: 5504562273428993463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_101
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c2167734803c0b0800000000000000
+      internalID: -5709710816716968956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289469f38185aa30800000000000000
+      internalID: 4225926229181896745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93a92c25416bd00800000000000000
+      internalID: 987999513939163641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f12123bbc31b9220800000000000000
+      internalID: 2493608584284283385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e462d4668d20a00800000000000000
+      internalID: 721376824225320514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f8a982000daea90800000000000000
+      internalID: -7283780748218560722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a539d7fbc805c70800000000000000
+      internalID: 8957814412913367697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_117
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd3b37427950910800000000000000
+      internalID: 1803013408647536555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_118
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 350
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d99344e8bbfa2bc0800000000000000
+      internalID: -3806953763466143272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_141
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 217
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9914e96be074eba0800000000000000
+      internalID: -6060595042137663078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_142
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 239
+        width: 51
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49758074, y: 0.11711444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ed90dd0df68d870800000000000000
+      internalID: 8707832822373146170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 285
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7097040a6186210800000000000000
+      internalID: 1326334967792863215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_137
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba4919093a00860800000000000000
+      internalID: 7494169621257562959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_138
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 301
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a059efec4551ffe80800000000000000
+      internalID: -8142766147268340470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_139
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 280
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14de45babb7b1250800000000000000
+      internalID: 5916458577317254174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_143
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 285
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016053f67f9a8fc0800000000000000
+      internalID: -3491803227835309811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_149
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434bfe3f81360dd00800000000000000
+      internalID: 995404476471817268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 399
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f01d98bde2f335a0800000000000000
+      internalID: -6542618730820726544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 342
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a464563766da560800000000000000
+      internalID: 7326624814608042605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_56
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 341
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314c26b549d7cd690800000000000000
+      internalID: -7576042397002185709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 314
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2c1c1f076bfe80800000000000000
+      internalID: -8143802186575630822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d78167eca45450800000000000000
+      internalID: 6076671907003357395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 250
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf31a8c7020bcbd0800000000000000
+      internalID: -2608989326677033025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 247
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea490f1c54744f720800000000000000
+      internalID: 2879004426728674478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686cbda0dca7e0890800000000000000
+      internalID: -7489914109201496442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 295
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2223381494ef70800000000000000
+      internalID: 9215653569164881621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 327
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbed8dc1a7e37160800000000000000
+      internalID: 7022210926125116401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_85
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 322
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec2290f59e88130800000000000000
+      internalID: 3569359299075559100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_86
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 321
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.50758207, y: 0.25353852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d935865f8659b7df0800000000000000
+      internalID: -181387081951980643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 354
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088313c70cdef470800000000000000
+      internalID: 8430417478379866119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 323
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6830503092637dd0800000000000000
+      internalID: -2489537797580375955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 324
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227776e7281004fe0800000000000000
+      internalID: -1206963040157206750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_92
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 320
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236188848272463a0800000000000000
+      internalID: -6673165693887179214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_102
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 354
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5d0fac27356950800000000000000
+      internalID: 6441615507078339736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 386
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c7f836adc09730800000000000000
+      internalID: 4003926182536397503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 415
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a17a409c63f228b0800000000000000
+      internalID: -5178308973919833692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 414
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4734f086115617dc0800000000000000
+      internalID: -3643019498131340428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_106
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0edbe0331e4fb00800000000000000
+      internalID: 861561038141513892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_107
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 443
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6decf3136edc64390800000000000000
+      internalID: -7834348113211961642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 442
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38cddd0eb83eeb70800000000000000
+      internalID: 8930137500049852477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_109
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 454
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd15f136ee9816180800000000000000
+      internalID: -9123859713117695524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_110
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 454
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451ed63770a260960800000000000000
+      internalID: 7567782435332415828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_119
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 436
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e667621696c690800000000000000
+      internalID: -7582207916843278130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_120
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 434
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1856e0f6629f6010800000000000000
+      internalID: 1184326197847676957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_121
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 416
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7c753d1232d3b50800000000000000
+      internalID: 6574449659217430460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_122
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 414
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21167c41165b9fa90800000000000000
+      internalID: -7279587894102630126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_123
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 379
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aeb32d07b50aac0800000000000000
+      internalID: -3845973541652796897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_124
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 345
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ca93f96d209ef0800000000000000
+      internalID: -103532858347699853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_125
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 343
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f4d7fb43c0d9e0800000000000000
+      internalID: -1598563136668632700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_126
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 338
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c2d267466bb3960800000000000000
+      internalID: 7582854940204018728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_127
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 321
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826c10fe2c9695870800000000000000
+      internalID: 8672078843433043496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_128
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 320
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9353143d797b320800000000000000
+      internalID: 2573692645653428699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 320
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52ff82313177450800000000000000
+      internalID: 6086354394427631103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_130
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 283
+        width: 7
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5071324, y: 0.243691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b8fd9652f74c790800000000000000
+      internalID: -7510738479880369383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_131
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 295
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e14566f9b2f0580800000000000000
+      internalID: -8858813978397893008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_132
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 318
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb3cd48d3980a00800000000000000
+      internalID: 722990297419857697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_133
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 320
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5168186, y: 0.29625055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71f5e63cb4de640800000000000000
+      internalID: 5110824454877812661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_134
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 214
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ee4a030e9bd8eb0800000000000000
+      internalID: -4715908862247113133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_135
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 221
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314645bfcbe838d0800000000000000
+      internalID: -2866281885489282760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_140
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 220
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0ce2c8012194d0800000000000000
+      internalID: -3129683944532079737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 219
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff217e1008e15020800000000000000
+      internalID: 2328897569535635447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_145
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 214
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56218c90e5c37e7b0800000000000000
+      internalID: -5195117270559878555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_146
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 222
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7d92d8e9dd4bb0800000000000000
+      internalID: -4950060821421130779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_147
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 225
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c1fecd100b243f0800000000000000
+      internalID: -917977851982046152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_148
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 267
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb730f5f44fd33100800000000000000
+      internalID: 86658305127102398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pub 2nd floor - tiles_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd34aaeac51de00800000000000000
+      internalID: 1067736491914158045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

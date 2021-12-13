@@ -1,0 +1,2657 @@
+fileFormatVersion: 2
+guid: bc3a378e9239cc64b974519a24c050df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -151166189800561467
+    second: classroom_more_tiles_0
+  - first:
+      213: -5288898056027811644
+    second: classroom_more_tiles_1
+  - first:
+      213: -6845068423597090128
+    second: classroom_more_tiles_2
+  - first:
+      213: -4423312911394136564
+    second: classroom_more_tiles_3
+  - first:
+      213: -4638867853382203163
+    second: classroom_more_tiles_4
+  - first:
+      213: -5427166959376966523
+    second: classroom_more_tiles_5
+  - first:
+      213: 1787399880892200616
+    second: classroom_more_tiles_6
+  - first:
+      213: 6795778307797191741
+    second: classroom_more_tiles_7
+  - first:
+      213: -1706458640703208348
+    second: classroom_more_tiles_8
+  - first:
+      213: 4335184417431543215
+    second: classroom_more_tiles_9
+  - first:
+      213: 8450664454448086234
+    second: classroom_more_tiles_10
+  - first:
+      213: -5411343756686585981
+    second: classroom_more_tiles_11
+  - first:
+      213: 3551575176757648265
+    second: classroom_more_tiles_12
+  - first:
+      213: 5474532895222623381
+    second: classroom_more_tiles_13
+  - first:
+      213: -9162769313794732832
+    second: classroom_more_tiles_14
+  - first:
+      213: -452861544751819580
+    second: classroom_more_tiles_15
+  - first:
+      213: 4935574272595082463
+    second: classroom_more_tiles_16
+  - first:
+      213: 131082819401334315
+    second: classroom_more_tiles_17
+  - first:
+      213: -1045998165178215473
+    second: classroom_more_tiles_18
+  - first:
+      213: -4910579382477091853
+    second: classroom_more_tiles_19
+  - first:
+      213: -5788187551571630988
+    second: classroom_more_tiles_20
+  - first:
+      213: -7993462163801953157
+    second: classroom_more_tiles_21
+  - first:
+      213: 3553171381294930459
+    second: classroom_more_tiles_22
+  - first:
+      213: -3703588598917628392
+    second: classroom_more_tiles_23
+  - first:
+      213: -4092247031746891590
+    second: classroom_more_tiles_24
+  - first:
+      213: 542747356747692676
+    second: classroom_more_tiles_25
+  - first:
+      213: 323895071400849343
+    second: classroom_more_tiles_26
+  - first:
+      213: -6432796177713699657
+    second: classroom_more_tiles_27
+  - first:
+      213: -1406830176748369742
+    second: classroom_more_tiles_28
+  - first:
+      213: -7396669400933796175
+    second: classroom_more_tiles_29
+  - first:
+      213: 3861512557550559861
+    second: classroom_more_tiles_30
+  - first:
+      213: -8510353041381745706
+    second: classroom_more_tiles_31
+  - first:
+      213: 7969560748205303279
+    second: classroom_more_tiles_32
+  - first:
+      213: -5111165534634438638
+    second: classroom_more_tiles_33
+  - first:
+      213: -556220959203434608
+    second: classroom_more_tiles_34
+  - first:
+      213: 4006902684941633394
+    second: classroom_more_tiles_35
+  - first:
+      213: 1008524007791732996
+    second: classroom_more_tiles_36
+  - first:
+      213: -3062806786783317843
+    second: classroom_more_tiles_37
+  - first:
+      213: -854291483292967936
+    second: classroom_more_tiles_38
+  - first:
+      213: -3451453526893918490
+    second: classroom_more_tiles_39
+  - first:
+      213: -6701827846437650542
+    second: classroom_more_tiles_40
+  - first:
+      213: -6520482754187692375
+    second: classroom_more_tiles_41
+  - first:
+      213: -236107941667052429
+    second: classroom_more_tiles_42
+  - first:
+      213: -3629843008688030717
+    second: classroom_more_tiles_43
+  - first:
+      213: -236853777853866550
+    second: classroom_more_tiles_44
+  - first:
+      213: -2457855451698426342
+    second: classroom_more_tiles_45
+  - first:
+      213: 2085791174549657874
+    second: classroom_more_tiles_46
+  - first:
+      213: -6096277796623750616
+    second: classroom_more_tiles_47
+  - first:
+      213: 170249110645500009
+    second: classroom_more_tiles_48
+  - first:
+      213: -702004855379769643
+    second: classroom_more_tiles_49
+  - first:
+      213: -3887380459409631749
+    second: classroom_more_tiles_50
+  - first:
+      213: 6762879921784161558
+    second: classroom_more_tiles_51
+  - first:
+      213: 4047708595723972498
+    second: classroom_more_tiles_52
+  - first:
+      213: 1507741124428653986
+    second: classroom_more_tiles_53
+  - first:
+      213: -5811242664997314377
+    second: classroom_more_tiles_54
+  - first:
+      213: 1876022450421141467
+    second: classroom_more_tiles_55
+  - first:
+      213: -5155358205567668367
+    second: classroom_more_tiles_56
+  - first:
+      213: -7764671999254786525
+    second: classroom_more_tiles_57
+  - first:
+      213: -7376138320476969070
+    second: classroom_more_tiles_58
+  - first:
+      213: 6352946254711748791
+    second: classroom_more_tiles_59
+  - first:
+      213: -9087824657967970057
+    second: classroom_more_tiles_60
+  - first:
+      213: -3110252120167637643
+    second: classroom_more_tiles_61
+  - first:
+      213: -6417375079328071708
+    second: classroom_more_tiles_62
+  - first:
+      213: 4781373372101883648
+    second: classroom_more_tiles_63
+  - first:
+      213: -2853254237813339782
+    second: classroom_more_tiles_64
+  - first:
+      213: -4364069743330240216
+    second: classroom_more_tiles_65
+  - first:
+      213: 9146261108084759276
+    second: classroom_more_tiles_66
+  - first:
+      213: 780343753487095753
+    second: classroom_more_tiles_67
+  - first:
+      213: -9098279551483691218
+    second: classroom_more_tiles_68
+  - first:
+      213: 1492353236690367680
+    second: classroom_more_tiles_69
+  - first:
+      213: -656725283419452327
+    second: classroom_more_tiles_70
+  - first:
+      213: 7951741910556565312
+    second: classroom_more_tiles_71
+  - first:
+      213: -2332318193679689124
+    second: classroom_more_tiles_72
+  - first:
+      213: -4239467044188189060
+    second: classroom_more_tiles_73
+  - first:
+      213: 6654587105311444411
+    second: classroom_more_tiles_74
+  - first:
+      213: 6411021176005379252
+    second: classroom_more_tiles_75
+  - first:
+      213: 8298647178091923464
+    second: classroom_more_tiles_76
+  - first:
+      213: 969101250749027624
+    second: classroom_more_tiles_77
+  - first:
+      213: 8850348686415010632
+    second: classroom_more_tiles_78
+  - first:
+      213: 8508405234822621979
+    second: classroom_more_tiles_79
+  - first:
+      213: 4853774978738890722
+    second: classroom_more_tiles_80
+  - first:
+      213: 6199235137160854226
+    second: classroom_more_tiles_81
+  - first:
+      213: 4376725476156685173
+    second: classroom_more_tiles_82
+  - first:
+      213: -5900320620640983655
+    second: classroom_more_tiles_83
+  - first:
+      213: -2253332691251498944
+    second: classroom_more_tiles_84
+  - first:
+      213: 1135238270800080533
+    second: classroom_more_tiles_85
+  - first:
+      213: 1747129528573712942
+    second: classroom_more_tiles_86
+  - first:
+      213: 4523593266194381928
+    second: classroom_more_tiles_87
+  - first:
+      213: 3122361109290260931
+    second: classroom_more_tiles_88
+  - first:
+      213: -1873780125137464695
+    second: classroom_more_tiles_89
+  - first:
+      213: 8329065130723770854
+    second: classroom_more_tiles_90
+  - first:
+      213: 3761221917546783376
+    second: classroom_more_tiles_91
+  - first:
+      213: -3185303127494858032
+    second: classroom_more_tiles_92
+  - first:
+      213: 1050757030765338990
+    second: classroom_more_tiles_93
+  - first:
+      213: 3170506866774229111
+    second: classroom_more_tiles_94
+  - first:
+      213: 5722293350308753623
+    second: classroom_more_tiles_95
+  - first:
+      213: -2144760854055979478
+    second: classroom_more_tiles_96
+  - first:
+      213: -6254140284212785507
+    second: classroom_more_tiles_97
+  - first:
+      213: 7732755163923366774
+    second: classroom_more_tiles_98
+  - first:
+      213: 4569385006941424679
+    second: classroom_more_tiles_99
+  - first:
+      213: 621501660813145974
+    second: classroom_more_tiles_100
+  - first:
+      213: 6542788399725567352
+    second: classroom_more_tiles_101
+  - first:
+      213: 5635642595191308993
+    second: classroom_more_tiles_102
+  - first:
+      213: -5036949553910016394
+    second: classroom_more_tiles_103
+  - first:
+      213: 1165791801455042056
+    second: classroom_more_tiles_104
+  - first:
+      213: -4271991568355731362
+    second: classroom_more_tiles_105
+  - first:
+      213: -7838979165527510967
+    second: classroom_more_tiles_106
+  - first:
+      213: 4405531920417197086
+    second: classroom_more_tiles_107
+  - first:
+      213: 3475008283303922513
+    second: classroom_more_tiles_108
+  - first:
+      213: 7001246897549835045
+    second: classroom_more_tiles_109
+  - first:
+      213: -3708371917113356355
+    second: classroom_more_tiles_110
+  - first:
+      213: -8655605064108659384
+    second: classroom_more_tiles_111
+  - first:
+      213: 4532304441997148446
+    second: classroom_more_tiles_112
+  - first:
+      213: 7132937545783570105
+    second: classroom_more_tiles_113
+  - first:
+      213: 7181335583432569538
+    second: classroom_more_tiles_114
+  - first:
+      213: -6518174780314389051
+    second: classroom_more_tiles_115
+  - first:
+      213: -6178472331812141962
+    second: classroom_more_tiles_116
+  - first:
+      213: 2411428802225431687
+    second: classroom_more_tiles_117
+  - first:
+      213: 6388325346786613758
+    second: classroom_more_tiles_118
+  - first:
+      213: -2286182899975007492
+    second: classroom_more_tiles_119
+  - first:
+      213: -5201994998791582058
+    second: classroom_more_tiles_120
+  - first:
+      213: 1204997712517457148
+    second: classroom_more_tiles_121
+  - first:
+      213: 8671569887827245626
+    second: classroom_more_tiles_122
+  - first:
+      213: -1061288187958529854
+    second: classroom_more_tiles_123
+  - first:
+      213: 4716593376382908299
+    second: classroom_more_tiles_124
+  - first:
+      213: -5366215245729268535
+    second: classroom_more_tiles_125
+  - first:
+      213: 9037413669231030638
+    second: classroom_more_tiles_126
+  - first:
+      213: -6656923436373282365
+    second: classroom_more_tiles_127
+  - first:
+      213: -1402078768860446931
+    second: classroom_more_tiles_128
+  - first:
+      213: 4759263668933405026
+    second: classroom_more_tiles_129
+  - first:
+      213: -3363474394091556273
+    second: classroom_more_tiles_130
+  - first:
+      213: -7961699811080146725
+    second: classroom_more_tiles_131
+  - first:
+      213: 5882163395623171209
+    second: classroom_more_tiles_132
+  - first:
+      213: -7512852073844564621
+    second: classroom_more_tiles_133
+  - first:
+      213: 1757047148191365335
+    second: classroom_more_tiles_134
+  - first:
+      213: -5459257094632470818
+    second: classroom_more_tiles_135
+  - first:
+      213: 3201573550352104996
+    second: classroom_more_tiles_136
+  - first:
+      213: 916881167612959301
+    second: classroom_more_tiles_137
+  - first:
+      213: -5848352456924057294
+    second: classroom_more_tiles_138
+  - first:
+      213: -9069746437244242410
+    second: classroom_more_tiles_139
+  - first:
+      213: -3896543289671500645
+    second: classroom_more_tiles_140
+  - first:
+      213: 1024216855727821601
+    second: classroom_more_tiles_141
+  - first:
+      213: 8735334768095849944
+    second: classroom_more_tiles_142
+  - first:
+      213: 5728442175647451654
+    second: classroom_more_tiles_143
+  - first:
+      213: -941699819559995585
+    second: classroom_more_tiles_144
+  - first:
+      213: 6322631050709754354
+    second: classroom_more_tiles_145
+  - first:
+      213: 1377308088167669862
+    second: classroom_more_tiles_146
+  - first:
+      213: 5076473111028903616
+    second: classroom_more_tiles_147
+  - first:
+      213: -8888873244300143848
+    second: classroom_more_tiles_148
+  - first:
+      213: -7394030917104255243
+    second: classroom_more_tiles_149
+  - first:
+      213: -7784662034542898465
+    second: classroom_more_tiles_150
+  - first:
+      213: -2316255196324880898
+    second: classroom_more_tiles_151
+  - first:
+      213: 320465818084892497
+    second: classroom_more_tiles_152
+  - first:
+      213: 4069148890473726347
+    second: classroom_more_tiles_153
+  - first:
+      213: -1331996275684555710
+    second: classroom_more_tiles_35
+  - first:
+      213: -378041575619944011
+    second: classroom_more_tiles_36
+  - first:
+      213: -2389989483221651549
+    second: classroom_more_tiles_38
+  - first:
+      213: 9169490715517427433
+    second: classroom_more_tiles_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: classroom_more_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c463eab623f6edf0800000000000000
+      internalID: -151166189800561467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c055356d3f0a96b0800000000000000
+      internalID: -5288898056027811644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba9044198e6101a0800000000000000
+      internalID: -6845068423597090128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e14f1c75c3d92c0800000000000000
+      internalID: -4423312911394136564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8cc2fd34e6f9fb0800000000000000
+      internalID: -4638867853382203163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c5991a764dea4b0800000000000000
+      internalID: -5427166959376966523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b72cb8be1ec810800000000000000
+      internalID: 1787399880892200616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c8e888d547f4e50800000000000000
+      internalID: 6795778307797191741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644df058e07158e0800000000000000
+      internalID: -1706458640703208348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd0d4424ba92c30800000000000000
+      internalID: 4335184417431543215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcf56b3c8ac64570800000000000000
+      internalID: 8450664454448086234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f0b29168b07e4b0800000000000000
+      internalID: -5411343756686585981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1cb36ecab94130800000000000000
+      internalID: 3551575176757648265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6fe2b9a279fb40800000000000000
+      internalID: 5474532895222623381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4a640bdd47d080800000000000000
+      internalID: -9162769313794732832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c412ac03dc17b9f0800000000000000
+      internalID: -452861544751819580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3690b6aeae7440800000000000000
+      internalID: 4935574272595082463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eb2963123b1d100800000000000000
+      internalID: 131082819401334315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc397d0f53edb71f0800000000000000
+      internalID: -1045998165178215473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb881aa11e1adbb0800000000000000
+      internalID: -4910579382477091853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742c37c61a3cafa0800000000000000
+      internalID: -5788187551571630988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c2f016384811190800000000000000
+      internalID: -7993462163801953157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a1b28bb866f4130800000000000000
+      internalID: 3553171381294930459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ef35faac53a9cc0800000000000000
+      internalID: -3703588598917628392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0749b910b6537c0800000000000000
+      internalID: -4092247031746891590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7ab968d9388700800000000000000
+      internalID: 542747356747692676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe853f9d4be7400800000000000000
+      internalID: 323895071400849343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 510
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b462e275fd1ab6a0800000000000000
+      internalID: -6432796177713699657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b80d9f686fe97ce0800000000000000
+      internalID: -1406830176748369742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f65c7e50c95990800000000000000
+      internalID: -7396669400933796175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e2804639d69530800000000000000
+      internalID: 3861512557550559861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9647aff625e980800000000000000
+      internalID: -8510353041381745706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56ca4a641999e60800000000000000
+      internalID: 7969560748205303279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21015efb60e7119b0800000000000000
+      internalID: -5111165534634438638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f5d0e0cf7e748f0800000000000000
+      internalID: -556220959203434608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 476
+        width: 87
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ff127479be75d0800000000000000
+      internalID: -3062806786783317843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3746948f31d29bcf0800000000000000
+      internalID: -236107941667052429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf6bce30530adc0800000000000000
+      internalID: -3629843008688030717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9f437eb686bcf0800000000000000
+      internalID: -236853777853866550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e024c2d71f3edd0800000000000000
+      internalID: -2457855451698426342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195da2b50832fc10800000000000000
+      internalID: 2085791174549657874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae328b4aba56ba0800000000000000
+      internalID: -6096277796623750616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8204aa78f80a10800000000000000
+      internalID: 1876022450421141467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f6e3bb60d7478b0800000000000000
+      internalID: -5155358205567668367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0ff6a4f75e3490800000000000000
+      internalID: -7764671999254786525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e2d92741b2a990800000000000000
+      internalID: -7376138320476969070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8fd3595f23a2850800000000000000
+      internalID: 6352946254711748791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f888c87f9f81e180800000000000000
+      internalID: -9087824657967970057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d908fec2a26d4d0800000000000000
+      internalID: -3110252120167637643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 434
+        width: 87
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82955c5b0b5bf63c0800000000000000
+      internalID: -4364069743330240216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c47558ac57e5b410800000000000000
+      internalID: 1492353236690367680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c04ce85d7d2e6f0800000000000000
+      internalID: -656725283419452327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f5f4433234a5e60800000000000000
+      internalID: 7951741910556565312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9a82c5f0f1afd0800000000000000
+      internalID: -2332318193679689124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e003a5f236a25c0800000000000000
+      internalID: -4239467044188189060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdcbfaf6b7d95c50800000000000000
+      internalID: 6654587105311444411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 382
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ce43eac588f850800000000000000
+      internalID: 6411021176005379252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 392
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825584af370f27d00800000000000000
+      internalID: 969101250749027624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 395
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b9c183d31c2da70800000000000000
+      internalID: 8850348686415010632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 400
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b2daa4b7de31670800000000000000
+      internalID: 8508405234822621979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 356
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bb8b5b1a04dbc30800000000000000
+      internalID: 4376725476156685173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 356
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea77a413d21cf00800000000000000
+      internalID: 1135238270800080533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 363
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5b3fac0d0f3810800000000000000
+      internalID: 1747129528573712942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 367
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c7ddbcb1807ce30800000000000000
+      internalID: 4523593266194381928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 370
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c99dbbc2ead45b20800000000000000
+      internalID: 3122361109290260931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 368
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9829ef567eefef5e0800000000000000
+      internalID: -1873780125137464695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 319
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e49002c84d439a0800000000000000
+      internalID: -6254140284212785507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 320
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67348b80ad3405b60800000000000000
+      internalID: 7732755163923366774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 283
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4db44477b96f30800000000000000
+      internalID: 4569385006941424679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 283
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773518b77400a800800000000000000
+      internalID: 621501660813145974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 285
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d50366267acca50800000000000000
+      internalID: 6542788399725567352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 287
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24077d413d53e40800000000000000
+      internalID: 5635642595191308993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 288
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67691af4119291ab0800000000000000
+      internalID: -5036949553910016394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 286
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e5acf7779bd2010800000000000000
+      internalID: 1165791801455042056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 288
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5851b47d46d6b4c0800000000000000
+      internalID: -4271991568355731362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 287
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407b0d4bf9563390800000000000000
+      internalID: -7838979165527510967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 287
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8c1ba0f7932d30800000000000000
+      internalID: 4405531920417197086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 290
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bcedd4f95b93030800000000000000
+      internalID: 3475008283303922513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 291
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b734985fc692160800000000000000
+      internalID: 7001246897549835045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 285
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf8c61a367398cc0800000000000000
+      internalID: -3708371917113356355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d2bb5bd0d11e780800000000000000
+      internalID: -8655605064108659384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 257
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e114a2770eaf5ee30800000000000000
+      internalID: 4532304441997148446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 261
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee97de7e84df260800000000000000
+      internalID: 7132937545783570105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 260
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2fe5f2aaa39a360800000000000000
+      internalID: 7181335583432569538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57373729aca85a0800000000000000
+      internalID: -6518174780314389051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67402cf2628a14aa0800000000000000
+      internalID: -6178472331812141962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 261
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784eac528bd177120800000000000000
+      internalID: 2411428802225431687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef917dc5e04e7a850800000000000000
+      internalID: 6388325346786613758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2da63e3c8d540e0800000000000000
+      internalID: -2286182899975007492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 264
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e4ba52c1dcec7b0800000000000000
+      internalID: -5201994998791582058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 262
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e2c1090309b010800000000000000
+      internalID: 1204997712517457148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 263
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb4fac9c0da8ce0800000000000000
+      internalID: -1402078768860446931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 226
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a23b571d4c0240800000000000000
+      internalID: 4759263668933405026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 227
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42fc09ebd98251d0800000000000000
+      internalID: -3363474394091556273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 226
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f548643c528190800000000000000
+      internalID: -7961699811080146725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984bcea7174a1a150800000000000000
+      internalID: 5882163395623171209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 476
+        width: 87
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244cda9c17cc38de0800000000000000
+      internalID: -1331996275684555710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 428
+        width: 87
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b128de903de0caf0800000000000000
+      internalID: -378041575619944011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classroom_more_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 364
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af67ab4a3d05ded0800000000000000
+      internalID: -2389989483221651549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

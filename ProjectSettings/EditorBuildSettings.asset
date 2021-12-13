@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: f0948b4c985377648b21ed5915a78732
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4797b333b28add24096faa0915641b32
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: ac9766f4648a2664d82e69292f2c2a82
+  - enabled: 1
+    path: Assets/Scenes/StrahovScene.unity
+    guid: a7e9ddf42e47f654eb572e7db3571ce3
+  - enabled: 1
+    path: Assets/Scenes/ZMA_minigame.unity
+    guid: 13dd032710926ab49b585f26f0991db4
+  - enabled: 1
+    path: Assets/Scenes/endingScene.unity
+    guid: a95e2c94f8f1b7946aaf5f0c4f353684
+  - enabled: 1
+    path: Assets/Scenes/KampusScene.unity
+    guid: cc77b581774dbba459c5040f03eef934
+  - enabled: 1
+    path: Assets/Scenes/ZMASeminar.unity
+    guid: 0b47b13a7c1c2dd4696eef2873243dec
+  - enabled: 1
+    path: Assets/Scenes/CAO_MinigameStartScreen.unity
+    guid: ef5d8b308f723dc4a8df9bfd2b05f707
+  - enabled: 1
+    path: Assets/Scenes/CAO_Minigame.unity
+    guid: 2def04fdc24b29b44975a4221c3c09fb
+  - enabled: 1
+    path: Assets/Scenes/PubScene.unity
+    guid: 1145a8942f30a0549b887f36e4c6d122
+  - enabled: 1
+    path: Assets/Scenes/OLD_MainMenuScene.unity
+    guid: ca9392cb2654a3446afd203bc9bd8945
+  - enabled: 1
+    path: Assets/Scenes/PA1Proseminar.unity
+    guid: 0b254d390f8ef68469634400209a34eb
+  - enabled: 1
+    path: Assets/Scenes/MLOCviko.unity
+    guid: 819171a38d420b740b5fea3948222d58
+  - enabled: 1
+    path: Assets/Scenes/CAOPrednaska.unity
+    guid: 15bf262e983c8e5418c589e66a2c9611
+  - enabled: 1
+    path: Assets/Scenes/MLO_zkouska.unity
+    guid: 08524a15fed503f49a4ef653a75dbbe3
+  - enabled: 1
+    path: Assets/Scenes/NTK.unity
+    guid: f60a5cc5f9a2cff4eafc2546788a4d0c
+  - enabled: 1
+    path: Assets/Scenes/Pub2ndFloorScene.unity
+    guid: 1215190772cbd934191021793783b72e
+  - enabled: 1
+    path: Assets/Scenes/VyherniObrazovka.unity
+    guid: 03cb1baf71aa7da43aa5fc5323815a80
+  - enabled: 1
+    path: Assets/Scenes/VyherniObrazovka2.unity
+    guid: e54dbb5f1fc454a4bac87eeb8c438e23
+  - enabled: 1
+    path: Assets/Scenes/LastScreen.unity
+    guid: b781e71a4975395479f15ae762c2f95c
+  - enabled: 1
+    path: Assets/Scenes/NTK_game.unity
+    guid: 82e8530e9c1128e41bf8dd62a0e6ee5c
+  - enabled: 1
+    path: Assets/Scenes/ZMA_MinigameStartScreen.unity
+    guid: ba0a0a0ae73739f4f9930f4c8e269275
+  - enabled: 1
+    path: Assets/Scenes/ZMA_Minigame 1.unity
+    guid: 3b0760d4c30582f448a8f3763e3715f8
+  - enabled: 1
+    path: Assets/Scenes/ZMA_MinigameWinningScene.unity
+    guid: 6254242fdd2ad6444ad2f335bd5a382d
+  - enabled: 1
+    path: Assets/Scenes/ZMA_MinigameLooseScreen.unity
+    guid: 85f664cb0fed001459e6ef3037df8800
+  - enabled: 1
+    path: Assets/Scenes/CAO_MinigameWinningScreen.unity
+    guid: 57e686a55c124d24591a88d84ad06537
+  - enabled: 1
+    path: Assets/Scenes/CAO_MinigameLooseScreen.unity
+    guid: a08763a2ff7c3414b90ff21c53f45204
+  m_configObjects: {}

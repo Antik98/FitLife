@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 8aa0598be302d2c4a86e3bab0f40b169
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3136772906069897799
+    second: strahov_npcs_0
+  - first:
+      213: -2991621798622446471
+    second: strahov_npcs_1
+  - first:
+      213: -8472780534323495292
+    second: strahov_npcs_2
+  - first:
+      213: 949187128152078472
+    second: strahov_npcs_3
+  - first:
+      213: 8783451140632177265
+    second: strahov_npcs_4
+  - first:
+      213: 1857324843764619823
+    second: strahov_npcs_5
+  - first:
+      213: 5405825762953084724
+    second: strahov_npcs_6
+  - first:
+      213: -8537487843226456635
+    second: strahov_npcs_7
+  - first:
+      213: 6185764549935239657
+    second: strahov_npcs_8
+  - first:
+      213: 7012139414688419794
+    second: strahov_npcs_9
+  - first:
+      213: 7165682598056151526
+    second: strahov_npcs_10
+  - first:
+      213: -4488036713243974032
+    second: strahov_npcs_11
+  - first:
+      213: -4487093361633515696
+    second: strahov_npcs_12
+  - first:
+      213: 6248922468905290269
+    second: strahov_npcs_13
+  - first:
+      213: 3053676250661380717
+    second: strahov_npcs_14
+  - first:
+      213: 5050125436165379045
+    second: strahov_npcs_15
+  - first:
+      213: 3741730016016632454
+    second: strahov_npcs_16
+  - first:
+      213: -7730704000035446039
+    second: strahov_npcs_17
+  - first:
+      213: 4011139269528495284
+    second: strahov_npcs_18
+  - first:
+      213: 8027404400689883539
+    second: strahov_npcs_19
+  - first:
+      213: -8277406521902423389
+    second: strahov_npcs_20
+  - first:
+      213: -2146637307697977820
+    second: strahov_npcs_21
+  - first:
+      213: 2449075407486390948
+    second: strahov_npcs_22
+  - first:
+      213: 7603635643758682317
+    second: strahov_npcs_23
+  - first:
+      213: -569792305949344859
+    second: strahov_npcs_24
+  - first:
+      213: -865795665932651686
+    second: strahov_npcs_25
+  - first:
+      213: -1094827902822132559
+    second: strahov_npcs_26
+  - first:
+      213: -6748686124084307756
+    second: strahov_npcs_27
+  - first:
+      213: 2538755635175967436
+    second: strahov_npcs_28
+  - first:
+      213: 5932319791564763829
+    second: strahov_npcs_29
+  - first:
+      213: 7625779276534077651
+    second: strahov_npcs_30
+  - first:
+      213: -7702177204445551445
+    second: strahov_npcs_31
+  - first:
+      213: -692029231709728101
+    second: strahov_npcs_32
+  - first:
+      213: 4289784286868622658
+    second: strahov_npcs_33
+  - first:
+      213: 697318499179216386
+    second: strahov_npcs_34
+  - first:
+      213: 8471402688122259781
+    second: strahov_npcs_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strahov_npcs_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 342
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3bce03df9b76d0800000000000000
+      internalID: -2991621798622446471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 349
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ebdc7aef2aa6a80800000000000000
+      internalID: -8472780534323495292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 346
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b0eef9a03c2d00800000000000000
+      internalID: 949187128152078472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 304
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a6163964615e970800000000000000
+      internalID: 8783451140632177265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1919da1b86c910800000000000000
+      internalID: 1857324843764619823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 304
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f397ed3e9550b40800000000000000
+      internalID: 5405825762953084724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 304
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd65464a00c48980800000000000000
+      internalID: -8537487843226456635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 303
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11817a51048d550800000000000000
+      internalID: 6185764549935239657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 303
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfc40055af105160800000000000000
+      internalID: 7012139414688419794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 307
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9c5568b5e917360800000000000000
+      internalID: 7165682598056151526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 302
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766e20536a47b1c0800000000000000
+      internalID: -4488036713243974032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 272
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05722d97c54aab1c0800000000000000
+      internalID: -4487093361633515696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 273
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8e0490e1a8b650800000000000000
+      internalID: 6248922468905290269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 273
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62e7b3fe56d06a20800000000000000
+      internalID: 3053676250661380717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 273
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35dc5d356a51640800000000000000
+      internalID: 5050125436165379045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 272
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a861200ab4de330800000000000000
+      internalID: 3741730016016632454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 274
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e22236cba507b490800000000000000
+      internalID: -7730704000035446039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 276
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4add8e9ed6aa730800000000000000
+      internalID: 4011139269528495284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 270
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22188bf9eb02d80800000000000000
+      internalID: -8277406521902423389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 274
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426af05fdbc9532e0800000000000000
+      internalID: -2146637307697977820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 272
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21f5b7b1ddcf120800000000000000
+      internalID: 2449075407486390948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 238
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc02cbb055a858960800000000000000
+      internalID: 7603635643758682317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 242
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7328aae0b718f0800000000000000
+      internalID: -569792305949344859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 234
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f204dd631cf3f0800000000000000
+      internalID: -865795665932651686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 234
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4d912b2d36ec0f0800000000000000
+      internalID: -1094827902822132559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 233
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d859e9b9d752a0800000000000000
+      internalID: -6748686124084307756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 232
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca4f2e9cc87b3320800000000000000
+      internalID: 2538755635175967436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 238
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2bc3e6b65d35250800000000000000
+      internalID: 5932319791564763829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 240
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8595159d534d960800000000000000
+      internalID: 7625779276534077651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 206
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba469e3f3ae5c1590800000000000000
+      internalID: -7702177204445551445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 179
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d4bd5a410688b30800000000000000
+      internalID: 4289784286868622658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 236
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bd57b65e088b20800000000000000
+      internalID: 3136772906069897799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strahov_npcs_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 210
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399278b75c1176f60800000000000000
+      internalID: 8027404400689883539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6320 @@
+fileFormatVersion: 2
+guid: 1d7042150faf4fd419132b94269a3735
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8574202870615721512
+    second: shadows_kampus_fix2_0
+  - first:
+      213: -4020428750590646732
+    second: shadows_kampus_fix2_1
+  - first:
+      213: 653110426917967013
+    second: shadows_kampus_fix2_2
+  - first:
+      213: 1892448560320689706
+    second: shadows_kampus_fix2_3
+  - first:
+      213: 241723761144543616
+    second: shadows_kampus_fix2_4
+  - first:
+      213: 7940281372149631804
+    second: shadows_kampus_fix2_5
+  - first:
+      213: -8179240874405569641
+    second: shadows_kampus_fix2_6
+  - first:
+      213: 7005804653911407053
+    second: shadows_kampus_fix2_7
+  - first:
+      213: 4926287006445709994
+    second: shadows_kampus_fix2_8
+  - first:
+      213: 2407789683565648661
+    second: shadows_kampus_fix2_9
+  - first:
+      213: 175499342265728865
+    second: shadows_kampus_fix2_10
+  - first:
+      213: -1128667297443693626
+    second: shadows_kampus_fix2_11
+  - first:
+      213: 3345490040176994856
+    second: shadows_kampus_fix2_12
+  - first:
+      213: -6403909808228334373
+    second: shadows_kampus_fix2_13
+  - first:
+      213: 8857282465940182120
+    second: shadows_kampus_fix2_14
+  - first:
+      213: 8363647348327677949
+    second: shadows_kampus_fix2_15
+  - first:
+      213: -1444823597160167687
+    second: shadows_kampus_fix2_16
+  - first:
+      213: 7242931310970821992
+    second: shadows_kampus_fix2_17
+  - first:
+      213: -4922102026308401798
+    second: shadows_kampus_fix2_18
+  - first:
+      213: -3791047332732195728
+    second: shadows_kampus_fix2_19
+  - first:
+      213: -598152698820544868
+    second: shadows_kampus_fix2_20
+  - first:
+      213: -8915568098243927526
+    second: shadows_kampus_fix2_21
+  - first:
+      213: 3116538433486401921
+    second: shadows_kampus_fix2_22
+  - first:
+      213: 2418241723930366584
+    second: shadows_kampus_fix2_23
+  - first:
+      213: -1426527170669042079
+    second: shadows_kampus_fix2_24
+  - first:
+      213: -6862006827574583297
+    second: shadows_kampus_fix2_25
+  - first:
+      213: -4115341888047321748
+    second: shadows_kampus_fix2_26
+  - first:
+      213: 4459610400449432138
+    second: shadows_kampus_fix2_27
+  - first:
+      213: 2616337056177874858
+    second: shadows_kampus_fix2_28
+  - first:
+      213: 3843182076782663573
+    second: shadows_kampus_fix2_29
+  - first:
+      213: 3085812244276857155
+    second: shadows_kampus_fix2_30
+  - first:
+      213: -5944401703652582926
+    second: shadows_kampus_fix2_31
+  - first:
+      213: -3109040113040644871
+    second: shadows_kampus_fix2_32
+  - first:
+      213: 5022372095759105123
+    second: shadows_kampus_fix2_33
+  - first:
+      213: 596925175556567937
+    second: shadows_kampus_fix2_34
+  - first:
+      213: 7190367791241514561
+    second: shadows_kampus_fix2_35
+  - first:
+      213: -5312359125854706252
+    second: shadows_kampus_fix2_36
+  - first:
+      213: -4669661499917555660
+    second: shadows_kampus_fix2_37
+  - first:
+      213: 8163577810360771173
+    second: shadows_kampus_fix2_38
+  - first:
+      213: -125077768650332624
+    second: shadows_kampus_fix2_39
+  - first:
+      213: -6644392051951560400
+    second: shadows_kampus_fix2_40
+  - first:
+      213: -537940778634437492
+    second: shadows_kampus_fix2_41
+  - first:
+      213: 8703600577833850470
+    second: shadows_kampus_fix2_42
+  - first:
+      213: -6229289737132523783
+    second: shadows_kampus_fix2_43
+  - first:
+      213: 8614483080156446011
+    second: shadows_kampus_fix2_44
+  - first:
+      213: -9030669684534892865
+    second: shadows_kampus_fix2_45
+  - first:
+      213: -3485468992975191488
+    second: shadows_kampus_fix2_46
+  - first:
+      213: -4471557763095945768
+    second: shadows_kampus_fix2_47
+  - first:
+      213: 2947748989964482830
+    second: shadows_kampus_fix2_48
+  - first:
+      213: 955429993708670751
+    second: shadows_kampus_fix2_49
+  - first:
+      213: 76579622749190439
+    second: shadows_kampus_fix2_50
+  - first:
+      213: -5204924449553740478
+    second: shadows_kampus_fix2_51
+  - first:
+      213: 5977072325707655429
+    second: shadows_kampus_fix2_52
+  - first:
+      213: -7762595577581453861
+    second: shadows_kampus_fix2_53
+  - first:
+      213: 1833312891074276609
+    second: shadows_kampus_fix2_54
+  - first:
+      213: 6255809965550185666
+    second: shadows_kampus_fix2_55
+  - first:
+      213: 1066880813511005893
+    second: shadows_kampus_fix2_56
+  - first:
+      213: 1781570541280425663
+    second: shadows_kampus_fix2_57
+  - first:
+      213: 1692138176253879647
+    second: shadows_kampus_fix2_58
+  - first:
+      213: -5187689240109889888
+    second: shadows_kampus_fix2_59
+  - first:
+      213: -7276930585526245128
+    second: shadows_kampus_fix2_60
+  - first:
+      213: 8574533531922185394
+    second: shadows_kampus_fix2_61
+  - first:
+      213: -2088513736833155643
+    second: shadows_kampus_fix2_62
+  - first:
+      213: 7020578543432104130
+    second: shadows_kampus_fix2_63
+  - first:
+      213: 1972746312927314335
+    second: shadows_kampus_fix2_64
+  - first:
+      213: -558998773615973539
+    second: shadows_kampus_fix2_65
+  - first:
+      213: 2046034125444848004
+    second: shadows_kampus_fix2_66
+  - first:
+      213: -851665975703491678
+    second: shadows_kampus_fix2_67
+  - first:
+      213: 4062015757416137040
+    second: shadows_kampus_fix2_68
+  - first:
+      213: -4936760116664087062
+    second: shadows_kampus_fix2_69
+  - first:
+      213: 3071121133349200345
+    second: shadows_kampus_fix2_70
+  - first:
+      213: -8839520604059125465
+    second: shadows_kampus_fix2_71
+  - first:
+      213: 8179286988944255500
+    second: shadows_kampus_fix2_72
+  - first:
+      213: -2895202927342467865
+    second: shadows_kampus_fix2_73
+  - first:
+      213: 9134175668809650053
+    second: shadows_kampus_fix2_74
+  - first:
+      213: 6271468115081977219
+    second: shadows_kampus_fix2_75
+  - first:
+      213: 535788678327925987
+    second: shadows_kampus_fix2_76
+  - first:
+      213: -4402895015122540547
+    second: shadows_kampus_fix2_77
+  - first:
+      213: 6480990196930947033
+    second: shadows_kampus_fix2_78
+  - first:
+      213: -8457249393580177284
+    second: shadows_kampus_fix2_79
+  - first:
+      213: -4771490425077052592
+    second: shadows_kampus_fix2_80
+  - first:
+      213: -3631849245612332969
+    second: shadows_kampus_fix2_81
+  - first:
+      213: 7791875327506793640
+    second: shadows_kampus_fix2_82
+  - first:
+      213: -1871818966052728251
+    second: shadows_kampus_fix2_83
+  - first:
+      213: 4544108354123906683
+    second: shadows_kampus_fix2_84
+  - first:
+      213: 2236324586429583389
+    second: shadows_kampus_fix2_85
+  - first:
+      213: 4779974018992854313
+    second: shadows_kampus_fix2_86
+  - first:
+      213: -1002925384295174464
+    second: shadows_kampus_fix2_87
+  - first:
+      213: 815712454577208581
+    second: shadows_kampus_fix2_88
+  - first:
+      213: -4202144730779601245
+    second: shadows_kampus_fix2_89
+  - first:
+      213: 7656538109587899944
+    second: shadows_kampus_fix2_90
+  - first:
+      213: -3082458389192610529
+    second: shadows_kampus_fix2_91
+  - first:
+      213: -2155326004378275059
+    second: shadows_kampus_fix2_92
+  - first:
+      213: 6273610767231673768
+    second: shadows_kampus_fix2_93
+  - first:
+      213: 8337528782542619793
+    second: shadows_kampus_fix2_94
+  - first:
+      213: 4283746371384078029
+    second: shadows_kampus_fix2_95
+  - first:
+      213: 8568461993863352804
+    second: shadows_kampus_fix2_96
+  - first:
+      213: 202461230097362186
+    second: shadows_kampus_fix2_97
+  - first:
+      213: -1938528690244035692
+    second: shadows_kampus_fix2_98
+  - first:
+      213: 1627015342480945177
+    second: shadows_kampus_fix2_99
+  - first:
+      213: -918499080704349001
+    second: shadows_kampus_fix2_100
+  - first:
+      213: -1835079768635128998
+    second: shadows_kampus_fix2_101
+  - first:
+      213: -5896827647334939022
+    second: shadows_kampus_fix2_102
+  - first:
+      213: -6217590545887495780
+    second: shadows_kampus_fix2_103
+  - first:
+      213: -851652099108979314
+    second: shadows_kampus_fix2_104
+  - first:
+      213: 4929417385595253889
+    second: shadows_kampus_fix2_105
+  - first:
+      213: -7910576081974448442
+    second: shadows_kampus_fix2_106
+  - first:
+      213: -3920303571112524982
+    second: shadows_kampus_fix2_107
+  - first:
+      213: 2678535288830777283
+    second: shadows_kampus_fix2_108
+  - first:
+      213: 3393015208002489494
+    second: shadows_kampus_fix2_109
+  - first:
+      213: 452860846837136025
+    second: shadows_kampus_fix2_110
+  - first:
+      213: 7771191036145636098
+    second: shadows_kampus_fix2_111
+  - first:
+      213: -3303774679216423592
+    second: shadows_kampus_fix2_112
+  - first:
+      213: -1699093497502810428
+    second: shadows_kampus_fix2_113
+  - first:
+      213: -9111917131181211731
+    second: shadows_kampus_fix2_114
+  - first:
+      213: 6706719115309910689
+    second: shadows_kampus_fix2_115
+  - first:
+      213: -6521644994094555050
+    second: shadows_kampus_fix2_116
+  - first:
+      213: -6653283296302161062
+    second: shadows_kampus_fix2_117
+  - first:
+      213: -2506186289549603977
+    second: shadows_kampus_fix2_118
+  - first:
+      213: -6405838828924743663
+    second: shadows_kampus_fix2_119
+  - first:
+      213: 5850702955418546480
+    second: shadows_kampus_fix2_120
+  - first:
+      213: 1681720251536787898
+    second: shadows_kampus_fix2_121
+  - first:
+      213: 2296918626780024407
+    second: shadows_kampus_fix2_122
+  - first:
+      213: 6069595561572364712
+    second: shadows_kampus_fix2_123
+  - first:
+      213: -1544602777651150238
+    second: shadows_kampus_fix2_124
+  - first:
+      213: -4194786856687575063
+    second: shadows_kampus_fix2_125
+  - first:
+      213: 919430698137334194
+    second: shadows_kampus_fix2_126
+  - first:
+      213: -2246903330610341318
+    second: shadows_kampus_fix2_127
+  - first:
+      213: 5314977700772803156
+    second: shadows_kampus_fix2_128
+  - first:
+      213: -6555188951451955124
+    second: shadows_kampus_fix2_129
+  - first:
+      213: -7460220063523525200
+    second: shadows_kampus_fix2_130
+  - first:
+      213: -5432342470532753872
+    second: shadows_kampus_fix2_131
+  - first:
+      213: 3805684876429991422
+    second: shadows_kampus_fix2_132
+  - first:
+      213: 8625258565824879341
+    second: shadows_kampus_fix2_133
+  - first:
+      213: -6388448837752900238
+    second: shadows_kampus_fix2_134
+  - first:
+      213: -1629883258916870527
+    second: shadows_kampus_fix2_135
+  - first:
+      213: 7982078230940118987
+    second: shadows_kampus_fix2_136
+  - first:
+      213: -4771934443167680430
+    second: shadows_kampus_fix2_137
+  - first:
+      213: -6870761098321093911
+    second: shadows_kampus_fix2_138
+  - first:
+      213: -7728177474128552278
+    second: shadows_kampus_fix2_139
+  - first:
+      213: 2097312919085736329
+    second: shadows_kampus_fix2_140
+  - first:
+      213: -7881322542773116762
+    second: shadows_kampus_fix2_141
+  - first:
+      213: 5554847259476901674
+    second: shadows_kampus_fix2_142
+  - first:
+      213: -7634783651878394176
+    second: shadows_kampus_fix2_143
+  - first:
+      213: 6139517132312234570
+    second: shadows_kampus_fix2_144
+  - first:
+      213: -2551534611018781608
+    second: shadows_kampus_fix2_145
+  - first:
+      213: -6829254188525194316
+    second: shadows_kampus_fix2_146
+  - first:
+      213: 1818773805050913788
+    second: shadows_kampus_fix2_147
+  - first:
+      213: 5827193015180800691
+    second: shadows_kampus_fix2_148
+  - first:
+      213: 3737146275387651436
+    second: shadows_kampus_fix2_149
+  - first:
+      213: -7048604572702083933
+    second: shadows_kampus_fix2_150
+  - first:
+      213: -6634596614289066851
+    second: shadows_kampus_fix2_151
+  - first:
+      213: -5259800541935098230
+    second: shadows_kampus_fix2_152
+  - first:
+      213: -2627005524196058177
+    second: shadows_kampus_fix2_153
+  - first:
+      213: 6794883301325902899
+    second: shadows_kampus_fix2_154
+  - first:
+      213: 1167153869456112282
+    second: shadows_kampus_fix2_155
+  - first:
+      213: 5607313183932417852
+    second: shadows_kampus_fix2_156
+  - first:
+      213: -49573853606097780
+    second: shadows_kampus_fix2_157
+  - first:
+      213: -5057452091886317605
+    second: shadows_kampus_fix2_158
+  - first:
+      213: -8551528683442635731
+    second: shadows_kampus_fix2_159
+  - first:
+      213: 5869877706518130106
+    second: shadows_kampus_fix2_160
+  - first:
+      213: 3619717915366110395
+    second: shadows_kampus_fix2_161
+  - first:
+      213: -2907008133909285915
+    second: shadows_kampus_fix2_162
+  - first:
+      213: 427307078556200016
+    second: shadows_kampus_fix2_163
+  - first:
+      213: -2032933027330019123
+    second: shadows_kampus_fix2_164
+  - first:
+      213: 2966367829085189020
+    second: shadows_kampus_fix2_165
+  - first:
+      213: 401919932245588750
+    second: shadows_kampus_fix2_166
+  - first:
+      213: -4035387461981525581
+    second: shadows_kampus_fix2_167
+  - first:
+      213: 1081812910267448973
+    second: shadows_kampus_fix2_168
+  - first:
+      213: -7496613689973691388
+    second: shadows_kampus_fix2_169
+  - first:
+      213: -7792933913570766948
+    second: shadows_kampus_fix2_170
+  - first:
+      213: 7594956469935040733
+    second: shadows_kampus_fix2_171
+  - first:
+      213: 2886117060848917175
+    second: shadows_kampus_fix2_172
+  - first:
+      213: 3563499206311285403
+    second: shadows_kampus_fix2_173
+  - first:
+      213: 3034701306217990902
+    second: shadows_kampus_fix2_174
+  - first:
+      213: 3098627283849636136
+    second: shadows_kampus_fix2_175
+  - first:
+      213: -102626824315435087
+    second: shadows_kampus_fix2_176
+  - first:
+      213: 4745729307995540812
+    second: shadows_kampus_fix2_177
+  - first:
+      213: -6823375581515907655
+    second: shadows_kampus_fix2_178
+  - first:
+      213: -8732198138662557974
+    second: shadows_kampus_fix2_179
+  - first:
+      213: 3131491274189604674
+    second: shadows_kampus_fix2_180
+  - first:
+      213: 7745169542068512546
+    second: shadows_kampus_fix2_181
+  - first:
+      213: -5701538956594215358
+    second: shadows_kampus_fix2_182
+  - first:
+      213: -1071881848356021256
+    second: shadows_kampus_fix2_183
+  - first:
+      213: 8642605756848126043
+    second: shadows_kampus_fix2_184
+  - first:
+      213: -1686232225821474808
+    second: shadows_kampus_fix2_185
+  - first:
+      213: 7209421796224192804
+    second: shadows_kampus_fix2_186
+  - first:
+      213: 4450318182071103846
+    second: shadows_kampus_fix2_187
+  - first:
+      213: -8449909960796078964
+    second: shadows_kampus_fix2_188
+  - first:
+      213: -5409558314602864717
+    second: shadows_kampus_fix2_189
+  - first:
+      213: -1536979799444904290
+    second: shadows_kampus_fix2_190
+  - first:
+      213: -4116392415726509707
+    second: shadows_kampus_fix2_191
+  - first:
+      213: 2291643833202392297
+    second: shadows_kampus_fix2_192
+  - first:
+      213: 4552912078950662890
+    second: shadows_kampus_fix2_193
+  - first:
+      213: -7644475794986625371
+    second: shadows_kampus_fix2_194
+  - first:
+      213: 7644718738166697342
+    second: shadows_kampus_fix2_195
+  - first:
+      213: -2819274800386663747
+    second: shadows_kampus_fix2_196
+  - first:
+      213: 6416008850795754905
+    second: shadows_kampus_fix2_197
+  - first:
+      213: 8070049965876522768
+    second: shadows_kampus_fix2_198
+  - first:
+      213: 6584275549756424108
+    second: shadows_kampus_fix2_199
+  - first:
+      213: 2216189928921770257
+    second: shadows_kampus_fix2_200
+  - first:
+      213: 2376904769943687636
+    second: shadows_kampus_fix2_201
+  - first:
+      213: 7033323170017531224
+    second: shadows_kampus_fix2_202
+  - first:
+      213: -7149719648734192816
+    second: shadows_kampus_fix2_203
+  - first:
+      213: -725834603907330538
+    second: shadows_kampus_fix2_204
+  - first:
+      213: 4551326465166802408
+    second: shadows_kampus_fix2_205
+  - first:
+      213: -2708763596033747392
+    second: shadows_kampus_fix2_206
+  - first:
+      213: -333763708435925101
+    second: shadows_kampus_fix2_207
+  - first:
+      213: -7381960329949048007
+    second: shadows_kampus_fix2_208
+  - first:
+      213: 6973289296841215755
+    second: shadows_kampus_fix2_209
+  - first:
+      213: -9130197319322694716
+    second: shadows_kampus_fix2_210
+  - first:
+      213: -1182661665183110296
+    second: shadows_kampus_fix2_211
+  - first:
+      213: 7585505360130304001
+    second: shadows_kampus_fix2_212
+  - first:
+      213: 4023393877941217451
+    second: shadows_kampus_fix2_213
+  - first:
+      213: -6467329670095506092
+    second: shadows_kampus_fix2_214
+  - first:
+      213: 3022377570649901168
+    second: shadows_kampus_fix2_215
+  - first:
+      213: 3655407230444916874
+    second: shadows_kampus_fix2_216
+  - first:
+      213: 4539645526119763405
+    second: shadows_kampus_fix2_217
+  - first:
+      213: 3202151746288026932
+    second: shadows_kampus_fix2_218
+  - first:
+      213: -3073759494526852153
+    second: shadows_kampus_fix2_219
+  - first:
+      213: 8254585311691376238
+    second: shadows_kampus_fix2_220
+  - first:
+      213: 5175861956298338917
+    second: shadows_kampus_fix2_221
+  - first:
+      213: -5246138504369501392
+    second: shadows_kampus_fix2_222
+  - first:
+      213: -4973226093383299865
+    second: shadows_kampus_fix2_223
+  - first:
+      213: -5557536960837829030
+    second: shadows_kampus_fix2_224
+  - first:
+      213: -8584265817672826633
+    second: shadows_kampus_fix2_225
+  - first:
+      213: -5154775297065407117
+    second: shadows_kampus_fix2_226
+  - first:
+      213: 8608547165151470284
+    second: shadows_kampus_fix2_227
+  - first:
+      213: 1814351756666927146
+    second: shadows_kampus_fix2_228
+  - first:
+      213: 2083588667638945289
+    second: shadows_kampus_fix2_229
+  - first:
+      213: -4432851200606065388
+    second: shadows_kampus_fix2_230
+  - first:
+      213: -4452339063862238325
+    second: shadows_kampus_fix2_231
+  - first:
+      213: -229928267212590104
+    second: shadows_kampus_fix2_232
+  - first:
+      213: 6106040873060000840
+    second: shadows_kampus_fix2_233
+  - first:
+      213: 1478576741679764214
+    second: shadows_kampus_fix2_234
+  - first:
+      213: 6996489947628233762
+    second: shadows_kampus_fix2_235
+  - first:
+      213: 7607024358141141668
+    second: shadows_kampus_fix2_236
+  - first:
+      213: -22745976496561216
+    second: shadows_kampus_fix2_237
+  - first:
+      213: 3488784875012014101
+    second: shadows_kampus_fix2_238
+  - first:
+      213: 9120412462297380512
+    second: shadows_kampus_fix2_239
+  - first:
+      213: 1649712826753351368
+    second: shadows_kampus_fix2_240
+  - first:
+      213: 6699703664511508534
+    second: shadows_kampus_fix2_241
+  - first:
+      213: -563448720208557723
+    second: shadows_kampus_fix2_242
+  - first:
+      213: 8326059806091233009
+    second: shadows_kampus_fix2_243
+  - first:
+      213: 5678863363216729373
+    second: shadows_kampus_fix2_244
+  - first:
+      213: 858968986011545837
+    second: shadows_kampus_fix2_245
+  - first:
+      213: -7230112280078355685
+    second: shadows_kampus_fix2_246
+  - first:
+      213: 506189703268355532
+    second: shadows_kampus_fix2_247
+  - first:
+      213: 3733184215814376342
+    second: shadows_kampus_fix2_248
+  - first:
+      213: -8392962625546798513
+    second: shadows_kampus_fix2_249
+  - first:
+      213: -3648784903413103307
+    second: shadows_kampus_fix2_250
+  - first:
+      213: 2350341675325658868
+    second: shadows_kampus_fix2_251
+  - first:
+      213: -4728625590564641425
+    second: shadows_kampus_fix2_252
+  - first:
+      213: 3288102533267020981
+    second: shadows_kampus_fix2_253
+  - first:
+      213: 5276336003133251324
+    second: shadows_kampus_fix2_254
+  - first:
+      213: -6782419045845002064
+    second: shadows_kampus_fix2_255
+  - first:
+      213: -3623075309190735302
+    second: shadows_kampus_fix2_256
+  - first:
+      213: 8872428223282763475
+    second: shadows_kampus_fix2_257
+  - first:
+      213: 2057219891229283057
+    second: shadows_kampus_fix2_258
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b0d0daef420980800000000000000
+      internalID: -8574202870615721512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436e64c3a519438c0800000000000000
+      internalID: -4020428750590646732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a49c831970501900800000000000000
+      internalID: 653110426917967013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a263d9160f3534a10800000000000000
+      internalID: 1892448560320689706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089bac4ea76ca5300800000000000000
+      internalID: 241723761144543616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b41aba6db813e60800000000000000
+      internalID: 7940281372149631804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b53bc92cf7d7e80800000000000000
+      internalID: -8179240874405569641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9fa22e63e993160800000000000000
+      internalID: 7005804653911407053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa1d88eefad5440800000000000000
+      internalID: 4926287006445709994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd7cec5ff2a6120800000000000000
+      internalID: 2407789683565648661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3012d8bf7f6200800000000000000
+      internalID: 175499342265728865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb44aa21b2650f0800000000000000
+      internalID: -1128667297443693626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a6b5467719d6e20800000000000000
+      internalID: 3345490040176994856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd409e275fdb027a0800000000000000
+      internalID: -6403909808228334373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86419a199736bea70800000000000000
+      internalID: 8857282465940182120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff75b763f4a11470800000000000000
+      internalID: 8363647348327677949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f68a28e794f2fbe0800000000000000
+      internalID: -1444823597160167687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d58f217af048460800000000000000
+      internalID: 7242931310970821992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7548a5194e21bbb0800000000000000
+      internalID: -4922102026308401798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 948
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c2ec5698e736bc0800000000000000
+      internalID: -3791047332732195728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963c512a4fe2b7f0800000000000000
+      internalID: -598152698820544868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ad552d0a854480800000000000000
+      internalID: -8915568098243927526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1813fc0713b204b20800000000000000
+      internalID: 3116538433486401921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872d5e719025f8120800000000000000
+      internalID: 2418241723930366584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16624d9a815f33ce0800000000000000
+      internalID: -1426527170669042079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff9c14952145c0a0800000000000000
+      internalID: -6862006827574583297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d67a95b5e53e6c0800000000000000
+      internalID: -4115341888047321748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0d6bf708b3ed30800000000000000
+      internalID: 4459610400449432138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76c2ec0b81f4420800000000000000
+      internalID: 2616337056177874858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59757cd9cb9b55530800000000000000
+      internalID: 3843182076782663573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494ca703e103da20800000000000000
+      internalID: 3085812244276857155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99f83352e318da0800000000000000
+      internalID: -5944401703652582926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a5c55d787ad4d0800000000000000
+      internalID: -3109040113040644871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3e89bfcc03b540800000000000000
+      internalID: 5022372095759105123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1837986d844b84800800000000000000
+      internalID: 596925175556567937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_35
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e4c51f86159c360800000000000000
+      internalID: 7190367791241514561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b520286585b646b0800000000000000
+      internalID: -5312359125854706252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a8145b97023fb0800000000000000
+      internalID: -4669661499917555660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 916
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562a0da14cada4170800000000000000
+      internalID: 8163577810360771173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0366c4e9e62a34ef0800000000000000
+      internalID: -125077768650332624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399ffad1a06ac3a0800000000000000
+      internalID: -6644392051951560400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c1c4346b9d888f0800000000000000
+      internalID: -537940778634437492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666dba4ac9669c870800000000000000
+      internalID: 8703600577833850470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feba3ffcfd1d89a0800000000000000
+      internalID: -6229289737132523783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d765c48bacc8770800000000000000
+      internalID: 8614483080156446011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a869b4cd9ca280800000000000000
+      internalID: -9030669684534892865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042431eea6021afc0800000000000000
+      internalID: -3485468992975191488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd9602e7e5d1f1c0800000000000000
+      internalID: -4471557763095945768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0979d9a61288e820800000000000000
+      internalID: 2947748989964482830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f42c6648e524d00800000000000000
+      internalID: 955429993708670751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729bffad2c0101100800000000000000
+      internalID: 76579622749190439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8a9d3ac464c7b0800000000000000
+      internalID: -5204924449553740478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096f92cc93d2f250800000000000000
+      internalID: 5977072325707655429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_53
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3d3f3378b54490800000000000000
+      internalID: -7762595577581453861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_54
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d60a27c5c317910800000000000000
+      internalID: 1833312891074276609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca7fad40a11d650800000000000000
+      internalID: 6255809965550185666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d00382725ece00800000000000000
+      internalID: 1066880813511005893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f157d7f869b810800000000000000
+      internalID: 1781570541280425663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f556d7ab4beab7710800000000000000
+      internalID: 1692138176253879647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a642262f10a108b0800000000000000
+      internalID: -5187689240109889888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f86882ff26230b90800000000000000
+      internalID: -7276930585526245128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb5e441dcdef670800000000000000
+      internalID: 8574533531922185394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd398f52db1403e0800000000000000
+      internalID: -2088513736833155643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8fff61dfa1e6160800000000000000
+      internalID: 7020578543432104130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918efdc15a906b10800000000000000
+      internalID: 1972746312927314335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5badbcb3990e38f0800000000000000
+      internalID: -558998773615973539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489977d5239f46c10800000000000000
+      internalID: 2046034125444848004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab28e2be464e24f0800000000000000
+      internalID: -851665975703491678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05104d45fcd2f5830800000000000000
+      internalID: 4062015757416137040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedcbe874da1d7bb0800000000000000
+      internalID: -4936760116664087062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d169773660de9a20800000000000000
+      internalID: 3071121133349200345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293f4a28d6b35580800000000000000
+      internalID: -8839520604059125465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2ff34e2aa28170800000000000000
+      internalID: 8179286988944255500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c41be64c22d7d0800000000000000
+      internalID: -2895202927342467865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4a67306c13ce70800000000000000
+      internalID: 9134175668809650053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d56a3e50bb80750800000000000000
+      internalID: 6271468115081977219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec7966d6f08f6700800000000000000
+      internalID: 535788678327925987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76840bf46c5e2c0800000000000000
+      internalID: -4402895015122540547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7abd01f3a11f950800000000000000
+      internalID: 6480990196930947033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7804c62c70d1aa80800000000000000
+      internalID: -8457249393580177284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bca142db248cdb0800000000000000
+      internalID: -4771490425077052592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a18d7a54199dc0800000000000000
+      internalID: -3631849245612332969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a44c26c35d422c60800000000000000
+      internalID: 7791875327506793640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54296945196f506e0800000000000000
+      internalID: -1871818966052728251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb07ce87aef0f30800000000000000
+      internalID: 4544108354123906683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109b90ec55090f10800000000000000
+      internalID: 2236324586429583389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9255aad7b01e55240800000000000000
+      internalID: 4779974018992854313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2ddc3da4e412f0800000000000000
+      internalID: -1002925384295174464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dbfe5d72ef15b00800000000000000
+      internalID: 815712454577208581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63a1b91abfea5c0800000000000000
+      internalID: -4202144730779601245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 820
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8264a3738dc714a60800000000000000
+      internalID: 7656538109587899944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d60453d68e835d0800000000000000
+      internalID: -3082458389192610529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03fedd1b6eb612e0800000000000000
+      internalID: -2155326004378275059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e8e7f0c7501750800000000000000
+      internalID: 6273610767231673768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944c0ce04ad4b370800000000000000
+      internalID: 8337528782542619793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce6736e0ace27b30800000000000000
+      internalID: 4283746371384078029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e119a729ca49e670800000000000000
+      internalID: 8568461993863352804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dedb48a694fc200800000000000000
+      internalID: 202461230097362186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd91f4d66f815e0800000000000000
+      internalID: -1938528690244035692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ffac65d1549610800000000000000
+      internalID: 1627015342480945177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc2818d3f5d043f0800000000000000
+      internalID: -918499080704349001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a534fff4cac7886e0800000000000000
+      internalID: -1835079768635128998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_102
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27606ea5f724a2ea0800000000000000
+      internalID: -5896827647334939022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c997c89375ea6b9a0800000000000000
+      internalID: -6217590545887495780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8db4689de25e24f0800000000000000
+      internalID: -851652099108979314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1843a0abefec86440800000000000000
+      internalID: 4929417385595253889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 788
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce263927fcf73290800000000000000
+      internalID: -7910576081974448442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4384283ca84899c0800000000000000
+      internalID: -3920303571112524982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75b1957a11c2520800000000000000
+      internalID: 2678535288830777283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8c7eca59661f20800000000000000
+      internalID: 3393015208002489494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af8647a82e84600800000000000000
+      internalID: 452860846837136025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031927e211d8db60800000000000000
+      internalID: 7771191036145636098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dff53fe62a622d0800000000000000
+      internalID: -3303774679216423592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3b29577b9b68e0800000000000000
+      internalID: -1699093497502810428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafb52d65a7fb8180800000000000000
+      internalID: -9111917131181211731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa8e5c608d031d50800000000000000
+      internalID: 6706719115309910689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6502ac75e667e75a0800000000000000
+      internalID: -6521644994094555050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53aed5b71acaa3a0800000000000000
+      internalID: -6653283296302161062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b017619dc383dd0800000000000000
+      internalID: -2506186289549603977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 756
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11059815683e917a0800000000000000
+      internalID: -6405838828924743663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031fc00f65fd13150800000000000000
+      internalID: 5850702955418546480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab94e6c98aba65710800000000000000
+      internalID: 1681720251536787898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e833b425b40ef10800000000000000
+      internalID: 2296918626780024407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1fec151098b3450800000000000000
+      internalID: 6069595561572364712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262850715f7709ae0800000000000000
+      internalID: -1544602777651150238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd8aa249f19c5c0800000000000000
+      internalID: -4194786856687575063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1b01e395972cc00800000000000000
+      internalID: 919430698137334194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a145e435561d0e0800000000000000
+      internalID: -2246903330610341318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4527fa31f0892c940800000000000000
+      internalID: 5314977700772803156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c401429216a4705a0800000000000000
+      internalID: -6555188951451955124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd207fc069f77890800000000000000
+      internalID: -7460220063523525200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03690a90e417c94b0800000000000000
+      internalID: -5432342470532753872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 724
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9fa25b3280d430800000000000000
+      internalID: 3805684876429991422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea13ef87f213b770800000000000000
+      internalID: 8625258565824879341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2753bf721aba757a0800000000000000
+      internalID: -6388448837752900238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18667eebfcd7169e0800000000000000
+      internalID: -1629883258916870527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf60943cd906ce60800000000000000
+      internalID: 7982078230940118987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f98f18eea6cdb0800000000000000
+      internalID: -4771934443167680430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea9ff51f2726a0a0800000000000000
+      internalID: -6870761098321093911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae546d688fffb490800000000000000
+      internalID: -7728177474128552278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98161f4ecf62b1d10800000000000000
+      internalID: 2097312919085736329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0eab587eaef9290800000000000000
+      internalID: -7881322542773116762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3ca2d628c61d40800000000000000
+      internalID: 5554847259476901674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_143
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c624dc28bccb0690800000000000000
+      internalID: -7634783651878394176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_144
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a45e3ad42f33550800000000000000
+      internalID: 6139517132312234570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6c163ac0279cd0800000000000000
+      internalID: -2551534611018781608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_146
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 692
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b37b1c9f7d9931a0800000000000000
+      internalID: -6829254188525194316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf368d0b3259d3910800000000000000
+      internalID: 1818773805050913788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b23d7b6c295ed050800000000000000
+      internalID: 5827193015180800691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b72abcb20dd330800000000000000
+      internalID: 3737146275387651436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f5e97c735e2e90800000000000000
+      internalID: -7048604572702083933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d947a49e78d2de3a0800000000000000
+      internalID: -6634596614289066851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862d84564f6107b0800000000000000
+      internalID: -5259800541935098230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1e4be4600b8bd0800000000000000
+      internalID: -2627005524196058177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33493c99c564c4e50800000000000000
+      internalID: 6794883301325902899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a772ba240923010800000000000000
+      internalID: 1167153869456112282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3708a8c1ad21dd40800000000000000
+      internalID: 5607313183932417852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c49a1c7d0ef4ff0800000000000000
+      internalID: -49573853606097780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4f823e1250d9b0800000000000000
+      internalID: -5057452091886317605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c76d868fdd25980800000000000000
+      internalID: -8551528683442635731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_160
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6ff39caef57150800000000000000
+      internalID: 5869877706518130106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4b3841442db3230800000000000000
+      internalID: 3619717915366110395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e37a23118b38a7d0800000000000000
+      internalID: -2907008133909285915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c2a5326891ee500800000000000000
+      internalID: 427307078556200016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b5ddbe2299c3e0800000000000000
+      internalID: -2032933027330019123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_165
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f4c5f2d7aa2920800000000000000
+      internalID: 2966367829085189020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb5a58c08e39500800000000000000
+      internalID: 401919932245588750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_167
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a685db7c6ff7c0800000000000000
+      internalID: -4035387461981525581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_168
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3ce53c1f530f00800000000000000
+      internalID: 1081812910267448973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca9c6519da6f790800000000000000
+      internalID: -7496613689973691388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_170
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f0583f4efe9d390800000000000000
+      internalID: -7792933913570766948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_171
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8680b6ba4b66960800000000000000
+      internalID: 7594956469935040733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_172
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1810fc2c8d0820800000000000000
+      internalID: 2886117060848917175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_173
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92129dd5a7147130800000000000000
+      internalID: 3563499206311285403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_174
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 628
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa898c62cc6d1a20800000000000000
+      internalID: 3034701306217990902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e031f819800b20800000000000000
+      internalID: 3098627283849636136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b780407275639ef0800000000000000
+      internalID: -102626824315435087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d0c3369a73cd140800000000000000
+      internalID: 4745729307995540812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd7ba67f008e41a0800000000000000
+      internalID: -6823375581515907655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_179
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e0bcde0001d680800000000000000
+      internalID: -8732198138662557974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_180
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478e47f8ba457b20800000000000000
+      internalID: 3131491274189604674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2272b20b9ae5c7b60800000000000000
+      internalID: 7745169542068512546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246862be68010e0b0800000000000000
+      internalID: -5701538956594215358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbdc835329ef11f0800000000000000
+      internalID: -1071881848356021256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58bda63524b0f770800000000000000
+      internalID: 8642605756848126043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800481389bc4998e0800000000000000
+      internalID: -1686232225821474808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_186
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d6ef2de20d0460800000000000000
+      internalID: 7209421796224192804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6617fcbcec4b2cd30800000000000000
+      internalID: 4450318182071103846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_188
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf6b209a3ebba80800000000000000
+      internalID: -8449909960796078964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd55abf536de4b0800000000000000
+      internalID: -5409558314602864717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a223040d8baae0800000000000000
+      internalID: -1536979799444904290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571628058e2afd6c0800000000000000
+      internalID: -4116392415726509707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec3eb5bced8dcf10800000000000000
+      internalID: 2291643833202392297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28077d9613f2f30800000000000000
+      internalID: 4552912078950662890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a610c144cd59e590800000000000000
+      internalID: -7644475794986625371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc23c503f771a60800000000000000
+      internalID: 7644718738166697342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1eb6918cefd8d0800000000000000
+      internalID: -2819274800386663747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_197
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995717b6e0e3a0950800000000000000
+      internalID: 6416008850795754905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f29bfdfa39eff60800000000000000
+      internalID: 8070049965876522768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf758e3abb006b50800000000000000
+      internalID: 6584275549756424108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192e2c9ffc71ce10800000000000000
+      internalID: 2216189928921770257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_201
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1dc6d7b467cf020800000000000000
+      internalID: 2376904769943687636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_202
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8555b63b8226b9160800000000000000
+      internalID: 7033323170017531224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b519d3cd717cc90800000000000000
+      internalID: -7149719648734192816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eca6cf5415de5f0800000000000000
+      internalID: -725834603907330538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf91d5e4f892f30800000000000000
+      internalID: 4551326465166802408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04616ed6cd9886ad0800000000000000
+      internalID: -2708763596033747392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39772cfecab3e5bf0800000000000000
+      internalID: -333763708435925101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9339c53f0320e8990800000000000000
+      internalID: -7381960329949048007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f014e5ba916c060800000000000000
+      internalID: 6973289296841215755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0c8479e50b4180800000000000000
+      internalID: -9130197319322694716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be9454b77569fe0800000000000000
+      internalID: -1182661665183110296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_212
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10863607fe0254960800000000000000
+      internalID: 7585505360130304001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8ea264a67f5d730800000000000000
+      internalID: 4023393877941217451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_214
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455fc903eed6f36a0800000000000000
+      internalID: -6467329670095506092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07802b32364a1f920800000000000000
+      internalID: 3022377570649901168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_216
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a805018428d9ab230800000000000000
+      internalID: 3655407230444916874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4f8ecd8f000f30800000000000000
+      internalID: 4539645526119763405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435056a2c04507c20800000000000000
+      internalID: 3202151746288026932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32eb37600d755d0800000000000000
+      internalID: -3073759494526852153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6685873b9d2e8270800000000000000
+      internalID: 8254585311691376238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562fe9fb60b54d740800000000000000
+      internalID: 5175861956298338917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8e8453d8f137b0800000000000000
+      internalID: -5246138504369501392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4f24a73d8bfab0800000000000000
+      internalID: -4973226093383299865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e38274499afd2b0800000000000000
+      internalID: -5557536960837829030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0451068bf8ed880800000000000000
+      internalID: -8584265817672826633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_226
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2571bd2f8678b0800000000000000
+      internalID: -5154775297065407117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_227
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2ac036904b77770800000000000000
+      internalID: 8608547165151470284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_228
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28fcb15f4fdd2910800000000000000
+      internalID: 1814351756666927146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_229
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90616a89ad46aec10800000000000000
+      internalID: 2083588667638945289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_230
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d26bdb1595b72c0800000000000000
+      internalID: -4432851200606065388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8365eef53d1632c0800000000000000
+      internalID: -4452339063862238325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_232
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f8fc85712fccf0800000000000000
+      internalID: -229928267212590104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_233
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e1c6a2d30db450800000000000000
+      internalID: 6106040873060000840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_234
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21af476b5f48410800000000000000
+      internalID: 1478576741679764214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_235
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e8f2d986881160800000000000000
+      internalID: 6996489947628233762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_236
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a22fb89954919960800000000000000
+      internalID: 7607024358141141668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c36ad6a7a03faff0800000000000000
+      internalID: -22745976496561216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_238
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510c8d40c57aa6030800000000000000
+      internalID: 3488784875012014101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_239
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f74cffc6329e70800000000000000
+      internalID: 9120412462297380512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_240
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cef90c4315f4e610800000000000000
+      internalID: 1649712826753351368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_241
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630679f7cf02afc50800000000000000
+      internalID: 6699703664511508534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_242
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56902decf5a3e28f0800000000000000
+      internalID: -563448720208557723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_243
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c9b0c74b1c8370800000000000000
+      internalID: 8326059806091233009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_244
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15638414206fce40800000000000000
+      internalID: 5678863363216729373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0bb44edbbabeb00800000000000000
+      internalID: 858968986011545837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_246
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137db3203b79ab90800000000000000
+      internalID: -7230112280078355685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_247
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd454c6ad8560700800000000000000
+      internalID: 506189703268355532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_248
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b06b8d34feec330800000000000000
+      internalID: 3733184215814376342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_249
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a372bb5f4368b80800000000000000
+      internalID: -8392962625546798513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_250
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53501426679ec5dc0800000000000000
+      internalID: -3648784903413103307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_251
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f615921d471e9020800000000000000
+      internalID: 2350341675325658868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_252
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a296241c806eb0800000000000000
+      internalID: -4728625590564641425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_253
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc517835dfa1ad20800000000000000
+      internalID: 3288102533267020981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_254
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe9c5eb3af493940800000000000000
+      internalID: 5276336003133251324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_255
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8909600d100e1a0800000000000000
+      internalID: -6782419045845002064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_256
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9231c33048bdc0800000000000000
+      internalID: -3623075309190735302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_257
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65beff572312b70800000000000000
+      internalID: 8872428223282763475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadows_kampus_fix2_258
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d6996796bc8c10800000000000000
+      internalID: 2057219891229283057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

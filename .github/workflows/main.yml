@@ -50,7 +50,6 @@ jobs:
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
-          allowDirtyBuild: true
           targetPlatform: WebGL
 
       # Deploy

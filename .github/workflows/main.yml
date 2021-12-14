@@ -53,8 +53,11 @@ jobs:
           allowDirtyBuild: true
           targetPlatform: WebGL
 
-      # Output
-      - uses: actions/upload-artifact@v2
+      # Deploy
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.3
         with:
-          name: Build
-          path: build
+          branch: gh-pages
+          folder: build/WebGL/WebGL
+          commit-message: Deploy
+          single-commit: true

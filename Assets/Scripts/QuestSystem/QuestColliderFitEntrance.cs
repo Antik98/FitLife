@@ -28,7 +28,7 @@ public class QuestColliderFitEntrance : DisplayHint
     private void openDialogue(Dialogue inp)
     {
         Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
-        popupMessage.Open(inp, optionalSprite: QuestIcon);
+        popupMessage.Open(inp, QuestIcon);
     }
 
     public override void Action()
@@ -63,7 +63,7 @@ public class QuestColliderFitEntrance : DisplayHint
             PopUpMessage popupMessage = gameController.GetComponent<PopUpMessage>();
             Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
             wellDoneDialogue.sentences[0] += dialogue;
-            popupMessage.Open(wellDoneDialogue, optionalSprite: QuestIcon);
+            popupMessage.Open(wellDoneDialogue, QuestIcon);
             return true;
         }
         return false;

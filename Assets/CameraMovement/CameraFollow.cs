@@ -10,11 +10,12 @@ public class CameraFollow : MonoBehaviour
     [Range(1, 10)]
     public float smoothFactor;
     public Vector3 minValues, maxValues;
+    private Transform playerTransform;
 
     private Func<Vector3> GetCameraFollowPositionFunc;
-    public void Setup(Func<Vector3> GetCameraFollowPositionFunc) {
-        //GetComponent<Camera>().orthographicSize = CameraZoom;
-        this.GetCameraFollowPositionFunc = GetCameraFollowPositionFunc;
+    public void Start() {
+        playerTransform = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        this.GetCameraFollowPositionFunc = () => playerTransform.position;
     }
     // Update is called once per frame
     void Update()

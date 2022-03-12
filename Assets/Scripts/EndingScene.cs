@@ -10,6 +10,7 @@ public class EndingScene : MonoBehaviour
     public Text hungerStat;
     public Text questStat;
     public Text easterEggsFoundStat;
+    public PopUpMessage popUpMessage;
     PlayerStatus playerStatus;
     public Sprite lastSpeaking;
 
@@ -40,23 +41,21 @@ public class EndingScene : MonoBehaviour
         {
             yield return new WaitForSeconds(0.5f);
             string[] _tmp = { "Málo jsi spal. Po zkouškách jsi zkolaboval, jsi nyní v kómatu" };
-            GameObject.FindGameObjectWithTag("UI").GetComponent<PopUpMessage>().Open(new Dialogue(_tmp), lastSpeaking);
+            popUpMessage.Open(new Dialogue(_tmp), lastSpeaking);
             Time.timeScale = 1f;
         }
         if (playerStatus.hunger <= 0)
         {
             yield return new WaitForSeconds(0.5f);
             string[] _tmp = { "Když tě viděla babička celého vyhublého o Vánocích, dostala infarkt.","Naštěstí to přežila, ale musel jsi sníst celého kapra sám, abys ujistil babičku, že ještě žiješ" };
-
-
-            GameObject.FindGameObjectWithTag("UI").GetComponent<PopUpMessage>().Open(new Dialogue(_tmp), lastSpeaking);
+            popUpMessage.Open(new Dialogue(_tmp), lastSpeaking);
             Time.timeScale = 1f;
         }
         if (playerStatus.social <= 0)
         {
             yield return new WaitForSeconds(0.5f);
             string[] _tmp = { "Ztratil jsi většinu svých kamarádů, ani si nepamatuješ jména svých rodičů." };
-            GameObject.FindGameObjectWithTag("UI").GetComponent<PopUpMessage>().Open(new Dialogue(_tmp), lastSpeaking);
+            popUpMessage.Open(new Dialogue(_tmp), lastSpeaking);
             Time.timeScale = 1f;
         }
         yield return new WaitForSeconds(1);

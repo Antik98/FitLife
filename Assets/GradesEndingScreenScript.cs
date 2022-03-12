@@ -28,7 +28,7 @@ public class GradesEndingScreenScript : MonoBehaviour
         foreach (var gradeSprite in gradeSprites)
         {
             var subjectName = gradeSprite.name.Substring(0, 3);
-            Debug.Log(gradeSprite.name);
+            //Debug.Log(gradeSprite.name);
             var gradeScore = GradeTracker.GetSubjectState(subjectName);
             var gradeName = GradeCalculator.Calculate(gradeScore);
             var gradeImages = Resources.LoadAll<Sprite>("Grades");

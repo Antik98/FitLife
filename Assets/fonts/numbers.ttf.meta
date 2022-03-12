@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 37e7b4e762274954f86a4c412d77c569
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 125
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ambitsek
+  fontNames:
+  - NumbersAmbitsek
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20038336b6f8a314ea637215cc31ae30, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

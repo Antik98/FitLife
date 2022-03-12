@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Pub2ndFloorSceneController : SceneController
 {
-    public Transform player;
     // Start is called before the first frame update
     public override void Start()
     {

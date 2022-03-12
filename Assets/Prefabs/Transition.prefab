@@ -84,8 +84,8 @@ CanvasGroup:
   m_GameObject: {fileID: 2100507860674659273}
   m_Enabled: 1
   m_Alpha: 0
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!95 &9184154459272539212
 Animator:
@@ -118,6 +118,7 @@ GameObject:
   - component: {fileID: 8571015539266400773}
   - component: {fileID: 6464886116981759261}
   - component: {fileID: 2374174605228809912}
+  - component: {fileID: 6314558818509206541}
   m_Layer: 5
   m_Name: Transition
   m_TagString: Untagged
@@ -205,3 +206,16 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &6314558818509206541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3872186663590520851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e330e0c67fe9c46988cedc8a1d019b6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Fade: {fileID: 9184154459272539212}

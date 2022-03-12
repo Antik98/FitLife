@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class PubScene : SceneController
 {
-    public Transform player;
-    
-
     public override void Start()
     {
         QuestTracker _questTracker = GameObject.FindGameObjectWithTag("StatusController").GetComponent<QuestTracker>();

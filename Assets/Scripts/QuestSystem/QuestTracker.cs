@@ -8,10 +8,7 @@ using UnityEngine;
 
 public class QuestTracker : MonoBehaviour
 {
-    private bool firstStart = true;
 
-
-    public QuestDisplay questDisplay;
     public delegate void QuestChanged(int id);
     public event EventHandler<int> HandleQuestChanged;
     public GameTimer gameTimer;
@@ -22,7 +19,7 @@ public class QuestTracker : MonoBehaviour
                                           new SchoolQuest(3, "Cvičení BI-MLO", "Běž na cvičení z matematické logiky v 7:30.", new TimeSpan(1,7,30,0), Quest.Type.practice, SchoolSubjectType.MLO, 1, "MLOCviko"),
                                           new SchoolQuest(4, "Proseminář BI-PA1", "Běž na proseminář z programování a algoritmizace v 9:15.", new TimeSpan(1,9,15,0), Quest.Type.proseminar, SchoolSubjectType.PA1, 1, "PA1Proseminar"),
                                           new SchoolQuest(5, "Test BI-PAI", "Běž na test z práva a informatiky v 16:15.", new TimeSpan(1,16,15,0), Quest.Type.exam, SchoolSubjectType.PAI,5, ""),
-                                          new SchoolQuest(6, "Zkouška BI-ZMA", "Běž na zkoušku ze základů matematické analýzy v 9:15.", new TimeSpan(2,9,15,0), Quest.Type.exam, SchoolSubjectType.ZMA, 4, "ZMA_minigame"),
+                                          new SchoolQuest(6, "Zkouška BI-ZMA", "Běž na zkoušku ze základů matematické analýzy v 9:15.", new TimeSpan(2,9,15,0), Quest.Type.exam, SchoolSubjectType.ZMA, 4, "ZMA_MinigameStartScreen"),
                                           new SchoolQuest(7, "Zkouška BI-CAO", "Běž na zkoušku z číslicových a analogových obvodů v 11:00.", new TimeSpan(2,11,00,0), Quest.Type.exam, SchoolSubjectType.CAO, 4, "CAO_Minigame"),
                                           new SchoolQuest(8, "Zkouška BI-MLO", "Běž na zkoušku z matematické logiky v 16:15.", new TimeSpan(2,16,15,0), Quest.Type.exam, SchoolSubjectType.MLO, 4,  "MLO_zkouska"),
                                           new ProgtestQuest(9, "Progtest BI-PA1","Dodělej Progtestovou úlohu v NTK do 23:59 druhého dne.", new TimeSpan(1,23,59,0)),
@@ -43,7 +40,6 @@ public class QuestTracker : MonoBehaviour
     }
 
 
-
     public void Start()
     {
         gameTimer = StatusController.Instance.GetComponent<GameTimer>();
@@ -54,6 +50,7 @@ public class QuestTracker : MonoBehaviour
 
     public void OnDisable()
     {
+        gameTimer = StatusController.Instance.GetComponent<GameTimer>();
         gameTimer.BroadcastDayPassed -= HandleDayPassed;
         gameTimer.Broadcast15MinutesPassed -= Handle15MinuteIntervalPassed;
     }
@@ -62,11 +59,11 @@ public class QuestTracker : MonoBehaviour
     {
         switch (StatusController.Instance.GetComponent<GameTimer>().gameTime.Days)
         {
-            case 2: // day 2 quests;
+            case 1: // day 2 quests;
                 StartQuestDay2();
                 break;
 
-            case 3: // day 3 quests;
+            case 2: // day 3 quests;
                 StartQuestDay3();
                 break;
         }
@@ -135,13 +132,7 @@ public class QuestTracker : MonoBehaviour
 
     public List<Quest> getActiveQuests()
     {
-        var ret = new List<Quest>();
-        foreach(Quest q in quests)
-        {
-            if (q.status == Quest.Status.progress)
-                ret.Add(q);
-        }
-        return ret;
+        return quests.Where(q => q.status == Quest.Status.progress).ToList();
     }
 
     public int getQuestsDone()
@@ -171,5 +162,7 @@ public class QuestTracker : MonoBehaviour
     {
         foreach (Quest q in quests)
             q.status = Quest.Status.inactive;
+
+        StartQuestDay1();
     }
 }

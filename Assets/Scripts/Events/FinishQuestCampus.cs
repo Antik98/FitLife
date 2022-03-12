@@ -43,7 +43,7 @@ public class FinishQuestCampus : MonoBehaviour
     {
         yield return new WaitForSecondsRealtime(2);
         Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
-        popupMessage.Open(dialogue, optionalSprite: QuestIcon);
+        popupMessage.Open(dialogue, QuestIcon);
         GetComponent<ChangeScene>().Activate();
     }
 }

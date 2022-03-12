@@ -18,8 +18,8 @@ public class GameManagerZMA : MonoBehaviour
 
     public void GameWin()
     {
-        Debug.Log("GAME WON");
-       // gameTimer.StartTimer();
+        //Debug.Log("GAME WON");
+        gameTimer.StartTimer();
         SceneManager.LoadScene("ZMA_MinigameWinningScreen");
     }
 
@@ -27,9 +27,9 @@ public class GameManagerZMA : MonoBehaviour
     {
         if (end == false)
         {
-            Debug.Log("GAME OVER");
+            //Debug.Log("GAME OVER");
             end = true;
-           // gameTimer.StartTimer();
+            gameTimer.StartTimer();
             SceneManager.LoadScene("ZMA_MinigameLooseScreen");
         }
     }

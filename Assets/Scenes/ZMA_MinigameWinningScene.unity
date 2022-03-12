@@ -131,7 +131,6 @@ GameObject:
   m_Component:
   - component: {fileID: 168431759}
   - component: {fileID: 168431758}
-  - component: {fileID: 168431757}
   m_Layer: 0
   m_Name: GameController
   m_TagString: GameController
@@ -139,19 +138,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &168431757
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 168431756}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a30f9d5d45ded4cd59606ae358c2bb00, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 0}
 --- !u!114 &168431758
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -666,13 +652,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0513dccebfe9ee4081389711fb04c4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  activeQuests: 
-  failedQuests: 
   questDisplay: {fileID: 0}
-  activeQuestIndex: 0
-  activeProgtestIndex: 9
-  totalQuests: 16
-  totalProgtests: 1
+  gameTimer: {fileID: 0}
 --- !u!114 &1721021082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -701,8 +682,8 @@ MonoBehaviour:
   energy: 100
   social: 40
   hunger: 2
+  doTutorial: 1
   foundEasterEggs: 0
-  completedExams: 0
 --- !u!114 &1721021084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -715,14 +696,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b1f5c2d860ec3946ae3422ec455b8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  curDeltaTime: 0
-  seconds: 0
-  minutes: 0
-  inGameHours: 6
-  inGameMinutes: 0
-  inGameDay: 1
-  dayLenMins: 7
-  timer: 3
   stoped: 0
 --- !u!114 &1721021085
 MonoBehaviour:

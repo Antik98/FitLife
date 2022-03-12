@@ -17,7 +17,7 @@ public class FridgeInteract : DisplayHint
 
     public override void Action()
     {
-		if (SceneController.prevScene == "MainMenu") {
+		if (StatusController.Instance.GetComponent<PlayerStatus>().doTutorial) {
 			if (HasCollided())
 				firstEnter = true;
 		}

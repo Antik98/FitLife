@@ -65,8 +65,8 @@ public class ClassRoomEvent : MonoBehaviour
         GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         _gameTimer.StopTimer();
         yield return new WaitForSeconds(2);
-        popupMessage.Open(dialogue, optionalSprite: Teacher.GetComponent<SpriteRenderer>().sprite);
-        yield return new WaitForSeconds(2);
+        popupMessage.Open(dialogue, Teacher.GetComponent<SpriteRenderer>().sprite);
+        yield return new WaitUntil(() => !popupMessage.isActive());
         GetComponent<ChangeScene>().Activate();
     }
 

@@ -8,25 +8,18 @@ public class ChangeScene : DisplayHint {
     private SceneController sceneController;
     private GameObject player;
     private float moveSpeed;
-    private string displayTextOnHint = "Cestuj zmáčknutím E";
-    public bool playSound = true;
+    public string displayTextOnHint = "Cestuj zmáčknutím E";
     public bool CollisionActivated = true;
     private bool forceInvoked = false;
 
     // animation
     private Animator transition;
-    public float transitionTime = 1.5f;
+    public float transitionTime = 1;
 
     // sound
     private AudioSource audioPlayer;
     public AudioClip transitionSFX;
     private float audioVolume = 0.5f;
-
-    bool AnimatorIsPlaying()
-    {
-        return transitionTime + 0.2f >
-               transition.GetCurrentAnimatorStateInfo(0).normalizedTime;
-    }
 
     void Start() {
         sceneController = GameObject.FindGameObjectWithTag("GameController").GetComponent<SceneController>();
@@ -49,12 +42,13 @@ public class ChangeScene : DisplayHint {
 
     private void OnEnable()
     {
+        Close();
         StartCoroutine(WaitForTransition());
     }
 
     IEnumerator WaitForTransition()
     {
-        yield return new WaitForSecondsRealtime(transitionTime);
+        yield return new WaitWhile(() => transition?.IsInTransition(0) ?? false);
         StatusController.Instance.GetComponent<CoroutineQueue>().TriggerSceneChanged(SceneManager.GetActiveScene().name);
     }
 
@@ -66,7 +60,7 @@ public class ChangeScene : DisplayHint {
             {
                 Close();
 
-                if (playSound)
+                if (transitionSFX != null && audioPlayer != null)
                 {
                     audioPlayer.clip = transitionSFX;
                     audioPlayer.PlayOneShot(transitionSFX);
@@ -82,7 +76,7 @@ public class ChangeScene : DisplayHint {
                 forceInvoked = false;
                 Close();
 
-                if (playSound)
+                if (transitionSFX != null && audioPlayer != null)
                 {
                     audioPlayer.clip = transitionSFX;
                     audioPlayer.PlayOneShot(transitionSFX);
@@ -111,7 +105,6 @@ public class ChangeScene : DisplayHint {
 
     public void Activate()
     {
-        forceInvoked = true;
         GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         _gameTimer.StopTimer();
         StartCoroutine(LoadNextScene(toScene));
@@ -120,7 +113,6 @@ public class ChangeScene : DisplayHint {
     {
         if (!string.IsNullOrEmpty(customScene))
         {
-            forceInvoked = true;
             this.toScene = customScene; 
             StartCoroutine(LoadNextScene(customScene));
         }

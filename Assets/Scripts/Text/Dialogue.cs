@@ -13,4 +13,8 @@ public class Dialogue
     {
         this.sentences = sentences;
     }
+    public Dialogue(string sentence)
+    {
+        sentences = new string[] { sentence };
+    }
 }

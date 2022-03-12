@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: e63eeea9625f9f944b2bef11c1e4d1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1895040954483808096
+    second: miniature_npc_0
+  - first:
+      213: 1393772615820367541
+    second: miniature_npc_0
+  - first:
+      213: 1879572148066321847
+    second: miniature_npc_1
+  - first:
+      213: 2788997514946649365
+    second: miniature_npc_2
+  - first:
+      213: -4737257690690313851
+    second: miniature_npc_3
+  - first:
+      213: -4603321029753489328
+    second: miniature_npc_4
+  - first:
+      213: -3822549449226868846
+    second: miniature_npc_5
+  - first:
+      213: 6044022185171352092
+    second: miniature_npc_6
+  - first:
+      213: -1844460437666580743
+    second: miniature_npc_7
+  - first:
+      213: 1296179951281273020
+    second: miniature_npc_8
+  - first:
+      213: -1162698892191164369
+    second: miniature_npc_9
+  - first:
+      213: -3172676658990257796
+    second: miniature_npc_10
+  - first:
+      213: 7432205057357553764
+    second: miniature_npc_11
+  - first:
+      213: -814591337464735689
+    second: miniature_npc_12
+  - first:
+      213: 6063766415363212659
+    second: miniature_npc_13
+  - first:
+      213: -4489864842392828026
+    second: miniature_npc_14
+  - first:
+      213: -3497902591160084923
+    second: miniature_npc_15
+  - first:
+      213: -7692581829366665499
+    second: miniature_npc_16
+  - first:
+      213: -9032457490266837976
+    second: miniature_npc_17
+  - first:
+      213: -2572372931126023644
+    second: miniature_npc_18
+  - first:
+      213: 1117116149752669156
+    second: miniature_npc_19
+  - first:
+      213: 7855030012807206704
+    second: miniature_npc_20
+  - first:
+      213: -1434987681573264986
+    second: miniature_npc_21
+  - first:
+      213: -8593554285111438174
+    second: miniature_npc_22
+  - first:
+      213: 2671893994142492981
+    second: miniature_npc_23
+  - first:
+      213: 7617749948891501432
+    second: miniature_npc_24
+  - first:
+      213: 2085199672247934193
+    second: miniature_npc_25
+  - first:
+      213: 7512547622689755062
+    second: miniature_npc_26
+  - first:
+      213: -7224866346940000801
+    second: miniature_npc_27
+  - first:
+      213: -4844177993541230239
+    second: miniature_npc_28
+  - first:
+      213: 4686955393301279122
+    second: miniature_npc_29
+  - first:
+      213: -7742226332389610840
+    second: miniature_npc_30
+  - first:
+      213: 1008653748482967870
+    second: miniature_npc_31
+  - first:
+      213: 6621984692225560258
+    second: miniature_npc_32
+  - first:
+      213: 7269553190938350736
+    second: miniature_npc_33
+  - first:
+      213: -5052978739665246165
+    second: miniature_npc_34
+  - first:
+      213: 134018349482615401
+    second: miniature_npc_35
+  - first:
+      213: 9148395070097903907
+    second: miniature_npc_36
+  - first:
+      213: -1777004116312814582
+    second: miniature_npc_37
+  - first:
+      213: -8945521553592459485
+    second: miniature_npc_38
+  - first:
+      213: -3290270026878018822
+    second: miniature_npc_39
+  - first:
+      213: 7405032384265094417
+    second: miniature_npc_40
+  - first:
+      213: -2293986415628916992
+    second: miniature_npc_41
+  - first:
+      213: -7401833263331890513
+    second: miniature_npc_42
+  - first:
+      213: -1360999613895814281
+    second: miniature_npc_43
+  - first:
+      213: 6520669729563450726
+    second: miniature_npc_44
+  - first:
+      213: -1132228513998987919
+    second: miniature_npc_45
+  - first:
+      213: 3001679831598348432
+    second: miniature_npc_46
+  - first:
+      213: -5281488524899356635
+    second: miniature_npc_47
+  - first:
+      213: 782858415457665673
+    second: miniature_npc_48
+  - first:
+      213: 3892906889518581021
+    second: miniature_npc_49
+  - first:
+      213: 2181152827505283371
+    second: miniature_npc_50
+  - first:
+      213: 39018406793142807
+    second: miniature_npc_51
+  - first:
+      213: 4911942337705619010
+    second: miniature_npc_52
+  - first:
+      213: 3980704018669121332
+    second: miniature_npc_53
+  - first:
+      213: -5490258654982852659
+    second: miniature_npc_54
+  - first:
+      213: -8650081889070209217
+    second: miniature_npc_55
+  - first:
+      213: 6354408740716328505
+    second: miniature_npc_56
+  - first:
+      213: -4476792779355952113
+    second: miniature_npc_57
+  - first:
+      213: -3090410736990800082
+    second: miniature_npc_58
+  - first:
+      213: 7145896009151307949
+    second: miniature_npc_59
+  - first:
+      213: -6904786924256481196
+    second: miniature_npc_60
+  - first:
+      213: -1945717332448054991
+    second: miniature_npc_61
+  - first:
+      213: -7881295473470266907
+    second: miniature_npc_62
+  - first:
+      213: -3802525889261784141
+    second: miniature_npc_63
+  - first:
+      213: 7069946719538310447
+    second: miniature_npc_64
+  - first:
+      213: -374700976821111051
+    second: miniature_npc_65
+  - first:
+      213: 5243733651548594265
+    second: miniature_npc_66
+  - first:
+      213: 2234748067137417063
+    second: miniature_npc_67
+  - first:
+      213: 6071273584709199748
+    second: miniature_npc_68
+  - first:
+      213: -855960075289707552
+    second: miniature_npc_69
+  - first:
+      213: 4498955324451269893
+    second: miniature_npc_70
+  - first:
+      213: -8740737358976020666
+    second: miniature_npc_71
+  - first:
+      213: -7129283690714385360
+    second: miniature_npc_72
+  - first:
+      213: 1667357012414506236
+    second: miniature_npc_73
+  - first:
+      213: -2748809698689862398
+    second: miniature_npc_74
+  - first:
+      213: 5322295858477410911
+    second: miniature_npc_75
+  - first:
+      213: 8814299001731060479
+    second: miniature_npc_76
+  - first:
+      213: -1806728542837641206
+    second: miniature_npc_77
+  - first:
+      213: -7499137906315785366
+    second: miniature_npc_78
+  - first:
+      213: 8864235036015568047
+    second: miniature_npc_79
+  - first:
+      213: 6978837651875326558
+    second: miniature_npc_80
+  - first:
+      213: 3039870987471282463
+    second: miniature_npc_81
+  - first:
+      213: 483619038515609498
+    second: miniature_npc_82
+  - first:
+      213: 1511776576173525725
+    second: miniature_npc_83
+  - first:
+      213: -2679762647083376719
+    second: miniature_npc_84
+  - first:
+      213: 6975995844152700693
+    second: miniature_npc_85
+  - first:
+      213: -2959086614274937233
+    second: miniature_npc_86
+  - first:
+      213: -3532551848002832965
+    second: miniature_npc_87
+  - first:
+      213: 4871148241761444282
+    second: miniature_npc_88
+  - first:
+      213: -1301251757649180403
+    second: miniature_npc_89
+  - first:
+      213: -3161451129735871360
+    second: miniature_npc_90
+  - first:
+      213: 5328822847914584950
+    second: miniature_npc_91
+  - first:
+      213: -7811521792255600575
+    second: miniature_npc_92
+  - first:
+      213: 5645454378668557921
+    second: miniature_npc_93
+  - first:
+      213: 5239055434167303744
+    second: miniature_npc_94
+  - first:
+      213: 7665934675585149701
+    second: miniature_npc_95
+  - first:
+      213: 2315033316574473616
+    second: miniature_npc_96
+  - first:
+      213: -2460452331373350914
+    second: miniature_npc_97
+  - first:
+      213: 3356782206481185755
+    second: miniature_npc_98
+  - first:
+      213: -8802938059926556411
+    second: miniature_npc_99
+  - first:
+      213: 4245894360448832955
+    second: miniature_npc_100
+  - first:
+      213: -2283653012388179344
+    second: miniature_npc_101
+  - first:
+      213: -7328259926825671566
+    second: miniature_npc_102
+  - first:
+      213: -1079831286748871286
+    second: miniature_npc_103
+  - first:
+      213: -2054297011541469284
+    second: miniature_npc_104
+  - first:
+      213: -2944978792092260310
+    second: miniature_npc_105
+  - first:
+      213: -8874838879253836753
+    second: miniature_npc_106
+  - first:
+      213: -1354544711441722047
+    second: miniature_npc_107
+  - first:
+      213: -737457357851452096
+    second: miniature_npc_108
+  - first:
+      213: 2880442883362523218
+    second: miniature_npc_109
+  - first:
+      213: 4776569962652732785
+    second: miniature_npc_110
+  - first:
+      213: 4779800906271546949
+    second: miniature_npc_111
+  - first:
+      213: -5603937589077553571
+    second: miniature_npc_112
+  - first:
+      213: 4657687894700448433
+    second: miniature_npc_113
+  - first:
+      213: -4175460916529405556
+    second: miniature_npc_114
+  - first:
+      213: -8069335670886316251
+    second: miniature_npc_115
+  - first:
+      213: 3267784538441995940
+    second: miniature_npc_116
+  - first:
+      213: -5152591025134590450
+    second: miniature_npc_117
+  - first:
+      213: -613329619397329926
+    second: miniature_npc_118
+  - first:
+      213: -7491472320645527616
+    second: miniature_npc_119
+  - first:
+      213: 803948156757160261
+    second: miniature_npc_120
+  - first:
+      213: 5100092754004988175
+    second: miniature_npc_121
+  - first:
+      213: 8720549557829664812
+    second: miniature_npc_122
+  - first:
+      213: 7709038611178251710
+    second: miniature_npc_123
+  - first:
+      213: -5824731766608709688
+    second: miniature_npc_124
+  - first:
+      213: -3742673262202605383
+    second: miniature_npc_125
+  - first:
+      213: -1787619242188003907
+    second: miniature_npc_126
+  - first:
+      213: 8777516151133638901
+    second: miniature_npc_127
+  - first:
+      213: -8433885940817277681
+    second: miniature_npc_128
+  - first:
+      213: -711592652946307579
+    second: miniature_npc_129
+  - first:
+      213: 243468292378271338
+    second: miniature_npc_130
+  - first:
+      213: 8249307430528070088
+    second: miniature_npc_131
+  - first:
+      213: -173132296627123891
+    second: miniature_npc_132
+  - first:
+      213: -4102545408949584279
+    second: miniature_npc_133
+  - first:
+      213: -4900245752937950288
+    second: miniature_npc_134
+  - first:
+      213: -2338006875703594926
+    second: miniature_npc_135
+  - first:
+      213: -6137439423367819234
+    second: miniature_npc_136
+  - first:
+      213: 4621973473105078530
+    second: miniature_npc_137
+  - first:
+      213: 7532344793257014388
+    second: miniature_npc_138
+  - first:
+      213: -5642544665013719666
+    second: miniature_npc_139
+  - first:
+      213: -2793286360911740319
+    second: miniature_npc_140
+  - first:
+      213: -8451653996932362534
+    second: miniature_npc_141
+  - first:
+      213: 2410099769824965777
+    second: miniature_npc_142
+  - first:
+      213: 3709107820752960356
+    second: miniature_npc_143
+  - first:
+      213: 7309227411969139747
+    second: miniature_npc_144
+  - first:
+      213: 3746709254205828028
+    second: miniature_npc_145
+  - first:
+      213: 2305884776128321923
+    second: miniature_npc_146
+  - first:
+      213: -1221894224071266290
+    second: miniature_npc_147
+  - first:
+      213: 3540453791591507058
+    second: miniature_npc_148
+  - first:
+      213: 6760467677623403962
+    second: miniature_npc_149
+  - first:
+      213: -7297799520706396084
+    second: miniature_npc_150
+  - first:
+      213: -3990560827507114953
+    second: miniature_npc_151
+  - first:
+      213: -7963491255166378950
+    second: miniature_npc_152
+  - first:
+      213: -5599824342094401206
+    second: miniature_npc_153
+  - first:
+      213: 5634661717805088321
+    second: miniature_npc_154
+  - first:
+      213: 3933078363497140066
+    second: miniature_npc_155
+  - first:
+      213: 8225174840096536568
+    second: miniature_npc_156
+  - first:
+      213: 8445778398852922913
+    second: miniature_npc_157
+  - first:
+      213: 4566836977619766037
+    second: miniature_npc_158
+  - first:
+      213: 7668214127064567624
+    second: miniature_npc_159
+  - first:
+      213: 3598916247218967541
+    second: miniature_npc_160
+  - first:
+      213: -3127624678762282193
+    second: miniature_npc_161
+  - first:
+      213: -8009331349648206113
+    second: miniature_npc_162
+  - first:
+      213: -2916968065331187011
+    second: miniature_npc_163
+  - first:
+      213: -3748360589472198965
+    second: miniature_npc_164
+  - first:
+      213: 6984040299207578267
+    second: miniature_npc_165
+  - first:
+      213: 6078324855303038868
+    second: miniature_npc_166
+  - first:
+      213: 8990451682451652552
+    second: miniature_npc_167
+  - first:
+      213: -7704215177069839
+    second: miniature_npc_168
+  - first:
+      213: -149144435562386024
+    second: miniature_npc_169
+  - first:
+      213: -582733360848721280
+    second: miniature_npc_170
+  - first:
+      213: 3591866331711127355
+    second: miniature_npc_171
+  - first:
+      213: 9104497347301856419
+    second: miniature_npc_172
+  - first:
+      213: -1989463000057339871
+    second: miniature_npc_173
+  - first:
+      213: -9045708512239757157
+    second: miniature_npc_174
+  - first:
+      213: 3642082687427831317
+    second: miniature_npc_175
+  - first:
+      213: -1338454646851853349
+    second: miniature_npc_176
+  - first:
+      213: 8451454102562488378
+    second: miniature_npc_177
+  - first:
+      213: 120762311136697599
+    second: miniature_npc_178
+  - first:
+      213: 6137741592813379120
+    second: miniature_npc_179
+  - first:
+      213: 4384899849046892127
+    second: miniature_npc_180
+  - first:
+      213: 4097684061667876447
+    second: miniature_npc_181
+  - first:
+      213: 5429720952587111612
+    second: miniature_npc_182
+  - first:
+      213: -6061328454358012963
+    second: miniature_npc_183
+  - first:
+      213: 4238948558068552942
+    second: miniature_npc_184
+  - first:
+      213: 4376948111552226969
+    second: miniature_npc_185
+  - first:
+      213: 8297541981736735768
+    second: miniature_npc_186
+  - first:
+      213: -500759271331899762
+    second: miniature_npc_187
+  - first:
+      213: 8263031098498075260
+    second: miniature_npc_188
+  - first:
+      213: -5234875499519680994
+    second: miniature_npc_189
+  - first:
+      213: -4042567186809543289
+    second: miniature_npc_190
+  - first:
+      213: 8125666094295659561
+    second: miniature_npc_191
+  - first:
+      213: 2963828178750209894
+    second: miniature_npc_192
+  - first:
+      213: 3324547592413005093
+    second: miniature_npc_193
+  - first:
+      213: -5588783275573547857
+    second: miniature_npc_194
+  - first:
+      213: 3066294699884006073
+    second: miniature_npc_195
+  - first:
+      213: 2629381547907771345
+    second: miniature_npc_196
+  - first:
+      213: 93114412121508314
+    second: miniature_npc_197
+  - first:
+      213: -1031786697427815028
+    second: miniature_npc_198
+  - first:
+      213: 6208959779808996811
+    second: miniature_npc_199
+  - first:
+      213: -3722043466261017542
+    second: miniature_npc_200
+  - first:
+      213: -422686612571005671
+    second: miniature_npc_201
+  - first:
+      213: -4077418152875196602
+    second: miniature_npc_202
+  - first:
+      213: -3310226606797117514
+    second: miniature_npc_203
+  - first:
+      213: 2873053261096937731
+    second: miniature_npc_204
+  - first:
+      213: -3787162933960256845
+    second: miniature_npc_205
+  - first:
+      213: -4286829693128252888
+    second: miniature_npc_206
+  - first:
+      213: -1541207608475875477
+    second: miniature_npc_207
+  - first:
+      213: -2612161275904326407
+    second: miniature_npc_208
+  - first:
+      213: -7409260898852119903
+    second: miniature_npc_209
+  - first:
+      213: -3037679641817970175
+    second: miniature_npc_210
+  - first:
+      213: 5460777459333516672
+    second: miniature_npc_211
+  - first:
+      213: 8873120977390298062
+    second: miniature_npc_212
+  - first:
+      213: 3044671648190587393
+    second: miniature_npc_213
+  - first:
+      213: 1893799053114599817
+    second: miniature_npc_214
+  - first:
+      213: -8835523615427899640
+    second: miniature_npc_215
+  - first:
+      213: 5296735097257314692
+    second: miniature_npc_216
+  - first:
+      213: -3335554895043346220
+    second: miniature_npc_217
+  - first:
+      213: 4464082537972410611
+    second: miniature_npc_218
+  - first:
+      213: -1234988156893792148
+    second: miniature_npc_219
+  - first:
+      213: 2606170213769648549
+    second: miniature_npc_220
+  - first:
+      213: -3270085107383032557
+    second: miniature_npc_221
+  - first:
+      213: 342325337003878393
+    second: miniature_npc_222
+  - first:
+      213: -4911187144758361371
+    second: miniature_npc_223
+  - first:
+      213: -6391488560572990425
+    second: miniature_npc_224
+  - first:
+      213: 2658370964833542011
+    second: miniature_npc_225
+  - first:
+      213: 1658829598939806253
+    second: miniature_npc_226
+  - first:
+      213: 5418326251822912314
+    second: miniature_npc_227
+  - first:
+      213: -6160731987583420980
+    second: miniature_npc_228
+  - first:
+      213: -2951300662246886403
+    second: miniature_npc_229
+  - first:
+      213: 6317123219594350712
+    second: miniature_npc_230
+  - first:
+      213: 431493755834376585
+    second: miniature_npc_231
+  - first:
+      213: 159041790071352315
+    second: miniature_npc_232
+  - first:
+      213: -1009258168664150100
+    second: miniature_npc_233
+  - first:
+      213: 5268740596549665388
+    second: miniature_npc_234
+  - first:
+      213: 2866927579027918969
+    second: miniature_npc_235
+  - first:
+      213: -3290116311879560979
+    second: miniature_npc_236
+  - first:
+      213: -6532960727052800968
+    second: miniature_npc_237
+  - first:
+      213: -8478997273956735507
+    second: miniature_npc_238
+  - first:
+      213: -6858005034722040876
+    second: miniature_npc_239
+  - first:
+      213: -7394819105668348225
+    second: miniature_npc_240
+  - first:
+      213: 8970379241561418973
+    second: miniature_npc_241
+  - first:
+      213: -8996055401422579012
+    second: miniature_npc_242
+  - first:
+      213: 5725504249332099231
+    second: miniature_npc_243
+  - first:
+      213: -5342610144485930486
+    second: miniature_npc_244
+  - first:
+      213: -6738273307145542006
+    second: miniature_npc_245
+  - first:
+      213: 2844047925201691668
+    second: miniature_npc_246
+  - first:
+      213: 6749550578042380444
+    second: miniature_npc_247
+  - first:
+      213: -6136369982496837149
+    second: miniature_npc_248
+  - first:
+      213: -4109588261279488288
+    second: miniature_npc_249
+  - first:
+      213: -3916640527921877791
+    second: miniature_npc_250
+  - first:
+      213: 1054105619427745256
+    second: miniature_npc_251
+  - first:
+      213: 1025312981161146830
+    second: miniature_npc_252
+  - first:
+      213: -2891609250018199699
+    second: miniature_npc_253
+  - first:
+      213: 5756833753250703675
+    second: miniature_npc_254
+  - first:
+      213: 116822883014230851
+    second: miniature_npc_255
+  - first:
+      213: -1954640046781071187
+    second: miniature_npc_256
+  - first:
+      213: 5543155448139395840
+    second: miniature_npc_257
+  - first:
+      213: -3723467866890689018
+    second: miniature_npc_258
+  - first:
+      213: 146238873789099889
+    second: miniature_npc_259
+  - first:
+      213: -8417018988691739556
+    second: miniature_npc_260
+  - first:
+      213: 8909525921031409629
+    second: miniature_npc_261
+  - first:
+      213: -1901333260698822465
+    second: miniature_npc_262
+  - first:
+      213: -1184548986793995583
+    second: miniature_npc_263
+  - first:
+      213: -878173166248841527
+    second: miniature_npc_264
+  - first:
+      213: -6323916328956263794
+    second: miniature_npc_265
+  - first:
+      213: -5717556716927858465
+    second: miniature_npc_266
+  - first:
+      213: 6066839889038610857
+    second: miniature_npc_267
+  - first:
+      213: 8971764247656984422
+    second: miniature_npc_268
+  - first:
+      213: -955408678577333997
+    second: miniature_npc_269
+  - first:
+      213: 3763881758264406150
+    second: miniature_npc_270
+  - first:
+      213: 2297853709158953447
+    second: miniature_npc_271
+  - first:
+      213: -1530259195747151916
+    second: miniature_npc_272
+  - first:
+      213: 757943325103026249
+    second: miniature_npc_273
+  - first:
+      213: 1171417800693570681
+    second: miniature_npc_274
+  - first:
+      213: -6732660268201570733
+    second: miniature_npc_275
+  - first:
+      213: 8520806230398797528
+    second: miniature_npc_276
+  - first:
+      213: -6345114786340371923
+    second: miniature_npc_277
+  - first:
+      213: -3061604531535997521
+    second: miniature_npc_278
+  - first:
+      213: 1638706845429449499
+    second: miniature_npc_279
+  - first:
+      213: 2684492418874245263
+    second: miniature_npc_280
+  - first:
+      213: -6967237525464474497
+    second: miniature_npc_281
+  - first:
+      213: -8481105687179334842
+    second: miniature_npc_282
+  - first:
+      213: -7532121803200513099
+    second: miniature_npc_283
+  - first:
+      213: -8659527879516493532
+    second: miniature_npc_284
+  - first:
+      213: -1773933433499403397
+    second: miniature_npc_285
+  - first:
+      213: -2553191714986190641
+    second: miniature_npc_286
+  - first:
+      213: -1472763635513805338
+    second: miniature_npc_287
+  - first:
+      213: 1317744434897590254
+    second: miniature_npc_288
+  - first:
+      213: -3813839116764365154
+    second: miniature_npc_289
+  - first:
+      213: -589049417219497179
+    second: miniature_npc_290
+  - first:
+      213: 4089862299495869986
+    second: miniature_npc_291
+  - first:
+      213: -5154387906683404080
+    second: miniature_npc_292
+  - first:
+      213: 4340224783341393517
+    second: miniature_npc_293
+  - first:
+      213: 4778973659371529721
+    second: miniature_npc_294
+  - first:
+      213: 7602306189581098514
+    second: miniature_npc_295
+  - first:
+      213: 5487084703383276588
+    second: miniature_npc_296
+  - first:
+      213: -3838341685095582559
+    second: miniature_npc_297
+  - first:
+      213: 7999625115320701371
+    second: miniature_npc_298
+  - first:
+      213: -7812343551009762524
+    second: miniature_npc_299
+  - first:
+      213: 6457881913055404691
+    second: miniature_npc_300
+  - first:
+      213: 6198756920729934209
+    second: miniature_npc_301
+  - first:
+      213: -6166358756644571774
+    second: miniature_npc_302
+  - first:
+      213: -1688539339628431235
+    second: miniature_npc_303
+  - first:
+      213: -7768040947206138729
+    second: miniature_npc_304
+  - first:
+      213: 2855529782657942359
+    second: miniature_npc_305
+  - first:
+      213: 5595394788818947312
+    second: miniature_npc_306
+  - first:
+      213: 8698487306316589420
+    second: miniature_npc_307
+  - first:
+      213: -4189072918091301583
+    second: miniature_npc_308
+  - first:
+      213: -3572355028506675708
+    second: miniature_npc_309
+  - first:
+      213: 5515252004791596347
+    second: miniature_npc_310
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miniature_npc_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 552
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5063709e4951a10800000000000000
+      internalID: 1879572148066321847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 549
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581aae8ba31e14eb0800000000000000
+      internalID: -4737257690690313851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 545
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583572b9e7bd10c0800000000000000
+      internalID: -4603321029753489328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 549
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a776578393fac0800000000000000
+      internalID: -3822549449226868846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 524
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28943e84834ddfe0800000000000000
+      internalID: -1162698892191164369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 523
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738dd459e7df1b4f0800000000000000
+      internalID: -814591337464735689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 524
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68709a3d6bbc0b1c0800000000000000
+      internalID: -4489864842392828026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 522
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5461cf24024f47fc0800000000000000
+      internalID: -3497902591160084923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 504
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e32cde283bc08f00800000000000000
+      internalID: 1117116149752669156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 497
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037d76dcd2ca20d60800000000000000
+      internalID: 7855030012807206704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 478
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1a3c67e46e51ce0800000000000000
+      internalID: -1434987681573264986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 463
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3981bb7d357ffd00800000000000000
+      internalID: 1008653748482967870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 460
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cecd282ef306eb50800000000000000
+      internalID: 6621984692225560258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ab429af02cd100800000000000000
+      internalID: 134018349482615401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_38
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 393
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f558bda8f1bd380800000000000000
+      internalID: -8945521553592459485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 387
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115826e48b5f3c660800000000000000
+      internalID: 7405032384265094417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 363
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaae641dd7674990800000000000000
+      internalID: -7401833263331890513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 333
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d954032921e7a50800000000000000
+      internalID: 6520669729563450726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 326
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520721c4b2264b6b0800000000000000
+      internalID: -5281488524899356635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98287c2c4954dda00800000000000000
+      internalID: 782858415457665673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 305
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d150d65c032660630800000000000000
+      internalID: 3892906889518581021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_50
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 306
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b219a4cb0f2054e10800000000000000
+      internalID: 2181152827505283371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 307
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126b94c80f9a8000800000000000000
+      internalID: 39018406793142807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 305
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e25241889ba2440800000000000000
+      internalID: 4911942337705619010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 310
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2ebcd63d4e3730800000000000000
+      internalID: 3980704018669121332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f372eeb1a5cb4f780800000000000000
+      internalID: -8650081889070209217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 271
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b80425156f2850800000000000000
+      internalID: 6354408740716328505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 272
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c647dafac3fd1c0800000000000000
+      internalID: -4476792779355952113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 271
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273c93fec7ac15d0800000000000000
+      internalID: -3090410736990800082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 272
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4503ee120e44d20a0800000000000000
+      internalID: -6904786924256481196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33351b9d6ba3bc0800000000000000
+      internalID: -3802525889261784141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 232
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f593627bcccaf0800000000000000
+      internalID: -374700976821111051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 233
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f6730e68b630f10800000000000000
+      internalID: 2234748067137417063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 231
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487edc6882f714450800000000000000
+      internalID: 6071273584709199748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 230
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2546f7008f6e30800000000000000
+      internalID: 4498955324451269893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_71
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 247
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f8f33bea9a2b680800000000000000
+      internalID: -8740737358976020666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf429b66e54a32710800000000000000
+      internalID: 1667357012414506236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 198
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205317294244ad9d0800000000000000
+      internalID: -2748809698689862398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a241272e79cd940800000000000000
+      internalID: 5322295858477410911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miniature_npc_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 228
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2924eed3ea25a70800000000000000
+      internalID: 8814299001731060479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

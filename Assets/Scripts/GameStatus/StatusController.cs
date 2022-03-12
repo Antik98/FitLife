@@ -11,7 +11,6 @@ public class StatusController : MonoBehaviour
 
     public static StatusController Instance { get { return _instance; } }
 
-    // Start is called before the first frame update
     void Awake()
     {
         if (SceneManager.GetActiveScene().name == "MainMenu" || _instance != null)

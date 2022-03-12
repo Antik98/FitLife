@@ -4,7 +4,6 @@ using UnityEngine;
  
 public class StrahovScene : SceneController {
  
-    public Transform player;
  
     public override void Start () {
         base.Start();

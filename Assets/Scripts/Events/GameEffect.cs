@@ -4,7 +4,7 @@ using UnityEngine;
 
 public abstract class GameEffect : MonoBehaviour
 {
-    public bool done;
+    public bool done = false;
     public bool isDone()
     {
         return done;

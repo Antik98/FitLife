@@ -1,16 +1,31 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class PlayerStatus : MonoBehaviour
 {
+    public enum Stats
+    {
+        ENERGY = 0,
+        HUNGER = 1,
+        SOCIAL = 2
+    }
 
     public int energy = 100; 
     public int social = 50;
     public int hunger = 100;
+    public bool doTutorial = false;
     public int foundEasterEggs = 0;
     private GameTimer gameTimer;
 
+    public delegate void AttributesChanged();
+    public event AttributesChanged HandleAttributesChanged;
+
+    public delegate void EventTriggeredAttributeChanged(object sender, Stats stats, int value);
+    public event EventTriggeredAttributeChanged HandleEventTriggeredAttributeChanged;
+    
     public void Reset()
     {
         StopAllCoroutines();
@@ -23,10 +38,9 @@ public class PlayerStatus : MonoBehaviour
 
     public int LimitToRange(int value, int inclusiveMinimum, int inclusiveMaximum)
     {
-        if (value < inclusiveMinimum) { return inclusiveMinimum; }
-        if (value > inclusiveMaximum) { return inclusiveMaximum; }
-        return value;
+        return Mathf.Clamp(value, inclusiveMinimum, inclusiveMaximum);
     }
+
     private void Start()
     {
         gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
@@ -43,7 +57,7 @@ public class PlayerStatus : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(15f);
+            yield return new WaitForSeconds(12f);
             if (!gameTimer.TimerStoped())
             {
 
@@ -63,28 +77,35 @@ public class PlayerStatus : MonoBehaviour
                     social = 100;
                 }
                 // social -= 1;
+                HandleAttributesChanged?.Invoke();
             }
         }
     }
 
+    private void Update()
+    {
+        if (Application.isEditor && (Input.GetKeyDown(KeyCode.Minus) || Input.GetKeyDown(KeyCode.KeypadMinus)))
+            addHungerValue(1);
+    }
 
-    
+
+
     public void addEnergyValue(int value)
     {
-        energy += value;
-        LimitToRange(energy, 0, 100);
+        energy = LimitToRange(value+energy, 0, 100);
+        HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.ENERGY, value);
     }
 
     public void addSocialValue(int value)
     {
-        social += value;
-        LimitToRange(social, 0, 100);
+        social = LimitToRange(value+social, 0, 100);
+        HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.SOCIAL, value);
     }
 
     public void addHungerValue(int value)
     {
-        hunger += value;
-        LimitToRange(hunger, 0, 100);
+        hunger = LimitToRange(value+hunger, 0, 100);
+        HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.HUNGER, value);
     }
 
 }

@@ -16,7 +16,7 @@ public class DisplayHint : MonoBehaviour
     public virtual void Action() { }
 
     void OnGUI(){
-        if (displayHint) {
+        if (labelText.Length != 0 && displayHint) {
             Vector3 screenPosition = Camera.main.WorldToScreenPoint(GameObject.FindGameObjectsWithTag("Player")[0].transform.position);
             screenPosition.y = Screen.height - screenPosition.y;
             GUIStyle hintStyle = new GUIStyle("box");
@@ -34,7 +34,6 @@ public class DisplayHint : MonoBehaviour
     public void Close()
     {
         displayHint = false;
-
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

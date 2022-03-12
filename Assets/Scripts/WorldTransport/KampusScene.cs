@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class KampusScene : SceneController
 {
-    public Transform player;
 
     public override void Start()
     {

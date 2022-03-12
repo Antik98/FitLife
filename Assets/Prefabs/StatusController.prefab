@@ -60,12 +60,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b1f5c2d860ec3946ae3422ec455b8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  curDeltaTime: 0
-  seconds: 0
-  minutes: 0
-  inGameHours: 6
-  inGameMinutes: 0
-  inGameDay: 1
   stoped: 0
 --- !u!114 &543115629837344572
 MonoBehaviour:
@@ -82,6 +76,7 @@ MonoBehaviour:
   energy: 100
   social: 50
   hunger: 50
+  doTutorial: 0
   foundEasterEggs: 0
 --- !u!114 &543115629837344573
 MonoBehaviour:
@@ -108,10 +103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0513dccebfe9ee4081389711fb04c4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  activeQuests: 
-  failedQuests: 
-  questDisplay: {fileID: 0}
-  totalProgtests: 1
+  gameTimer: {fileID: 0}
 --- !u!114 &-8584971388667610409
 MonoBehaviour:
   m_ObjectHideFlags: 0

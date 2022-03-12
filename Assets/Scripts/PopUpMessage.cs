@@ -2,85 +2,94 @@
 using System.Collections;
 using UnityEngine.UI;
 using UnityEngine;
+using TMPro;
+using System.Linq;
+using System;
 
 public class PopUpMessage : MonoBehaviour
 {
     public GameObject ui;
-    public Queue<string> dialogueQueue;
-    Text textObject;
+    public Queue<string> sentencesQueue = new Queue<string>();
+    public Queue<(Dialogue, Sprite[])> dialogueQueue = new Queue<(Dialogue, Sprite[])>();
+    public TextMeshProUGUI textObject;
+    public Func<bool> dismissFunc;
+    public Animator popUpMessageAnimator;
 
-    private Vector3 mePosition;
-    private Vector3 theyPosition;
     private GameObject player;
-    private bool setPosition = false;
     public Sprite Player;
-    private Image imgObject;
+    public Image imgObject;
+    public Sprite defaultSprite;
     private Sprite optionalSprite;
     private Sprite optionalSprite2;
     private Sprite optionalSprite3;
+    private GameTimer gameTimer;
 
     void Start()
     {
-        dialogueQueue = new Queue<string>();
-        textObject = ui.gameObject.GetComponentInChildren<Text>();
         player = GameObject.FindGameObjectWithTag("Player");
-        imgObject = ui.gameObject.GetComponentsInChildren<Image>()[3];
-
+        gameTimer = StatusController.Instance.GetComponent<GameTimer>();
+        ui.SetActive(true);
     }
 
     void Update()
     {
-        if(ui.activeSelf && Input.GetKeyDown(KeyCode.Space))
+        dismissFunc = dismissFunc ?? (() => Input.GetKeyDown(KeyCode.Space));
+        if (popUpMessageAnimator.GetBool("IsOpen") && dismissFunc.Invoke())
         {
             DisplayNextSentence();
         }
 
     }
 
-    public void Open(Dialogue dialogue, Sprite optionalSprite = null, Sprite optionalSprite2 = null, Sprite optionalSprite3 = null)
+    public void Open(Dialogue dialogue, params Sprite[] sprites)
     {
-
-        this.optionalSprite = optionalSprite;
-        this.optionalSprite2 = optionalSprite2;
-        this.optionalSprite3 = optionalSprite3;
-
         ui.SetActive(true);
+        AddDialogue(dialogue, sprites);
+        if (isActive())
+            return;
+
+        popUpMessageAnimator.SetBool("IsOpen", true);
 
         if (player ?? false)
             player.GetComponent<playerMovement>().lockPlayer();
 
-        DisplayText(dialogue);
-
-        Time.timeScale = 0f;
+        gameTimer?.StopTimer();
+        DisplayNextSentence();
     }
 
-    public void DisplayText(Dialogue dialogue)
+    public void AddDialogue(Dialogue dialogue, params Sprite[] sprites)
     {
-        dialogueQueue.Clear();
+        dialogueQueue.Enqueue((dialogue, sprites));
+    }
+
+    public void DisplayDialogue(Dialogue dialogue, Sprite[] sprites)
+    {
+        optionalSprite = sprites.ElementAtOrDefault(0);
+        optionalSprite2 = sprites.ElementAtOrDefault(1);
+        optionalSprite3 = sprites.ElementAtOrDefault(2);
+
         foreach (string sentence in dialogue.sentences)
         {
-            dialogueQueue.Enqueue(sentence);
+            sentencesQueue.Enqueue(sentence);
         }
-        DisplayNextSentence();
     }
 
     public void DisplayNextSentence()
     {
-        if (!setPosition)
-        {
-            mePosition = ui.GetComponent<RectTransform>().position;
-            theyPosition = mePosition;
-            theyPosition.x += 2.3f;
-            setPosition = true;
-        }
        
-        if (dialogueQueue.Count == 0)
+        if (sentencesQueue.Count == 0 && dialogueQueue.Count == 0)
         {
+            gameTimer.stoped = false;
             Close();
             return;
         }
+        else if (sentencesQueue.Count == 0)
+        {
+            (var Dialogue, var Sprites) = dialogueQueue.Dequeue();
+            DisplayDialogue(Dialogue, Sprites);
+        }
 
-        string display = dialogueQueue.Dequeue();
+        string display = sentencesQueue.Dequeue();
   
         
         if (display.StartsWith("[ME]"))
@@ -101,16 +110,9 @@ public class PopUpMessage : MonoBehaviour
         }
         else
         {
-            if (optionalSprite != null)
-            {
-                imgObject.sprite = optionalSprite;
-            }
-            else
-                imgObject.sprite = null;
-
+            imgObject.sprite = optionalSprite ?? defaultSprite;
            
         }
-
         StopAllCoroutines();
         StartCoroutine(DisplaySentence(display));
         
@@ -129,24 +131,16 @@ public class PopUpMessage : MonoBehaviour
     }
     public bool isActive()
     {
-        return ui.activeSelf;
-    }
-    public bool isNotActive()
-    {
-        return !ui.activeSelf;
+        return popUpMessageAnimator.GetBool("IsOpen");
     }
     public void Close()
     {
+        popUpMessageAnimator.SetBool("IsOpen", false);
         textObject.text = "";
-        ui.SetActive(!ui.activeSelf);
+        //ui.SetActive(!ui.activeSelf);
         if (!ui.activeSelf)
         {
             Time.timeScale = 1f;
-        }
-
-        foreach (Transform child in transform)
-        {
-            //child.position = mePosition;
         }
 
         if (player ?? false)

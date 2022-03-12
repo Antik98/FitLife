@@ -39,27 +39,27 @@ public class EasterEgg : DisplayHint
             if(repeatableDialog || !dialogDone)
             {
                 if (tmp != null && spriteOverrideDefault == null)
-                    popupMessage.Open(dialogue, optionalSprite: tmp.sprite);
+                    popupMessage.Open(dialogue, tmp.sprite);
                 else if (spriteOverrideDefault != null || spriteOverride2 != null || spriteOverride3 != null)
                     popupMessage.Open(dialogue, spriteOverrideDefault, spriteOverride2, spriteOverride3);
                 else
-                    popupMessage.Open(dialogue, optionalSprite: easterEgg);
+                    popupMessage.Open(dialogue, easterEgg);
                 Close();
                 dialogDone = true;
-                StartCoroutine(WaitAfterDialog(executeAfterDialog));
+                StartCoroutine(WaitAfterDialog());
             }
         }
     }
 
-    public IEnumerator WaitAfterDialog(Action inpFunc)
+    public IEnumerator WaitAfterDialog()
     {
+        executeAfterDialog();
         yield return new WaitWhile(popupMessage.isActive);
         if(gameEffect != null)
         {
             StartCoroutine(gameEffect.execute());
             yield return new WaitWhile(gameEffect.isDone);
         }
-        inpFunc();
     }
 
 
@@ -74,7 +74,7 @@ public class EasterEgg : DisplayHint
                 if (_questFinishingHere is QuestInteraction)
                 {
                     string[] _tmp = { ((QuestInteraction)_questFinishingHere).questCompleteText };
-                    StartCoroutine(WaitAfterDialog(() => popupMessage.Open(new Dialogue(_tmp), _questFinishingHere.getQuestIcon())));
+                    popupMessage.Open(new Dialogue(_tmp), _questFinishingHere.getQuestIcon());
                 }
             }
         }
@@ -89,7 +89,7 @@ public class EasterEgg : DisplayHint
                 {
                     
                     string[] _tmp = { ((QuestInteraction)_questFinishingHere).questTurnInText };
-                    StartCoroutine(WaitAfterDialog(() => popupMessage.Open(new Dialogue(_tmp), _questFinishingHere.getQuestIcon())));
+                    popupMessage.Open(new Dialogue(_tmp), _questFinishingHere.getQuestIcon());
                 }
             }
         }
@@ -104,7 +104,7 @@ public class EasterEgg : DisplayHint
                 {
                     
                     string[] _tmp = { ((QuestInteraction)_questFinishingHere).questAcceptText };
-                    StartCoroutine(WaitAfterDialog(() => popupMessage.Open(new Dialogue(_tmp), _questFinishingHere.getQuestIcon())));
+                    popupMessage.Open(new Dialogue(_tmp), _questFinishingHere.getQuestIcon());
                 }
             }
         }

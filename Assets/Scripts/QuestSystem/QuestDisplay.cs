@@ -97,4 +97,8 @@ public class QuestDisplay : MonoBehaviour
         if(QuestExists(num))
             questTracker.FailQuest(num);
     }
+    public bool isActive()
+    {
+        return gameObject.activeSelf;
+    }
 }

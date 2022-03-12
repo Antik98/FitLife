@@ -1,31 +1,31 @@
 ﻿using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.UIElements;
-using Zenject;
+using TMPro;
+using System.Collections.Generic;
 
 public class TutorialManager : MonoBehaviour
 {
     public GameObject pointer;
+    public RectTransform pointerManagerRectTransform;
     public GameObject[] interactions;
+    public RectTransform[] pointerLocations;
+    public PopUpMessage popUpMessage;
+    public TextMeshProUGUI continueText;
+
     private int popUpIndex = 0;
     public GameObject player;
+    public PhoneDisplay phone;
     private GameObject fridge;
     private GameTimer gameTimer;
-
-    private bool startTutorial = false;
-
-    private Text TutorialText;
-    private Text ContinueBox;
-    public GameObject TutorialBox;
-    private Vector2 defaultPositionPointer;
+    private bool shouldDoTutorial;
 
 
     string[] TextDatabase = new string[]
     {
         "Ahoj, vítáme tě u naší hry, která se ti pokusí přiblížit život studentů na FITu, fakultě informatiky ČVUT. Tvým úkolem bude vyzkoušet si poslední tři dny našeho studia prvního semestru.",
         "Začneme jednoduchým tutoriálem. Pohyb je jako všude pomocí WASD, popřípadě šipek, tak si to zkus.",
-        "Skvěle, Další klávesou, kterou při hraní využiješ, je klávesa E, sloužící k interakci. Zkus si vzít něco z ledničky.",
+        "Super, další klávesou, kterou při hraní využiješ, je klávesa E, sloužící k interakci. Zkus si vzít něco z ledničky.",
         "Krom podezřele zapáchajícího guláše a týden staré pizzy z polotovaru toho v ledničce moc není. Poslední klávesou, kterou při hraní využiješ, je TAB. Zmáčkni TAB a sleduj, co se stane.",
         "Seznam se s věcí, jež ničí všechny moderní vztahy a díky níž nám utíká život mezi prsty. Tento mobil ti ale naopak bude důležitým pomocníkem.",
         "První důležitá věc je čas. Stejně jako v životě, ani ve hře ho nemáš neomezený. Na každý herní den jej máš vymezený, tak si dej pozor, aby jsi stihnul všechny přednášky a byl včas zpátky doma.",
@@ -52,173 +52,111 @@ public class TutorialManager : MonoBehaviour
     {
         fridge = GameObject.Find("FridgeInteractive");
         gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
-
-        if (SceneController.prevScene == "MainMenu")
+        shouldDoTutorial = StatusController.Instance.GetComponent<PlayerStatus>().doTutorial;
+        if (shouldDoTutorial)
         {
+            lockInteraction();
             lockPlayer();
-        }
-        else
-        {
-            popUpIndex = 11;
         }
     }
 
-    void Update()
+    private void Update()
     {
-        if (!startTutorial)
-        {
-            CheckMorning();
-        }
-        else
+        if (shouldDoTutorial)
         {
             DoTutorial();
         }
-    }
-
-
-
-    private void CheckMorning()
-    {
-        if (!GetComponent<HomeMorningEvent>().isFinished)
-            return;
-
-        startTutorial = true;
-
-        lockPlayer();
-        gameTimer.StopTimer();
-        lockInteraction();
-
-        TutorialBox.SetActive(true);
-        TutorialText = GameObject.FindGameObjectWithTag("TutorialText").GetComponent<Text>();
-        ContinueBox = GameObject.FindGameObjectWithTag("ContinueText").GetComponent<Text>();
-
-        DisplayText();
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void DoTutorial()
     {
-        if (!GetAction())
-            return;
+        phone.SetPhoneState(canOpenPhone());
 
-        popUpIndex++;
+        if (popUpMessage.isActive())
+            return;
+        DisplayPointer();
+        DisplayText();
+        progress();
 
         if (popUpIndex >= TextDatabase.Length)
         {
+            StatusController.Instance.GetComponent<PlayerStatus>().doTutorial = false;
             unlockInteraction();
             gameTimer.StartTimer();
             Destroy(gameObject); //destroys this object and no tutorial is called anymore
             return;
         }
-
-        DisplayText();
-        DisplayPointer();
     }
 
     private void DisplayPointer()
     {
-
-        switch (popUpIndex)
+        if (popUpIndex >= 5 && popUpIndex <= 9)
         {
-            case 5:
-                defaultPositionPointer = pointer.transform.position;
-                break;
-            case 6:
-                pointer.transform.position = defaultPositionPointer + new Vector2(0, -0.8f);
-                break;
-            case 7:
-                pointer.transform.position = defaultPositionPointer + new Vector2(0, -1.2f);
-                break;
-            case 8:
-                pointer.transform.position = defaultPositionPointer + new Vector2(0, -1.6f);
-                break;
-            case 9:
-                pointer.transform.position = defaultPositionPointer + new Vector2(0, -0.3f);
-                break;
-            default:
-                pointer.SetActive(false);
-                return;
+            pointer.SetActive(true);
+            pointerManagerRectTransform.position = pointerLocations[popUpIndex - 5].position;
         }
-
-        pointer.SetActive(true);
+        else
+            pointer.SetActive(false);
     }
 
     private void DisplayText()
     {
-        TutorialText.text = TextDatabase[popUpIndex];
+        popUpMessage.Open(new Dialogue(TextDatabase[popUpIndex]));
 
         if (popUpIndex < 4)
         {
-            ContinueBox.text = ContinueDatabase[popUpIndex];
+            continueText.text = ContinueDatabase[popUpIndex];
         }
         else if (popUpIndex == 9)
         {
-            ContinueBox.text = ContinueDatabase[TAB_END];
+            continueText.text = ContinueDatabase[TAB_END];
         }
         else
         {
-            ContinueBox.text = ContinueDatabase[DEFAULT_CONTINUE];
+            continueText.text = ContinueDatabase[DEFAULT_CONTINUE];
         }
     }
 
-    private bool GetAction()
+    private void progress()
     {
-        if (popUpIndex == 0)
+        if (popUpIndex == 1)
         {
-            return IsPressedKeyOrMouse(KeyCode.Space);
-        }
-        else if (popUpIndex == 1)
-        {
-            if (IsPressedKeyOrMouse(KeyCode.W, KeyCode.A, KeyCode.S, KeyCode.D,
-                KeyCode.UpArrow, KeyCode.LeftArrow, KeyCode.DownArrow, KeyCode.RightArrow))
-            {
-                unlockPlayer();
-                return true;
-            }
+            unlockPlayer();
+            popUpMessage.dismissFunc = (() =>  IsPressedKeyOrMouse (KeyCode.W, KeyCode.A, KeyCode.S, KeyCode.D,
+                KeyCode.UpArrow, KeyCode.LeftArrow, KeyCode.DownArrow, KeyCode.RightArrow)); 
         }
         else if (popUpIndex == 2)
         {
-            return fridge.GetComponent<FridgeInteract>().firstEnter && IsPressedKeyOrMouse(KeyCode.E);
+            unlockPlayer();
+            popUpMessage.dismissFunc = (() => fridge.GetComponent<FridgeInteract>().firstEnter && IsPressedKeyOrMouse(KeyCode.E));
         }
         else if (popUpIndex == 3)
         {
-            lockPlayer();
-            if (IsPressedKeyOrMouse(KeyCode.Tab))
-            {
-                return true;
-            }
-            return false;
+            popUpMessage.dismissFunc = (() => Input.GetKeyDown(KeyCode.K));
         }
         else if (popUpIndex >= 4 && popUpIndex <= 8)
         {
-            if(!GameObject.FindGameObjectWithTag("UI").GetComponent<PhoneDisplay>().isActive())
-                GameObject.FindGameObjectWithTag("UI").GetComponent<PhoneDisplay>().OpenPhone();
-
-            return IsPressedKeyOrMouse(KeyCode.Space);
+            popUpMessage.dismissFunc = null;
         }
         else if (popUpIndex == 9)
         {
-            if (IsPressedKeyOrMouse(KeyCode.Tab) || (GameObject.FindGameObjectWithTag("UI_Quests") && GameObject.FindGameObjectWithTag("UI_Quests").activeSelf == true))// if player opens quest menu proceed
-            {
-                return true;
-            }
-            return false;
+            popUpMessage.dismissFunc = () => IsPressedKeyOrMouse(KeyCode.K) || (GameObject.FindGameObjectWithTag("UI_Quests")?.GetComponent<QuestDisplay>()?.isActive() ?? false);// if player opens quest menu proceed
         }
         else if (popUpIndex == 10)
         {
-            if (GameObject.FindGameObjectWithTag("UI").GetComponent<PhoneDisplay>().isActive())
-                GameObject.FindGameObjectWithTag("UI").GetComponent<PhoneDisplay>().ClosePhone();
-            // the end of tutorial
-            unlockPlayer();
-            return IsPressedKeyOrMouse(KeyCode.Space);
+            phone.SetPhoneState(false);
+            popUpMessage.dismissFunc = null;
         }
-
-        unlockPlayer();
-        return false;
+        popUpIndex++;
     }
     
     public bool canOpenPhone()
     {
-        if (popUpIndex == 3 || popUpIndex == 9 || popUpIndex > 10)
+        if (popUpIndex >= 5 && popUpIndex <= 10)
             return true;
         return false;
     }

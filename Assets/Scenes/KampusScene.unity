@@ -1401,6 +1401,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -3317,6 +3318,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -4350,6 +4352,11 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!1 &901120119
@@ -4544,6 +4551,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -4728,6 +4736,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -2748809698689862398, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &947170859 stripped
@@ -4886,6 +4899,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 950327675}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -5105,6 +5119,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -5740,6 +5755,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2181152827505283371, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!1 &1199677635
@@ -5931,6 +5951,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -8220,6 +8241,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -374700976821111051, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &1274751345 stripped
@@ -9152,6 +9178,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3892906889518581021, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!1 &1443494335
@@ -10157,6 +10188,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 1795153986}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -10378,6 +10410,11 @@ PrefabInstance:
         type: 3}
       propertyPath: dialogue.sentences.Array.data[11]
       value: "[3]Necht\u011Bj v\u011Bd\u011Bt."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
@@ -11488,6 +11525,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5322295858477410911, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &1986912448 stripped
@@ -12265,6 +12307,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 782858415457665673, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!1001 &2140041231
@@ -12411,5 +12458,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6354408740716328505, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}

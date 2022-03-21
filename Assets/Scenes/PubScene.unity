@@ -294,6 +294,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 1117116149752669156, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -503,6 +504,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 6520669729563450726, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
@@ -662,7 +664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   toScene: Pub2ndFloorScene
-  playSound: 0
+  displayTextOnHint: "Cestuj zm\xE1\u010Dknut\xEDm E"
   CollisionActivated: 1
   transitionTime: 1.5
   transitionSFX: {fileID: 8300000, guid: dcfacb28bee9db14f8f57d34ec399195, type: 3}
@@ -1232,6 +1234,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: -4603321029753489328, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -1427,6 +1430,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 1117116149752669156, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -1798,6 +1802,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 1117116149752669156, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -2866,6 +2871,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: -4603321029753489328, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -3657,6 +3663,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -4141,7 +4148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   toScene: StrahovScene
-  playSound: 1
+  displayTextOnHint: "Cestuj zm\xE1\u010Dknut\xEDm E"
   CollisionActivated: 1
   transitionTime: 1.5
   transitionSFX: {fileID: 8300000, guid: dcfacb28bee9db14f8f57d34ec399195, type: 3}
@@ -4522,6 +4529,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 1008653748482967870, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -4699,6 +4707,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: -4737257690690313851, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
@@ -4888,6 +4897,7 @@ MonoBehaviour:
   QuestIdStartingHere: 0a000000
   gameEffect: {fileID: 1073746422}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 134018349482615401, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 6621984692225560258, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
@@ -7354,6 +7364,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 1008653748482967870, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -7806,6 +7817,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 1008653748482967870, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}
@@ -8569,6 +8581,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: -4603321029753489328, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
   spriteOverride2: {fileID: 0}

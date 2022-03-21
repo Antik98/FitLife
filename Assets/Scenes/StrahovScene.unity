@@ -401,6 +401,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2234748067137417063, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &69439129 stripped
@@ -577,6 +582,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -663,6 +669,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -1008,6 +1015,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 154633908}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -1149,6 +1157,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -3477,6 +3486,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6071273584709199748, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &550251505 stripped
@@ -3651,6 +3665,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -3090410736990800082, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &587322181 stripped
@@ -4011,6 +4030,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3980704018669121332, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!1 &666798873 stripped
@@ -5306,6 +5330,11 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1493171046266768209, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2192059454775435002, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -5836,6 +5865,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -6904786924256481196, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &945716581 stripped
@@ -6465,6 +6499,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -7302,6 +7337,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4911942337705619010, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!1 &1471655691
@@ -7802,6 +7842,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -8483,6 +8524,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -4476792779355952113, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!4 &1582047173 stripped
@@ -8815,6 +8861,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 1
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -8930,6 +8977,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -8974,7 +9022,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2040617359
 Transform:
   m_ObjectHideFlags: 0
@@ -9045,6 +9093,7 @@ MonoBehaviour:
   QuestIdStartingHere: 
   gameEffect: {fileID: 0}
   repeatableDialog: 0
+  shouldAddSocial: 0
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
@@ -10318,6 +10367,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 39018406793142807, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
         type: 3}
+    - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
+        type: 3}
+      propertyPath: shouldAddSocial
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1661046b564fb4841a0066991e9c01bf, type: 3}
 --- !u!1001 &1406761738308390434

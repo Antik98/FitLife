@@ -15,12 +15,14 @@ public class EasterEgg : DisplayHint
     public GameEffect gameEffect;
     private QuestTracker questTracker;
     public bool repeatableDialog;
+    public bool shouldAddSocial = false;
     private bool dialogDone;
     public Sprite spriteOverrideDefault = null;
     public Sprite spriteOverride2 = null;
     public Sprite spriteOverride3 = null;
     PopUpMessage popupMessage;
  	GameObject gameController;
+    PlayerStatus playerStatus;
 
     void Start() {
         dialogDone = false;
@@ -28,6 +30,7 @@ public class EasterEgg : DisplayHint
         gameController = GameObject.Find("UI");
         popupMessage = gameController.GetComponent<PopUpMessage> ();
         questTracker = GameObject.FindGameObjectWithTag("StatusController").GetComponent<QuestTracker>();
+        playerStatus = GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
     }
 
     public override void Action()
@@ -53,9 +56,11 @@ public class EasterEgg : DisplayHint
 
     public IEnumerator WaitAfterDialog()
     {
-        executeAfterDialog();
         yield return new WaitWhile(popupMessage.isActive);
-        if(gameEffect != null)
+        if (shouldAddSocial)
+            playerStatus.addSocialValue(1);
+        executeAfterDialog();
+        if (gameEffect != null)
         {
             StartCoroutine(gameEffect.execute());
             yield return new WaitWhile(gameEffect.isDone);

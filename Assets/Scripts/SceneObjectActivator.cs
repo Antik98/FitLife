@@ -6,8 +6,15 @@ public class SceneObjectActivator : MonoBehaviour
 {
     public GameObject[] ObjectsToTurnOn;
     // Start is called before the first frame update
-    void Start()
+    private void OnEnable()
     {
+        StartCoroutine(OnEnableCoroutine());
+
+    }
+
+    IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
         GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         var currentDay = _gameTimer.gameTime.Days;
 

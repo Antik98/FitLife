@@ -15,6 +15,12 @@ public class CoroutineQueue : MonoBehaviour
 
     private void OnEnable()
     {
+        StartCoroutine(OnEnableCoroutine());
+    }
+
+    private IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
         OnSceneChange += CheckWaiting;
     }
 
@@ -29,5 +35,10 @@ public class CoroutineQueue : MonoBehaviour
     {
         list.RemoveAll(x => x(sceneName) == true);
         return true;
+    }
+
+    public void Reset()
+    {
+        list.Clear();
     }
 }

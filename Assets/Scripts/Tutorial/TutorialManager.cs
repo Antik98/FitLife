@@ -26,13 +26,13 @@ public class TutorialManager : MonoBehaviour
         "Ahoj, vítáme tě u naší hry, která se ti pokusí přiblížit život studentů na FITu, fakultě informatiky ČVUT. Tvým úkolem bude vyzkoušet si poslední tři dny našeho studia prvního semestru.",
         "Začneme jednoduchým tutoriálem. Pohyb je jako všude pomocí WASD, popřípadě šipek, tak si to zkus.",
         "Super, další klávesou, kterou při hraní využiješ, je klávesa E, sloužící k interakci. Zkus si vzít něco z ledničky.",
-        "Krom podezřele zapáchajícího guláše a týden staré pizzy z polotovaru toho v ledničce moc není. Poslední klávesou, kterou při hraní využiješ, je TAB. Zmáčkni TAB a sleduj, co se stane.",
+        "Krom podezřele zapáchajícího guláše a týden staré pizzy z polotovaru toho v ledničce moc není. Další klávesou, kterou při hraní využiješ, je K. Zmáčkni K a sleduj, co se stane.",
         "Seznam se s věcí, jež ničí všechny moderní vztahy a díky níž nám utíká život mezi prsty. Tento mobil ti ale naopak bude důležitým pomocníkem.",
         "První důležitá věc je čas. Stejně jako v životě, ani ve hře ho nemáš neomezený. Na každý herní den jej máš vymezený, tak si dej pozor, aby jsi stihnul všechny přednášky a byl včas zpátky doma.",
         "Tohle je jeden ze tří atributů, o který se musíš starat. Energie. Čím víc budeš pařit nebo se učit, tím víc budeš unavený. Nenech ho klesnout na 0, to nebude mít dobrý důsledek! Dobiješ ho spánkem, nebo kávou v menze.",
         "Nasycenost je tvůj druhý atribut. Zvyšuješ jí samozřejmě jídlem. Můžeš zkusit ten zbytek pizzy v ledničce, nebo navštiv místní menzu. Pokud nevíš, kde je, zkus se někoho zeptat. Také jí nenech klesnout na 0.",
         "Poslední atribut je sociální status. Najdi si nové kamarády, choď na párty, bal holky, bav se. Jen tak ho udržíš vysoko.",
-        "Kliknutím na vykřičníček si zobrazíš menu úkolů. Teď to nedělej, žádné úkoly stejně nemáš. U úkolů si vždy pečlivě přečti jejich popis a hlídej si časy přednášek. Telefon zavřeš opět TABem.",
+        "Kliknutím na vykřičníček si zobrazíš menu úkolů, nebo si pomocí klávesy J zobraz časově nejbližší úkoly. Teď to nedělej, žádné úkoly stejně nemáš. U úkolů si vždy pečlivě přečti jejich popis a hlídej si časy přednášek. Telefon zavřeš opět stisknutím K.",
         "Nyní už víš veškeré potřebné základy. Záleží už jen a jen na tobě, jestli dáš přednost pařbám před učením, nebo se vydáš cestou za červeným diplomem. Hodně štěstí!"
     };
 
@@ -41,8 +41,8 @@ public class TutorialManager : MonoBehaviour
         "Pro pokračování stiskni mezerník",
         "Zkus se pohnout",
         "Prozkoumej ledničku",
-        "Otevři mobil TABem",
-        "Zavři mobil TABem"
+        "Otevři mobil stisknutím K",
+        "Zavři mobil stisknutím K"
     };
 
     const int TAB_END = 4;

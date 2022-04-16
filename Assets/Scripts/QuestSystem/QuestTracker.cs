@@ -13,23 +13,23 @@ public class QuestTracker : MonoBehaviour
     public event EventHandler<int> HandleQuestChanged;
     public GameTimer gameTimer;
 
-    public Quest[] quests = new Quest[] { new SchoolQuest(0, "Přednáška BI-CAO", "Běž na přednášku z číslicových a analogových obvodů v 9:15.", new TimeSpan(0,9,15,0), Quest.Type.lecture, SchoolSubjectType.CAO, 1, "CAOPrednaska"),
+    public Quest[] quests = new Quest[] { new SchoolQuest(0, "Přednáška BI-CAO", "Běž na přednášku z číslicových a analogových obvodů v 9:15-10:45.", new TimeSpan(0,9,15,0), Quest.Type.lecture, SchoolSubjectType.CAO, 1, "CAOPrednaska"),
                                           new SchoolQuest(1, "Cvičení BI-ZMA", "Běž na cvičení ze základů matematické analýzy v 11:00.", new TimeSpan(0,11,00,0), Quest.Type.practice, SchoolSubjectType.ZMA,1,"ZMASeminar"),
-                                          new SchoolQuest(2, "Test BI-PS1", "Běž na test z programování v shellu v 16:15.",new TimeSpan(0,16,15,0),  Quest.Type.exam, SchoolSubjectType.PS1, 5, ""),
+                                          new SchoolQuest(2, "Test BI-PS1", "Běž na test z programování v shellu v 16:15.",new TimeSpan(0,16,15,0),  Quest.Type.exam, SchoolSubjectType.PS1, 5, "PS1_test"),
                                           new SchoolQuest(3, "Cvičení BI-MLO", "Běž na cvičení z matematické logiky v 7:30.", new TimeSpan(1,7,30,0), Quest.Type.practice, SchoolSubjectType.MLO, 1, "MLOCviko"),
                                           new SchoolQuest(4, "Proseminář BI-PA1", "Běž na proseminář z programování a algoritmizace v 9:15.", new TimeSpan(1,9,15,0), Quest.Type.proseminar, SchoolSubjectType.PA1, 1, "PA1Proseminar"),
-                                          new SchoolQuest(5, "Test BI-PAI", "Běž na test z práva a informatiky v 16:15.", new TimeSpan(1,16,15,0), Quest.Type.exam, SchoolSubjectType.PAI,5, ""),
+                                          new SchoolQuest(5, "Test BI-PAI", "Běž na test z práva a informatiky v 16:15.", new TimeSpan(1,16,15,0), Quest.Type.exam, SchoolSubjectType.PAI,5, "PAI_test"),
                                           new SchoolQuest(6, "Zkouška BI-ZMA", "Běž na zkoušku ze základů matematické analýzy v 9:15.", new TimeSpan(2,9,15,0), Quest.Type.exam, SchoolSubjectType.ZMA, 4, "ZMA_MinigameStartScreen"),
                                           new SchoolQuest(7, "Zkouška BI-CAO", "Běž na zkoušku z číslicových a analogových obvodů v 11:00.", new TimeSpan(2,11,00,0), Quest.Type.exam, SchoolSubjectType.CAO, 4, "CAO_Minigame"),
                                           new SchoolQuest(8, "Zkouška BI-MLO", "Běž na zkoušku z matematické logiky v 16:15.", new TimeSpan(2,16,15,0), Quest.Type.exam, SchoolSubjectType.MLO, 4,  "MLO_zkouska"),
-                                          new ProgtestQuest(9, "Progtest BI-PA1","Dodělej Progtestovou úlohu v NTK do 23:59 druhého dne.", new TimeSpan(1,23,59,0)),
-                                          new QuestInteraction(10, "Klubovna Fit--","Kup v menze tzatziki pro Kostu.", "Hmm, možná bych ho mohl nějak podplatit...","Nesmím zapomenout Kostovi koupit ty tzatziki.","Dal jsi Kostovi tzatziki."),
+                                          new ProgtestQuest(9, "Progtest BI-PA1","Dodělej Progtestovou úlohu v NTK. Čas máš do 23:59 druhého dne.", new TimeSpan(1,23,59,0)),
+                                          new QuestInteraction(10, "Klubovna Fit--","Najdi způsob, jak uplatit Kostu. Zkus mu přinést něco dobrého k jídlu.", "Hmm, možná bych ho mohl nějak podplatit...","Získáváš tzatziki.","Dal jsi Kostovi tzatziki."),
                                           new QuestInteraction(11, "Fit-- Kalba","Vrať se v 18:30 na kalbu", "Na kalbu je trochu brzo, přijdu později","Jde se pařit!","To byla paradní kalba. Nejradši bych si dal 20."),
-                                          new QuestInteraction(12, "Vstupenka do NTK", "Najdi turniket na lístek do knihovny.", "Nemáš ISIC, najdi způsob, jak se dostat do knihovny.", "Eh, jak se to... A hele, vytisklo mi to lístek." ,"Tak, jde se na Progtest."),
-                                          new QuestInteraction(13, "Osamocený pes", "Ten pes v klubu FIT-- vypadá smutně. Kdybych mu dal něco dal, možná by si mě oblíbil.", "Najdi něco pro Fída.", "Hmm, tahle kost by se Fídovi mohla líbit." ,"Fído, koukej, co pro tebe mám!"),
-                                          new QuestInteraction(14, "Ztracený květináč", "Zhulenec v klubu FIT-- ztratil květináč s jeho rostlinkami. Zkus se po něm podívat.", "Najdi květináč pro zhulence.", "Oo, to je vůně, to se zhulencovi bude líbit." ,"Čus, koukej, tohle ti zlepší náladu."),
-                                          new QuestInteraction(15, "Ztracená skripta", "Týpek na kampusu se shání po skriptech z AAG. Zkus je najít. Prý hodně pařil.", "Najdi skripta z AAG.", "Hele, skripta z automatů a gramatik, to po mně někdo chtěl ne?" ,"Čau, mám pro tebe ta skripta!"),
-                                          new QuestInteraction(16, "NTK Uzavírka", "Zaspal jsi v NTK, stihni to ven!", "Sakra no, tak tady asi přespím...", "Utíkej ať tě tady nezavřou!" ,"Uff, stihl jsem to"),
+                                          new QuestInteraction(12, "Vstupenka do NTK", "Najdi turniket na lístek do knihovny.", "Nemáš ISIC, najdi způsob, jak se dostat do knihovny.", "Získal jsi lístek do knihovny." ,"Použil jsi lístek do knihovny."),
+                                          new QuestInteraction(13, "Osamocený pes", "Ten pes v klubu FIT-- vypadá smutně. Kdybych mu dal něco dal, možná by si mě oblíbil.", "Najdi něco pro Fída.", "Sebral jsi kost." ,"Ochočil sis Fída. Nyní ho najdeš u sebe doma."),
+                                          new QuestInteraction(14, "Ztracený květináč", "Zhulenec v klubu FIT-- ztratil květináč s jeho rostlinkami. Zkus se po něm podívat.", "Najdi květináč s rostlinkami pro zhulence.", "Sebral jsi květináč s rostlinkami." ,"Odevzdal jsi květináč s rostlinkami."),
+                                          new QuestInteraction(15, "Ztracená skripta", "Týpek na kampusu se shání po skriptech z AAG. Zkus je najít. Prý hodně pařil.", "Najdi skripta z AAG.", "Sebral jsi skripta z AAG." ,"Odevzdal jsi skripta z AAG."),
+                                          new QuestInteraction(16, "Po zavíračce", "Zaspal jsi v NTK, rychle najdi cestu ven.", "Utíkej, ať tě tady nezavřou!", "Ale neee... No tak tady asi přespím no..." ,"Stihl jsi včas utéct."),
                                         };
 
     
@@ -39,20 +39,25 @@ public class QuestTracker : MonoBehaviour
         HandleQuestChanged?.Invoke(this, id);
     }
 
-
-    public void Start()
+    private void OnEnable()
     {
+        StartCoroutine(OnEnableCoroutine());
+    }
+
+    IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
         gameTimer = StatusController.Instance.GetComponent<GameTimer>();
         StartQuestDay1();
         gameTimer.BroadcastDayPassed += HandleDayPassed;
-        gameTimer.Broadcast15MinutesPassed += Handle15MinuteIntervalPassed;
+        gameTimer.Broadcast15MinutesPassed += HandleMinuteIntervalPassed;
     }
 
     public void OnDisable()
     {
         gameTimer = StatusController.Instance.GetComponent<GameTimer>();
         gameTimer.BroadcastDayPassed -= HandleDayPassed;
-        gameTimer.Broadcast15MinutesPassed -= Handle15MinuteIntervalPassed;
+        gameTimer.Broadcast15MinutesPassed -= HandleMinuteIntervalPassed;
     }
 
     private void HandleDayPassed()
@@ -69,7 +74,7 @@ public class QuestTracker : MonoBehaviour
         }
     }
 
-    private void Handle15MinuteIntervalPassed()
+    private void HandleMinuteIntervalPassed()
     {
         CheckQuestsTimeout();
     }
@@ -79,6 +84,7 @@ public class QuestTracker : MonoBehaviour
         AcceptQuest(0);
         AcceptQuest(1);
         AcceptQuest(2);
+        AcceptQuest(9);
     }
 
     public void StartQuestDay2()

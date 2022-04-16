@@ -11,6 +11,8 @@ public class BedGameEffect : GameEffect
 
     public FadeAnimation fade;
 
+    public Canvas day;
+
     void Start()
     {
         playerStaus = GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
@@ -21,11 +23,12 @@ public class BedGameEffect : GameEffect
     {
         if (gameTimer.gameTime.Hours >= 21)
         {
-            yield return fade.TriggerFade(5, gameTimer.TriggerNextDay);
+            yield return fade.TriggerFade(5, "Další den...", gameTimer.TriggerNextDay);
         }
         else
         {
-            popupMessage.Open(new Dialogue("Spát můžeš až od 21:00!"));
+            popupMessage.Open(new Dialogue("Ještě je brzo, jít spát můžeš až od 21:00."));
         }
+        done = true;
     }
 }

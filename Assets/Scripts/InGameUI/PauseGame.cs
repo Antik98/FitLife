@@ -13,19 +13,31 @@ public class PauseGame : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            pauseMenu.SetActive(!pauseMenu.activeSelf);
-            phone.SetPhoneState(false);
-
             if (questMenu.activeSelf)
             {
                 questMenu.SetActive(false);
             }
+
+            if (pauseMenu.activeSelf)
+            {
+                ClosePauseMenu();
+            }
+            else
+            {
+                GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().lockPlayer();
+                StatusController.Instance.gameTimer.StopTimer();
+                pauseMenu.SetActive(true);
+                phone.SetPhoneState(false);
+            }
+            
         }
 
     }
 
     public void ClosePauseMenu()
     {
-        pauseMenu.SetActive(!pauseMenu.activeSelf);
+        GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();
+        pauseMenu.SetActive(false);
+        StatusController.Instance.gameTimer.StartTimer();
     }
 }

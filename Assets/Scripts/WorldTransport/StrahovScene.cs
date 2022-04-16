@@ -22,9 +22,5 @@ public class StrahovScene : SceneController {
         {
             player.position = new Vector2(0.834f, 0.722f);
         }
-        if (prevScene == "StrahovScene") // menza Workaround
-        {
-            player.position = new Vector2(3.413f, -1.299f);
-        }
     }
 }

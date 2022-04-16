@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 [System.Serializable]
 public class Dialogue
@@ -16,5 +17,9 @@ public class Dialogue
     public Dialogue(string sentence)
     {
         sentences = new string[] { sentence };
+    }
+    public override int GetHashCode()
+    {
+        return sentences.Aggregate(1, (prod, next) => prod ^ next.GetHashCode());
     }
 }

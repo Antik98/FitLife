@@ -17,7 +17,6 @@ public class PlayerStatus : MonoBehaviour
     public int social = 50;
     public int hunger = 100;
     public bool doTutorial = false;
-    public int foundEasterEggs = 0;
     private GameTimer gameTimer;
 
     public delegate void AttributesChanged();
@@ -32,7 +31,6 @@ public class PlayerStatus : MonoBehaviour
         energy = 100;
         social = 50;
         hunger = 100;
-        foundEasterEggs = 0;
         Start();
     }
 
@@ -82,30 +80,32 @@ public class PlayerStatus : MonoBehaviour
         }
     }
 
-    private void Update()
+    public void addStatValues(int energyVal = 0, int socialVal = 0, int hungerVal = 0)
     {
-        if (Application.isEditor && (Input.GetKeyDown(KeyCode.Minus) || Input.GetKeyDown(KeyCode.KeypadMinus)))
-            addHungerValue(1);
+        StartCoroutine(addValues(energyVal, socialVal, hungerVal));
     }
 
-
-
-    public void addEnergyValue(int value)
+    private IEnumerator addValues(int energyVal = 0, int socialVal = 0, int hungerVal = 0)
     {
-        energy = LimitToRange(value+energy, 0, 100);
-        HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.ENERGY, value);
-    }
-
-    public void addSocialValue(int value)
-    {
-        social = LimitToRange(value+social, 0, 100);
-        HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.SOCIAL, value);
-    }
-
-    public void addHungerValue(int value)
-    {
-        hunger = LimitToRange(value+hunger, 0, 100);
-        HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.HUNGER, value);
+        energy = LimitToRange(energyVal + energy, 0, 100);
+        social = LimitToRange(socialVal + social, 0, 100);
+        hunger = LimitToRange(hungerVal + hunger, 0, 100);
+        if (energyVal != 0)
+        {
+            HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.ENERGY, energyVal);
+            yield return new WaitForSeconds(2);
+        }
+        if (socialVal != 0)
+        {
+            HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.SOCIAL, socialVal);
+            yield return new WaitForSeconds(2);
+        }
+        if(hungerVal != 0)
+        {
+            HandleEventTriggeredAttributeChanged?.Invoke(this, Stats.HUNGER, hungerVal);
+            yield return new WaitForSeconds(2);
+        }
+        yield return null;
     }
 
 }

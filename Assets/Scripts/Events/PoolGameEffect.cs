@@ -14,14 +14,11 @@ public class PoolGameEffect : GameEffect
         PlayerStatus _playerStatus = GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
         if (_gameTimer.gameTime.Hours < 19)
         {
-            yield return fadeAnimation.TriggerFade(2.5f);
-            _playerStatus.addSocialValue(10);
-            _gameTimer.SleepHours(1f);
+            yield return fadeAnimation.TriggerFade(2.5f, "O 15 minut později...");
+            _playerStatus.addStatValues(socialVal: 10);
+            _gameTimer.SleepHours(0.4f);
         }
-        else
-        {
-            //yield return new WaitForSeconds(0);
-            done = true;
-        }
+        done = true;
+        yield return null;
     }
 }

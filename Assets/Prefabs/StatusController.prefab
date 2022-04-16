@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 543115629837344573}
   - component: {fileID: 543115629837344570}
   - component: {fileID: -8584971388667610409}
+  - component: {fileID: 8626267759191860499}
   m_Layer: 0
   m_Name: StatusController
   m_TagString: StatusController
@@ -48,6 +49,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6542d6266d58914eaca3a5daf8a7df4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  questTracker: {fileID: 543115629837344570}
+  gameTimer: {fileID: 543115629837344575}
+  PlayerStatus: {fileID: 543115629837344572}
+  interactionTracker: {fileID: 8626267759191860499}
+  coroutineQueue: {fileID: -8584971388667610409}
 --- !u!114 &543115629837344575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77,7 +83,6 @@ MonoBehaviour:
   social: 50
   hunger: 50
   doTutorial: 0
-  foundEasterEggs: 0
 --- !u!114 &543115629837344573
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -114,5 +119,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3916b5d756a414b93b658bcf2f6a6b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8626267759191860499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 543115629837344576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f2cf9777a686423daf7cd48cfa0bf1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

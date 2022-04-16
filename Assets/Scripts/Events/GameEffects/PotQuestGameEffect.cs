@@ -12,6 +12,7 @@ public class PotQuestGameEffect : GameEffect
         {
             Destroy(GameObject.Find("Pot"));
         }
-        yield return new WaitForSeconds(0);
+        done = true;
+        yield return null;
     }
 }

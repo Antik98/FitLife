@@ -22,6 +22,13 @@ public class QuestDisplay : MonoBehaviour
 
     private void OnEnable()
     {
+        StartCoroutine(OnEnableCoroutine());
+
+    }
+
+    private IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
         questTracker = StatusController.Instance.GetComponent<QuestTracker>();
         questTracker.HandleQuestChanged += onQuestChange;
         GetQuests();

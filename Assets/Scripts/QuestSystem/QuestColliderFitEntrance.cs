@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class QuestColliderFitEntrance : DisplayHint
 {
-    public string displayTextOnHint = "Prozkoumej stisknutím E";
+    public string displayTextOnHint = "Vstoupit";
     private QuestTracker questTracker;
     private GameTimer gameTimer;
     private PopUpMessage popupMessage;

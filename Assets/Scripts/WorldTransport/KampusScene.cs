@@ -22,5 +22,9 @@ public class KampusScene : SceneController
         {
             player.position = new Vector2(-2.2f, 1f);
         }
+        else if (prevScene == "NTK" || prevScene == "NTK_game")
+        {
+            player.position = new Vector2(3.126f, -1.41f);
+        }
     }
 }

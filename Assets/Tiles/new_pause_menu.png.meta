@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: bf72cbf3dac7f914c991c654d19b0dfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1881987662573403883
+    second: new_pause_menu_0
+  - first:
+      213: -5984126225509029749
+    second: new_pause_menu_2
+  - first:
+      213: -9199797934124814439
+    second: new_pause_menu_3
+  - first:
+      213: -1903405209700349516
+    second: new_pause_menu_4
+  - first:
+      213: 6386135985211545459
+    second: new_pause_menu_1
+  - first:
+      213: 852491033930626060
+    second: new_pause_menu_5
+  - first:
+      213: 2308376022078428796
+    second: new_pause_menu_6
+  - first:
+      213: 868678635221872344
+    second: new_pause_menu_7
+  - first:
+      213: 5458202885071074834
+    second: new_pause_menu_8
+  - first:
+      213: -4353738775841046420
+    second: new_pause_menu_9
+  - first:
+      213: 995846108603651061
+    second: new_pause_menu_10
+  - first:
+      213: 7568424743150764521
+    second: new_pause_menu_11
+  - first:
+      213: 8416732083816182617
+    second: new_pause_menu_12
+  - first:
+      213: -5354922257573138150
+    second: new_pause_menu_13
+  - first:
+      213: -128960206535270791
+    second: new_pause_menu_14
+  - first:
+      213: 4221320300442757164
+    second: new_pause_menu_15
+  - first:
+      213: -844603746172735295
+    second: new_pause_menu_16
+  - first:
+      213: 4697998248398303528
+    second: new_pause_menu_17
+  - first:
+      213: -8694285793539751592
+    second: new_pause_menu_18
+  - first:
+      213: -8246007784824819559
+    second: new_pause_menu_19
+  - first:
+      213: -2740768071912052346
+    second: new_pause_menu_20
+  - first:
+      213: 2231779687195514864
+    second: new_pause_menu_21
+  - first:
+      213: -3768326125495911329
+    second: new_pause_menu_22
+  - first:
+      213: -5271269415630340277
+    second: new_pause_menu_23
+  - first:
+      213: -7497505012453882870
+    second: new_pause_menu_24
+  - first:
+      213: 9084594352712614000
+    second: new_pause_menu_25
+  - first:
+      213: -4164987760053905767
+    second: new_pause_menu_26
+  - first:
+      213: 3555132210147160241
+    second: new_pause_menu_27
+  - first:
+      213: 6355918009015506105
+    second: new_pause_menu_28
+  - first:
+      213: -3279145442637073290
+    second: new_pause_menu_29
+  - first:
+      213: 2280542795525913453
+    second: new_pause_menu_30
+  - first:
+      213: -8720566358079524663
+    second: new_pause_menu_31
+  - first:
+      213: 4353416695871676484
+    second: new_pause_menu_32
+  - first:
+      213: 423387112261984353
+    second: new_pause_menu_33
+  - first:
+      213: -8708110748925589651
+    second: new_pause_menu_34
+  - first:
+      213: -1222664311824057239
+    second: new_pause_menu_35
+  - first:
+      213: -5593899177610237212
+    second: new_pause_menu_36
+  - first:
+      213: 5265675475067118272
+    second: new_pause_menu_37
+  - first:
+      213: -1436518471699369232
+    second: new_pause_menu_38
+  - first:
+      213: -543930938628460505
+    second: new_pause_menu_39
+  - first:
+      213: 2104206372314506117
+    second: new_pause_menu_40
+  - first:
+      213: 7326363871283588640
+    second: new_pause_menu_45
+  - first:
+      213: -7465236535014016023
+    second: new_pause_menu_50
+  - first:
+      213: -4148944725194157446
+    second: new_pause_menu_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: new_pause_menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 226
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51105ac2136d1e5e0800000000000000
+      internalID: -1881987662573403883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_pause_menu_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886f6537ec14fca0800000000000000
+      internalID: -5984126225509029749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_pause_menu_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 92
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f2e138580c35080800000000000000
+      internalID: -9199797934124814439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_pause_menu_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 98
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ce24eb0fb595e0800000000000000
+      internalID: -1903405209700349516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

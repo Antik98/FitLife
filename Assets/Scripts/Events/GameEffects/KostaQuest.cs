@@ -20,7 +20,8 @@ public class KostaQuest : GameEffect
             _popupMessage.Open(new Dialogue(_tmp), sprite);
             GameObject.Find("Filip").transform.position= new Vector3(1.8f, -0.198f, 0);
         }
-        yield return new WaitForSeconds(0);
+        done = true;
+        yield return null;
     }
 
 }

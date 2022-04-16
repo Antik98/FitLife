@@ -20,4 +20,10 @@ public class ProgtestQuest : Quest
     {
         return deadline < gameTime;
     }
+
+    public override void CompleteQuest()
+    {
+        base.CompleteQuest();
+        GradingSystem.GradeTracker.AddPoints(GradingSystem.SchoolSubjectType.PA1, 4);
+    }
 }

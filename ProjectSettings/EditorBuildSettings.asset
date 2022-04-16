@@ -20,7 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StrahovScene.unity
     guid: a7e9ddf42e47f654eb572e7db3571ce3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ZMA_minigame.unity
     guid: 13dd032710926ab49b585f26f0991db4
   - enabled: 1
@@ -92,4 +92,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CAO_MinigameLooseScreen.unity
     guid: a08763a2ff7c3414b90ff21c53f45204
+  - enabled: 1
+    path: Assets/Scenes/PS1_test.unity
+    guid: e1da2115de30752478ce8f050f949859
+  - enabled: 1
+    path: Assets/Scenes/PAI_test.unity
+    guid: 2500771dc5ab2704e8f6b153fbfb4515
   m_configObjects: {}

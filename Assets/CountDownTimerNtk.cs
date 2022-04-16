@@ -20,7 +20,7 @@ public class CountDownTimerNtk : MonoBehaviour
         questTracker = GameObject.FindGameObjectWithTag("StatusController").GetComponent<QuestTracker>();
         popUpMessage = GameObject.FindGameObjectWithTag("UI").GetComponent<PopUpMessage>();
         playerStatus = GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
-        gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
+        gameTimer = StatusController.Instance.gameTimer;
     }
     // Update is called once per frame 
     void Update()
@@ -33,22 +33,18 @@ public class CountDownTimerNtk : MonoBehaviour
         {
             canCount = false;
             doOnce = true;
-            timer = 0f;
-            failedRun();
+            timer = 0.0001f;
+            StartCoroutine(failedRun());
         }
     }
 
-    void failedRun()
+    IEnumerator failedRun()
     {
-        
         questTracker.FailQuest(16);
         QuestInteraction _ntkQuest = questTracker.getQuest(16) as QuestInteraction;
         popUpMessage.Open(new Dialogue(_ntkQuest.questTurnInText), _ntkQuest.getQuestIcon());
-
-        playerStatus.addHungerValue(-20);
-        playerStatus.addSocialValue(-20);
-        playerStatus.addEnergyValue(-20);
+        yield return new WaitWhile(popUpMessage.isActive);
+        gameTimer.StartTimer();
         gameTimer.TriggerNextDay();
-        this.GetComponent<ChangeScene>().Activate();
     }
 }

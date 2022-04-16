@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿
+
+
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,7 +12,7 @@ using System;
 
 public class EasterEgg : DisplayHint
 {
-    public string displayTextOnHint = "Prozkoumej stisknutím E";
+    public string displayTextOnHint = "Prozkoumat";
     public Dialogue dialogue;
     public int[] QuestIdFinishingHere;
     public int[] QuestIdTurningInHere;
@@ -15,8 +20,10 @@ public class EasterEgg : DisplayHint
     public GameEffect gameEffect;
     private QuestTracker questTracker;
     public bool repeatableDialog;
+    public bool isEasterEgg = false;
     public bool shouldAddSocial = false;
-    private bool dialogDone;
+    private bool dialogDone => !repeatableDialog && StatusController.Instance.interactionTracker.isInteractionAvailable(dialogue.GetHashCode());
+    public bool questInteractionAvailable => QuestIdStartingHere.Any() || QuestIdTurningInHere.Any() || QuestIdFinishingHere.Any();
     public Sprite spriteOverrideDefault = null;
     public Sprite spriteOverride2 = null;
     public Sprite spriteOverride3 = null;
@@ -25,7 +32,6 @@ public class EasterEgg : DisplayHint
     PlayerStatus playerStatus;
 
     void Start() {
-        dialogDone = false;
         labelText = displayTextOnHint;
         gameController = GameObject.Find("UI");
         popupMessage = gameController.GetComponent<PopUpMessage> ();
@@ -35,12 +41,14 @@ public class EasterEgg : DisplayHint
 
     public override void Action()
     {
+        displayHint = !dialogDone || questInteractionAvailable;
         if (HasCollided() && Input.GetKeyDown("e"))
         {
             SpriteRenderer tmp = GetComponent<SpriteRenderer>();
             Sprite easterEgg = Resources.LoadAll<Sprite>("PopUpMessageIcons")[1];
-            if(repeatableDialog || !dialogDone)
+            if(!dialogDone && !popupMessage.isActive())
             {
+                displayHint = false;
                 if (tmp != null && spriteOverrideDefault == null)
                     popupMessage.Open(dialogue, tmp.sprite);
                 else if (spriteOverrideDefault != null || spriteOverride2 != null || spriteOverride3 != null)
@@ -48,27 +56,27 @@ public class EasterEgg : DisplayHint
                 else
                     popupMessage.Open(dialogue, easterEgg);
                 Close();
-                dialogDone = true;
-                StartCoroutine(WaitAfterDialog());
+                StatusController.Instance.interactionTracker.addInteractionToHistory(dialogue.GetHashCode(), isEasterEgg);
+                if (shouldAddSocial)
+                    playerStatus.addStatValues(socialVal: 1);
             }
+            questInteractionProcess();
+            StartCoroutine(WaitAfterDialog());
         }
     }
 
     public IEnumerator WaitAfterDialog()
     {
         yield return new WaitWhile(popupMessage.isActive);
-        if (shouldAddSocial)
-            playerStatus.addSocialValue(1);
-        executeAfterDialog();
         if (gameEffect != null)
         {
             StartCoroutine(gameEffect.execute());
-            yield return new WaitWhile(gameEffect.isDone);
+            yield return new WaitUntil(() => gameEffect.done);
         }
     }
 
 
-    public void executeAfterDialog()
+    public void questInteractionProcess()
     {
         foreach (var x in QuestIdFinishingHere)
         {

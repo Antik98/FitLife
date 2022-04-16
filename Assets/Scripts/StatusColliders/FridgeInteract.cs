@@ -23,8 +23,8 @@ public class FridgeInteract : DisplayHint
 		}
 		if (HasCollided() && Input.GetKeyDown("e")) {
 			Close();
-			playerStatus.addEnergyValue(useValue);
-			// Destroy(this);
+			playerStatus.addStatValues(energyVal: useValue);
+			Destroy(this);
 		}
     }
 }

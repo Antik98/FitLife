@@ -4,11 +4,7 @@ using UnityEngine;
 
 public abstract class GameEffect : MonoBehaviour
 {
-    public bool done = false;
-    public bool isDone()
-    {
-        return done;
-    }
+    public bool done { get; protected set; }
     // Start is called before the first frame update
     public abstract IEnumerator execute();
 

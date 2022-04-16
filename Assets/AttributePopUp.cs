@@ -15,17 +15,17 @@ public class AttributePopUp : MonoBehaviour
 
     private PlayerStatus playerStatus;
 
-    private IEnumerator Start()
-    {
-        yield return new WaitForEndOfFrame();
-        playerStatus = StatusController.Instance.GetComponent<PlayerStatus>();
-        playerStatus.HandleEventTriggeredAttributeChanged += TriggerAttributePopUp;
-    }
-
     private void OnEnable()
     {
-        if (playerStatus != null)
-            playerStatus.HandleEventTriggeredAttributeChanged += TriggerAttributePopUp;
+        StartCoroutine(OnEnableCoroutine());
+
+    }
+
+    private IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
+        playerStatus = StatusController.Instance.GetComponent<PlayerStatus>();
+        playerStatus.HandleEventTriggeredAttributeChanged += TriggerAttributePopUp;
     }
 
     private void OnDisable()

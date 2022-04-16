@@ -6,6 +6,6 @@ public class DoNothingGameEffect : GameEffect
 {
     public override IEnumerator execute()
     {
-        yield return new WaitForSeconds(0);
+        yield return null;
     }
 }

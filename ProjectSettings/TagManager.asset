@@ -38,6 +38,8 @@ TagManager:
   - Day_2
   - Day_3
   - GameManager
+  - phone
+  - Transition
   layers:
   - Default
   - TransparentFX

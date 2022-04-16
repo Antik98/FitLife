@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 435519861db0d23419ddf6538518e60b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8092061409414348771
+    second: bazen_0
+  - first:
+      213: -8561467205771605471
+    second: bazen_1
+  - first:
+      213: 8400158514893934653
+    second: bazen_2
+  - first:
+      213: -6957856420329560178
+    second: bazen_3
+  - first:
+      213: 5577424675065235148
+    second: bazen_4
+  - first:
+      213: 4995360638627741406
+    second: bazen_5
+  - first:
+      213: 8043106145644906661
+    second: bazen_6
+  - first:
+      213: -8217645436560575372
+    second: bazen_7
+  - first:
+      213: 8993258666458094232
+    second: bazen_8
+  - first:
+      213: 902628485284712916
+    second: bazen_9
+  - first:
+      213: -5743884126255352593
+    second: bazen_10
+  - first:
+      213: -8218184426565887856
+    second: bazen_11
+  - first:
+      213: -5681193682284440434
+    second: bazen_12
+  - first:
+      213: 5773738198981777034
+    second: bazen_13
+  - first:
+      213: 1325648924392191323
+    second: bazen_14
+  - first:
+      213: 3278812369639506258
+    second: bazen_15
+  - first:
+      213: -232882749057070849
+    second: bazen_16
+  - first:
+      213: 3993362217326105567
+    second: bazen_17
+  - first:
+      213: 898847378920689584
+    second: bazen_18
+  - first:
+      213: -286550402907568311
+    second: bazen_19
+  - first:
+      213: -5216714057752766694
+    second: bazen_20
+  - first:
+      213: 2759382707785902818
+    second: bazen_21
+  - first:
+      213: -2556490626203357062
+    second: bazen_22
+  - first:
+      213: -6463886983685625241
+    second: bazen_23
+  - first:
+      213: -1265253038723707593
+    second: bazen_24
+  - first:
+      213: 4685812074688025438
+    second: bazen_25
+  - first:
+      213: -5615486027246044722
+    second: bazen_26
+  - first:
+      213: -4530766959434460557
+    second: bazen_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bazen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff9c07af6cc4070800000000000000
+      internalID: 8092061409414348771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac3dbdfee8f2980800000000000000
+      internalID: -8561467205771605471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 194
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d931d9ab539470800000000000000
+      internalID: 8400158514893934653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 194
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87e514337ab07f90800000000000000
+      internalID: -6957856420329560178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc603c6013ef66d40800000000000000
+      internalID: 5577424675065235148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 161
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeff56c806135540800000000000000
+      internalID: 4995360638627741406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 161
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a80deddc6ade9f60800000000000000
+      internalID: 8043106145644906661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 161
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47472bfa30f05fd80800000000000000
+      internalID: -8217645436560575372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a107bdb197ecc70800000000000000
+      internalID: 8993258666458094232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d15b8533d7c68c00800000000000000
+      internalID: 902628485284712916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 129
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe47b8fc1df9940b0800000000000000
+      internalID: -5743884126255352593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 129
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09894eb4ec423fd80800000000000000
+      internalID: -8218184426565887856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841e3b32785821b0800000000000000
+      internalID: -5681193682284440434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8699682d40702050800000000000000
+      internalID: 5773738198981777034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5576435ca6a56210800000000000000
+      internalID: 1325648924392191323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25105817a7ea08d20800000000000000
+      internalID: 3278812369639506258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff80324af52a4ccf0800000000000000
+      internalID: -232882749057070849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 65
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3503767c54b6730800000000000000
+      internalID: 3993362217326105567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 65
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfcbd7cde8597c00800000000000000
+      internalID: 898847378920689584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 65
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94703704de7f50cf0800000000000000
+      internalID: -286550402907568311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a171cdc24328a97b0800000000000000
+      internalID: -5216714057752766694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2fe0f3fb4b4620800000000000000
+      internalID: 2759382707785902818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 33
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7078810255858cd0800000000000000
+      internalID: -2556490626203357062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 33
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa5251909ab46a0800000000000000
+      internalID: -6463886983685625241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dc3eb901be07ee0800000000000000
+      internalID: -1265253038723707593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5314046149570140800000000000000
+      internalID: 4685812074688025438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec974d8d539c112b0800000000000000
+      internalID: -5615486027246044722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bazen_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37215d6947b7f11c0800000000000000
+      internalID: -4530766959434460557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -15,48 +15,50 @@ public class ClassRoomEvent : MonoBehaviour
     {
         // Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("novotny")[0];
          if(GameObject.FindGameObjectWithTag("StatusController") != null)
-             questManager = GameObject.FindGameObjectWithTag("StatusController").GetComponent<QuestTracker>();
-         //if (questManager.CheckSchoolQuest().Item1 > 0)
-         //{
-         //    switch (questManager.CheckSchoolQuest().Item1)
-         //    {
-         //        case 0:
-         //            if (Input.GetKeyDown("e"))
-         //            {
-         //                // Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("novotny")[0];
-         //                Debug.Log("Completed 0");
-         //            }
-         //            break;
-                
-         //        case 4:
-         //            if (Input.GetKeyDown("e"))
-         //            {
-         //                //Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("kalvoda")[0];
-         //                Debug.Log("Completed 4");
-        
-         //            }
-         //            break;
-                 
-         //        case 8:
-         //            if (Input.GetKeyDown("e"))
-         //            {
-         //                //Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("vagner")[0];
-         //                Debug.Log("Completed 8");
-        
-         //            }
-         //            break;
-                 
-         //        case 12:
-         //            if (Input.GetKeyDown("e"))
-         //            {
-         //                //Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("stary")[0];
-         //                Debug.Log("Completed 12");
-        
-         //            }
-         //            break;
-         //    }
-         //}
-         popupMessage = gameController.GetComponent<PopUpMessage>();
+             questManager = StatusController.Instance.questTracker;
+        GameObject.FindGameObjectWithTag("phone")?.SetActive(false);
+
+        //if (questManager.CheckSchoolQuest().Item1 > 0)
+        //{
+        //    switch (questManager.CheckSchoolQuest().Item1)
+        //    {
+        //        case 0:
+        //            if (Input.GetKeyDown("e"))
+        //            {
+        //                // Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("novotny")[0];
+        //                Debug.Log("Completed 0");
+        //            }
+        //            break;
+
+        //        case 4:
+        //            if (Input.GetKeyDown("e"))
+        //            {
+        //                //Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("kalvoda")[0];
+        //                Debug.Log("Completed 4");
+
+        //            }
+        //            break;
+
+        //        case 8:
+        //            if (Input.GetKeyDown("e"))
+        //            {
+        //                //Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("vagner")[0];
+        //                Debug.Log("Completed 8");
+
+        //            }
+        //            break;
+
+        //        case 12:
+        //            if (Input.GetKeyDown("e"))
+        //            {
+        //                //Teacher.GetComponent<SpriteRenderer>().sprite = Resources.LoadAll<Sprite>("stary")[0];
+        //                Debug.Log("Completed 12");
+
+        //            }
+        //            break;
+        //    }
+        //}
+        popupMessage = gameController.GetComponent<PopUpMessage>();
          StartCoroutine(DisplayText());
     }
 

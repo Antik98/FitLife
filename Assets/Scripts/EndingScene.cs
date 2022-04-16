@@ -27,7 +27,7 @@ public class EndingScene : MonoBehaviour
             hungerStat.text = playerStatus.hunger.ToString();
             //TODO dirty hack
             questStat.text = string.Format("{0}/{1}", statusController.GetComponent<QuestTracker>().getQuestsDone(), 16);// QuestTracker.totalQuestsStatic);
-            easterEggsFoundStat.text = playerStatus.foundEasterEggs.ToString();
+            easterEggsFoundStat.text = StatusController.Instance.interactionTracker.easterEggsFound.ToString();
 
             StartCoroutine(showDialog());
             

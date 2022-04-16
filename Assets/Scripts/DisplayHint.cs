@@ -5,7 +5,7 @@ using UnityEngine;
 public class DisplayHint : MonoBehaviour
 {
     protected string labelText = "";
-    protected bool displayHint = false;
+    protected bool displayHint = true;
     protected bool hasCollided = false;
 
     void Update()
@@ -15,25 +15,15 @@ public class DisplayHint : MonoBehaviour
 
     public virtual void Action() { }
 
-    void OnGUI(){
-        if (labelText.Length != 0 && displayHint) {
-            Vector3 screenPosition = Camera.main.WorldToScreenPoint(GameObject.FindGameObjectsWithTag("Player")[0].transform.position);
-            screenPosition.y = Screen.height - screenPosition.y;
-            GUIStyle hintStyle = new GUIStyle("box");
-            hintStyle.fontSize = 25;
-            GUI.Box(new Rect((screenPosition.x - 200/2), screenPosition.y, 300, 50), labelText, hintStyle);
-        }
-    }
-
     public void Display(string textToDisplay)
     {
-        labelText = textToDisplay;
-        displayHint = true;
+        if(displayHint)
+            StatusController.Instance?.interactionTracker?.TriggerHint(this, true, textToDisplay);
     }
 
     public void Close()
     {
-        displayHint = false;
+        StatusController.Instance?.interactionTracker?.TriggerHint(this, false, "");
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -41,7 +31,7 @@ public class DisplayHint : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             hasCollided = true;
-            displayHint = true;
+            Display(labelText);
         }
     }
 

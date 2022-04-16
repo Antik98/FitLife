@@ -16,17 +16,11 @@ public class LoadScreenOnEnter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Return) && !loaded &&(sceneChanger ?? false))
+        if (Input.GetKey(KeyCode.Return) && !loaded && (sceneChanger ?? false))
         {
             loaded = true; 
             Debug.Log("Trying to load screen");
             sceneChanger.Activate();
         }
-    }
-
-    public void OnTrigger()
-    {
-        Debug.Log("Trying to load screen");
-        sceneChanger.Activate();
     }
 }

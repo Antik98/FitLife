@@ -13,29 +13,26 @@ public class StatDisplay : MonoBehaviour
     public Text social;
 
 
-    // Start is called before the first frame update
-    IEnumerator Start()
-    {
-        yield return new WaitForEndOfFrame();
-        playerStatus = StatusController.Instance.GetComponent<PlayerStatus>();
-        gameTimer = StatusController.Instance.GetComponent<GameTimer>();
-
-        playerStatus.HandleAttributesChanged += onAttributesChange;
-        playerStatus.HandleEventTriggeredAttributeChanged += onAttributeChange;
-        gameTimer.BroadcastMinutePassed += onMinuteChange;
-
-        onAttributesChange();
-    }
-
     private void OnEnable()
     {
-        if(playerStatus != null)
+        StartCoroutine(OnEnableCoroutine());
+        
+    }
+    private IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
+        playerStatus = StatusController.Instance.GetComponent<PlayerStatus>();
+        gameTimer = StatusController.Instance.GetComponent<GameTimer>();
+        if (playerStatus != null)
         {
             playerStatus.HandleAttributesChanged += onAttributesChange;
             playerStatus.HandleEventTriggeredAttributeChanged += onAttributeChange;
         }
-        if(gameTimer != null)
+        if (gameTimer != null)
             gameTimer.BroadcastMinutePassed += onMinuteChange;
+        onAttributesChange();
+        onMinuteChange();
+
     }
 
     private void OnDisable()

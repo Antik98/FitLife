@@ -7,6 +7,24 @@ public class NTKGameEvent : GameEffect
     public override IEnumerator execute()
     {
         yield return null;
+        StatusController.Instance.questTracker.CompleteQuest(16);
+        StatusController.Instance.questTracker.CompleteQuest(9);
+        StatusController.Instance.coroutineQueue.list.Add((scene) => WaitForPlayerToComeBack(scene));
+        done = true;
         this.GetComponent<ChangeScene>().Activate();
+    }
+
+    bool WaitForPlayerToComeBack(string scene)
+    {
+        if (scene == "KampusScene")
+        {
+            GameObject gameController = GameObject.Find("UI");
+            PopUpMessage popupMessage = gameController.GetComponent<PopUpMessage>();
+            Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
+            popupMessage.Open(new Dialogue("Výborně! Progtest hotov a málem tě zamkli v NTK!"), QuestIcon);
+            StatusController.Instance.PlayerStatus.addStatValues(socialVal: -20);
+            return true;
+        }
+        return false;
     }
 }

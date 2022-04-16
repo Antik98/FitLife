@@ -11,6 +11,7 @@ public class BoneQuestGameEffect : GameEffect
         {
             Destroy(GameObject.Find("Bone"));
         }
+        done = true;
         yield return new WaitForSeconds(0);
     }
 }

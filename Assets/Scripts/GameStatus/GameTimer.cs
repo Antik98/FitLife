@@ -22,7 +22,7 @@ public class GameTimer : MonoBehaviour
     {
         stoped = false;
         gameTime = initTime;
-        sceneController = GameObject.FindGameObjectWithTag("GameController").GetComponent<SceneController>();
+        sceneController = GameObject.FindGameObjectWithTag("GameController")?.GetComponent<SceneController>();
     }
 
     public void Reset()
@@ -36,6 +36,7 @@ public class GameTimer : MonoBehaviour
         {
             gameTime += TimeSpan.FromMinutes(2);
             BroadcastMinutePassed?.Invoke();
+            Broadcast15MinutesPassed?.Invoke();
         }
         if (!stoped)
         {
@@ -48,12 +49,6 @@ public class GameTimer : MonoBehaviour
     void InvokeTimePassedEvents() 
     {
         TimeSpan nextTick = gameTime + TimeSpan.FromSeconds(Time.deltaTime * 90);
-        // Called when Days change
-        if (gameTime.Days < nextTick.Days)
-        {
-            gameTime += initTime;
-            BroadcastDayPassed?.Invoke();
-        }
 
         //Called when 15 minutes passed
         if(gameTime.Minutes % 15 == 0 && nextTick.Minutes % 15 != 0 )
@@ -67,7 +62,17 @@ public class GameTimer : MonoBehaviour
             BroadcastMinutePassed?.Invoke();
         }
 
-       
+        // Called when Days change
+        if (gameTime.Hours >= 0 && gameTime.Hours < 6)
+        {
+            TriggerNextDayTimeIsOver();
+        }
+        else if (nextTick.Hours >= 0 && nextTick.Hours < 6)
+        {
+            StopTimer();
+            TriggerNextDay();
+        }
+
     }
 
 
@@ -89,6 +94,7 @@ public class GameTimer : MonoBehaviour
     private void EndGameSuccessfully()
     {
         sceneController.LoadScene("VyherniObrazovka");
+        Reset();
     }
 
     public string GetCurrentTimeString()
@@ -119,11 +125,15 @@ public class GameTimer : MonoBehaviour
             TriggerNextDay();
     }
 
+    private void TriggerNextDayTimeIsOver()
+    {
+        gameTime = new TimeSpan(gameTime.Days, 0, 1, 0) + initTime;
+        BroadcastDayPassed?.Invoke();
+    }
+
     public void TriggerNextDay()
     {
-        gameTime = new TimeSpan(gameTime.Days + 1, 0, 0, 1) + initTime;
-        BroadcastMinutePassed?.Invoke();
-        Broadcast15MinutesPassed?.Invoke();
+        gameTime = new TimeSpan(gameTime.Days+1, 0, 1, 0) + initTime;
         BroadcastDayPassed?.Invoke();
     }
 }

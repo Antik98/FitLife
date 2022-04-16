@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class EndingScreenController : MonoBehaviour
 {
     private GameTimer gameTimer;
+    public ChangeScene changeScene;
 
     private void Start()
     {
@@ -16,7 +17,7 @@ public class EndingScreenController : MonoBehaviour
         if (Input.GetKeyDown("e"))
         {
             gameTimer.StartTimer();
-            SceneManager.LoadScene("KampusScene");
+            changeScene.Activate();
         }
 
     }

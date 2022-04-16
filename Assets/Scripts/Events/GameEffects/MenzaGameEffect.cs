@@ -14,20 +14,16 @@ public class MenzaGameEffect : GameEffect
     }
     public override IEnumerator execute()
     {
+        yield return null;
         GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         PlayerStatus _playerStatus= GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
         if (_gameTimer.gameTime.Hours < 19)
         {
-            yield return fade.TriggerFade(3);
-            _playerStatus.addHungerValue(hungerAdded);
-            yield return new WaitForSeconds(1);
-            _playerStatus.addEnergyValue(energyAdded);
-            _gameTimer.SleepHours(1f);
+            yield return fade.TriggerFade(3, "O 30 minut později...");
+            _playerStatus.addStatValues(energyAdded, 0, hungerAdded);
+            _gameTimer.SleepHours(0.5f);
         }
-        else
-        {
-            done = true;
-        }
+        done = true;
     }
 }
 

@@ -22,7 +22,7 @@ public class ChangeScene : DisplayHint {
     private float audioVolume = 0.5f;
 
     void Start() {
-        sceneController = GameObject.FindGameObjectWithTag("GameController").GetComponent<SceneController>();
+        sceneController = GameObject.FindGameObjectWithTag("GameController")?.GetComponent<SceneController>();
 
         var fade = GameObject.Find("Fade");
         if (fade ?? false)
@@ -32,8 +32,7 @@ public class ChangeScene : DisplayHint {
 
         if (audioPlayer ?? false)
             audioPlayer.volume = audioVolume;
-        GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
-        _gameTimer.StartTimer();
+        GameObject.FindGameObjectWithTag("StatusController")?.GetComponent<GameTimer>()?.StartTimer(); ;
         player = GameObject.FindGameObjectWithTag("Player");
 
         labelText = displayTextOnHint;
@@ -42,14 +41,14 @@ public class ChangeScene : DisplayHint {
 
     private void OnEnable()
     {
-        Close();
         StartCoroutine(WaitForTransition());
     }
 
     IEnumerator WaitForTransition()
     {
+        yield return new WaitForEndOfFrame();
         yield return new WaitWhile(() => transition?.IsInTransition(0) ?? false);
-        StatusController.Instance.GetComponent<CoroutineQueue>().TriggerSceneChanged(SceneManager.GetActiveScene().name);
+        StatusController.Instance?.coroutineQueue?.TriggerSceneChanged(SceneManager.GetActiveScene().name);
     }
 
     public override void Action()
@@ -100,7 +99,7 @@ public class ChangeScene : DisplayHint {
 		    transition.SetTrigger("Start");
 
 		yield return new WaitForSecondsRealtime(transitionTime);
-        sceneController.LoadScene(toScene);
+        sceneController?.LoadScene(toScene);
     }
 
     public void Activate()
@@ -113,6 +112,8 @@ public class ChangeScene : DisplayHint {
     {
         if (!string.IsNullOrEmpty(customScene))
         {
+            GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
+            _gameTimer.StopTimer();
             this.toScene = customScene; 
             StartCoroutine(LoadNextScene(customScene));
         }

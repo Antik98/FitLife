@@ -13,6 +13,7 @@ public class AAGGameEffect : GameEffect
         {
             Destroy(GameObject.Find("AAG"));
         }
-        yield return new WaitForSeconds(0);
+        done = true;
+        yield return null;
     }
 }

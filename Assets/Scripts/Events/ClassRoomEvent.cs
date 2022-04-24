@@ -7,7 +7,7 @@ public class ClassRoomEvent : MonoBehaviour
     public Dialogue dialogue;
     public GameObject gameController;
     public QuestTracker questManager;
-    public GameObject Teacher;
+    public Sprite Teacher;
     PopUpMessage popupMessage;
 
     // Start is called before the first frame update
@@ -17,6 +17,7 @@ public class ClassRoomEvent : MonoBehaviour
          if(GameObject.FindGameObjectWithTag("StatusController") != null)
              questManager = StatusController.Instance.questTracker;
         GameObject.FindGameObjectWithTag("phone")?.SetActive(false);
+        GameObject.FindGameObjectWithTag("QuestPop")?.SetActive(false);
 
         //if (questManager.CheckSchoolQuest().Item1 > 0)
         //{
@@ -67,9 +68,9 @@ public class ClassRoomEvent : MonoBehaviour
         GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         _gameTimer.StopTimer();
         yield return new WaitForSeconds(2);
-        popupMessage.Open(dialogue, Teacher.GetComponent<SpriteRenderer>().sprite);
+        popupMessage.Open(dialogue, Teacher);
         yield return new WaitUntil(() => !popupMessage.isActive());
-        GetComponent<ChangeScene>().Activate();
+        yield return gameController.GetComponentInChildren<FadeAnimation>().TriggerFade(3, "KampusScene", "O hodinu a půl později...");
     }
 
 

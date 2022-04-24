@@ -10,6 +10,7 @@ public class playerMovement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
     public ParticleSystem Dust;
+    public CircleCollider2D collider;
 
     private bool canMove = true;
 
@@ -49,6 +50,7 @@ public class playerMovement : MonoBehaviour
     public void lockPlayer()
     {
         canMove = false;
+        collider.enabled = false;
         animator.SetFloat("Speed", 0);
         Dust.Stop();
         GameObject soundManager = GameObject.FindGameObjectsWithTag("SoundManager")[0];
@@ -59,6 +61,7 @@ public class playerMovement : MonoBehaviour
 
     public void unlockPlayer()
     {
+        collider.enabled = true;
         canMove = true;
         Dust.Stop();
         GameObject soundManager = GameObject.FindGameObjectsWithTag("SoundManager")[0];

@@ -18,9 +18,20 @@ public class MainMenu : MonoBehaviour
     {
         if (StatusController.Instance != null)
             StatusController.Instance.Reset();
-        sceneController.LoadScene("HomeScene");
+        StartCoroutine(Wait());
     }
 
+    IEnumerator Wait()
+    {
+        var fade = GameObject.Find("Fade");
+        Animator transition = null;
+        if (fade ?? false)
+            transition = fade.GetComponent<Animator>();
+        if (transition ?? false)
+            transition.SetTrigger("Start");
+        yield return new WaitForSeconds(1);
+        sceneController.LoadScene("HomeScene");
+    }
     public void quitGame()
     {
         Application.Quit();

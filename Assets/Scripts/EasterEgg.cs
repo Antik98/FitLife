@@ -14,6 +14,7 @@ public class EasterEgg : DisplayHint
 {
     public string displayTextOnHint = "Prozkoumat";
     public Dialogue dialogue;
+    public Dialogue questFinishDialogue;
     public int[] QuestIdFinishingHere;
     public int[] QuestIdTurningInHere;
     public int[] QuestIdStartingHere;
@@ -22,11 +23,14 @@ public class EasterEgg : DisplayHint
     public bool repeatableDialog;
     public bool isEasterEgg = false;
     public bool shouldAddSocial = false;
-    private bool dialogDone => !repeatableDialog && StatusController.Instance.interactionTracker.isInteractionAvailable(dialogue.GetHashCode());
-    public bool questInteractionAvailable => QuestIdStartingHere.Any() || QuestIdTurningInHere.Any() || QuestIdFinishingHere.Any();
+    private bool dialogDone => !repeatableDialog && !StatusController.Instance.interactionTracker.isInteractionAvailable(dialogue.GetHashCode());
+    public bool questInteractionAvailable => QuestIdStartingHere.Any(s=>questTracker.getQuest(s).GetStatus() == Quest.Status.inactive)
+        || QuestIdTurningInHere.Any(s => questTracker.getQuest(s).GetStatus() == Quest.Status.progress)
+        || QuestIdFinishingHere.Any(s => questTracker.getQuest(s).GetStatus() == Quest.Status.turnIn);
     public Sprite spriteOverrideDefault = null;
     public Sprite spriteOverride2 = null;
     public Sprite spriteOverride3 = null;
+    public GameObject questIndicator;
     PopUpMessage popupMessage;
  	GameObject gameController;
     PlayerStatus playerStatus;
@@ -42,27 +46,40 @@ public class EasterEgg : DisplayHint
     public override void Action()
     {
         displayHint = !dialogDone || questInteractionAvailable;
-        if (HasCollided() && Input.GetKeyDown("e"))
+        if(questIndicator != null)
+            questIndicator?.SetActive(questInteractionAvailable);
+        if (HasCollided() && Input.GetKeyDown("e") && StatusController.Instance.interactionTracker.isInteractionSelected(base.GetHashCode()))
         {
-            SpriteRenderer tmp = GetComponent<SpriteRenderer>();
-            Sprite easterEgg = Resources.LoadAll<Sprite>("PopUpMessageIcons")[1];
             if(!dialogDone && !popupMessage.isActive())
             {
                 displayHint = false;
-                if (tmp != null && spriteOverrideDefault == null)
-                    popupMessage.Open(dialogue, tmp.sprite);
-                else if (spriteOverrideDefault != null || spriteOverride2 != null || spriteOverride3 != null)
-                    popupMessage.Open(dialogue, spriteOverrideDefault, spriteOverride2, spriteOverride3);
-                else
-                    popupMessage.Open(dialogue, easterEgg);
+                DisplayDialogueWithOverrideSprites(dialogue);
+                StartCoroutine(giveSocial());
                 Close();
                 StatusController.Instance.interactionTracker.addInteractionToHistory(dialogue.GetHashCode(), isEasterEgg);
-                if (shouldAddSocial)
-                    playerStatus.addStatValues(socialVal: 1);
             }
             questInteractionProcess();
             StartCoroutine(WaitAfterDialog());
         }
+    }
+
+    private void DisplayDialogueWithOverrideSprites(Dialogue dia)
+    {
+        SpriteRenderer tmp = GetComponent<SpriteRenderer>();
+        Sprite easterEgg = Resources.LoadAll<Sprite>("PopUpMessageIcons")[1];
+        if (tmp != null && spriteOverrideDefault == null)
+            popupMessage.Open(dia, tmp.sprite);
+        else if (spriteOverrideDefault != null || spriteOverride2 != null || spriteOverride3 != null)
+            popupMessage.Open(dia, spriteOverrideDefault, spriteOverride2, spriteOverride3);
+        else
+            popupMessage.Open(dia, easterEgg);
+    }
+
+    public IEnumerator giveSocial()
+    {
+        yield return new WaitWhile(popupMessage.isActive);
+        if (shouldAddSocial)
+            playerStatus.addStatValues(socialVal: 1);
     }
 
     public IEnumerator WaitAfterDialog()
@@ -84,6 +101,7 @@ public class EasterEgg : DisplayHint
             {
                 Quest _questFinishingHere = questTracker.getQuest(x);
                 questTracker.CompleteQuest(x);
+                DisplayDialogueWithOverrideSprites(questFinishDialogue);
                 if (_questFinishingHere is QuestInteraction)
                 {
                     string[] _tmp = { ((QuestInteraction)_questFinishingHere).questCompleteText };

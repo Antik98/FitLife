@@ -26,8 +26,8 @@ public class EndingScene : MonoBehaviour
             socialStat.text = playerStatus.social.ToString();
             hungerStat.text = playerStatus.hunger.ToString();
             //TODO dirty hack
-            questStat.text = string.Format("{0}/{1}", statusController.GetComponent<QuestTracker>().getQuestsDone(), 16);// QuestTracker.totalQuestsStatic);
-            easterEggsFoundStat.text = StatusController.Instance.interactionTracker.easterEggsFound.ToString();
+            questStat.text = string.Format("{0}/{1}", statusController.GetComponent<QuestTracker>().getQuestsDone(), StatusController.Instance.questTracker.getQuests().Count);
+            easterEggsFoundStat.text = string.Format("{0}/{1}", StatusController.Instance.interactionTracker.easterEggsFound.ToString(), "24");
 
             StartCoroutine(showDialog());
             
@@ -40,14 +40,14 @@ public class EndingScene : MonoBehaviour
         if (playerStatus.energy <= 0)
         {
             yield return new WaitForSeconds(0.5f);
-            string[] _tmp = { "Málo jsi spal. Po zkouškách jsi zkolaboval, jsi nyní v kómatu" };
+            string[] _tmp = { "Málo jsi spal a po zkouškách jsi zkolaboval. Nyní jsi v kómatu." };
             popUpMessage.Open(new Dialogue(_tmp), lastSpeaking);
             Time.timeScale = 1f;
         }
         if (playerStatus.hunger <= 0)
         {
             yield return new WaitForSeconds(0.5f);
-            string[] _tmp = { "Když tě viděla babička celého vyhublého o Vánocích, dostala infarkt.","Naštěstí to přežila, ale musel jsi sníst celého kapra sám, abys ujistil babičku, že ještě žiješ" };
+            string[] _tmp = { "Když tě viděla babička celého vyhublého o Vánocích, dostala infarkt.","Naštěstí to přežila, ale musel jsi sníst celého kapra sám, abys jí ujistil, že ještě stále žiješ." };
             popUpMessage.Open(new Dialogue(_tmp), lastSpeaking);
             Time.timeScale = 1f;
         }

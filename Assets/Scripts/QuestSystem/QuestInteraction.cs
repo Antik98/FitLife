@@ -9,14 +9,16 @@ public class QuestInteraction : Quest
     public string questAcceptText;
     public string questTurnInText;
     public string questCompleteText;
-    private static readonly int increaseSocial = 5;  
+    private static readonly int increaseSocial = 5;
+    private TimeSpan deadline;
     public QuestInteraction(int questID,
         string name,
         string questLogText,
         string questAcceptText,
         string questTurnInText,
         string questCompleteText,
-        Status status = Status.inactive) : base( questID,  name,  questLogText, status)
+        Status status = Status.inactive,
+        TimeSpan deadline = default(TimeSpan)) : base( questID,  name,  questLogText, status)
     {
         this.questID = questID;
         this.name = name;
@@ -25,6 +27,7 @@ public class QuestInteraction : Quest
         this.questAcceptText = questAcceptText;
         this.questTurnInText = questTurnInText;
         this.questCompleteText = questCompleteText;
+        this.deadline = deadline;
     }
 
     public override void CompleteQuest()
@@ -32,6 +35,13 @@ public class QuestInteraction : Quest
         base.CompleteQuest();
         var playerStatus = GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
         playerStatus.social += increaseSocial; 
+    }
+
+    public override bool IsQuestTimedOut(TimeSpan gameTime)
+    {
+        if(deadline != default(TimeSpan))
+            return gameTime > deadline;
+        return base.IsQuestTimedOut(gameTime);
     }
 
 }

@@ -17,8 +17,8 @@ public class SceneController : MonoBehaviour {
 
         if (GameObject.FindGameObjectsWithTag("music").Length != 0)
         {
-            ChangeMusicByScene _musicChanger = GameObject.FindGameObjectWithTag("music").GetComponent<ChangeMusicByScene>();
-            _musicChanger.updateMusic(sceneName);
+            ChangeMusicByScene _musicChanger = GameObject.FindGameObjectWithTag("music")?.GetComponent<ChangeMusicByScene>();
+            _musicChanger?.updateMusic(sceneName);
         }
     }
      

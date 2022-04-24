@@ -18,6 +18,12 @@ public class PoolGameEffect : GameEffect
             _playerStatus.addStatValues(socialVal: 10);
             _gameTimer.SleepHours(0.4f);
         }
+        else
+        {
+            GameObject gameController = GameObject.Find("UI");
+            PopUpMessage popupMessage = gameController.GetComponent<PopUpMessage>();
+            popupMessage.Open(new Dialogue("[ME]Už jsem moc unavený i na koupel."));
+        }
         done = true;
         yield return null;
     }

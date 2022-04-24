@@ -15,7 +15,7 @@ public class DisplayHint : MonoBehaviour
 
     public virtual void Action() { }
 
-    public void Display(string textToDisplay)
+    private void Display(string textToDisplay)
     {
         if(displayHint)
             StatusController.Instance?.interactionTracker?.TriggerHint(this, true, textToDisplay);

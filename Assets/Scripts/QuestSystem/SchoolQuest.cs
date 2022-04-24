@@ -8,7 +8,7 @@ using UnityEngine;
 [System.Serializable]
 public class SchoolQuest : Quest
 {
-    private TimeSpan deadline;
+    public TimeSpan deadline { get; private set; }
     private SchoolSubjectType subject;
     private int gainedPointsToSubject;
     public string schoolSceneName;
@@ -42,11 +42,11 @@ public class SchoolQuest : Quest
 
     public override bool IsQuestTimedOut(TimeSpan gameTime)
     {
-        return gameTime > deadline + TimeSpan.FromHours(1.5f); // is it past deadline?
+        return gameTime > deadline + TimeSpan.FromMinutes(15f); // is it past deadline?
     }
 
     public override bool IsQuestFinishable(TimeSpan gameTime)
     {
-        return gameTime > deadline && gameTime < deadline + TimeSpan.FromHours(1.5f);
+        return gameTime >= deadline - TimeSpan.FromMinutes(15f) && gameTime <= deadline + TimeSpan.FromMinutes(15f);
     }
 }

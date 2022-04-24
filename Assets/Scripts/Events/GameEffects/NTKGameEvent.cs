@@ -21,7 +21,7 @@ public class NTKGameEvent : GameEffect
             GameObject gameController = GameObject.Find("UI");
             PopUpMessage popupMessage = gameController.GetComponent<PopUpMessage>();
             Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
-            popupMessage.Open(new Dialogue("Výborně! Progtest hotov a málem tě zamkli v NTK!"), QuestIcon);
+            popupMessage.Open(new Dialogue("Výborně! Progtest hotov a dokonce na plný počet i s bonusem."), QuestIcon);
             StatusController.Instance.PlayerStatus.addStatValues(socialVal: -20);
             return true;
         }

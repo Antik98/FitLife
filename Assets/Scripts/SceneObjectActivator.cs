@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class SceneObjectActivator : MonoBehaviour
@@ -18,13 +19,8 @@ public class SceneObjectActivator : MonoBehaviour
         GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         var currentDay = _gameTimer.gameTime.Days;
 
-        if(ObjectsToTurnOn.Length - 1 >= currentDay)
-        {
-            ObjectsToTurnOn[currentDay].SetActive(true);
-        }else if (ObjectsToTurnOn.Length >= 1 )
-        {
-            ObjectsToTurnOn[ObjectsToTurnOn.Length-1].SetActive(true);
-        }
+        ObjectsToTurnOn.ToList().ForEach(s => s.SetActive(false));
+        ObjectsToTurnOn.ElementAtOrDefault(currentDay).SetActive(true);
     }
 
 }

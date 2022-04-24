@@ -9,8 +9,13 @@ public class InteractionPopUp : MonoBehaviour
     public GameObject popUp;
     public TextMeshProUGUI text;
 
-    private void Start()
+    private void OnEnable()
     {
+        StartCoroutine(OnEnableCoroutine());
+    }
+    private IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
         popUp.SetActive(false);
         StatusController.Instance.interactionTracker.HandleEventViewHint += TriggerView;
     }
@@ -19,6 +24,7 @@ public class InteractionPopUp : MonoBehaviour
     {
         StatusController.Instance.interactionTracker.HandleEventViewHint -= TriggerView;
     }
+
     public void TriggerView(object sender, bool enable, string value)
     {
         if (enable && !string.IsNullOrWhiteSpace(value))

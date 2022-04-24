@@ -29,7 +29,7 @@ public class PhoneDisplay : MonoBehaviour
     void Update()
     {
         if (!pauseMenu.activeSelf){
-           if(Input.GetKeyDown(KeyCode.K) && !playerStatus.doTutorial)
+           if(Input.GetKeyDown(KeyCode.M) && !playerStatus.doTutorial)
             {
                 phoneAnimator.SetBool("IsOpen", !isActive());
             }

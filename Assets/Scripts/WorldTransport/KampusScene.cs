@@ -4,13 +4,18 @@ using UnityEngine;
 
 public class KampusScene : SceneController
 {
-
+    public GameObject pingPong;
     public override void Start()
     {
         QuestTracker _questTracker = GameObject.FindGameObjectWithTag("StatusController").GetComponent<QuestTracker>();
         if (_questTracker.getQuest(13).status == Quest.Status.completed || _questTracker.getQuest(13).status == Quest.Status.turnIn)
         {
             Destroy(GameObject.Find("Bone"));
+        }
+
+        if (_questTracker.getQuest(18).status == Quest.Status.completed || _questTracker.getQuest(18).status == Quest.Status.turnIn)
+        {
+            Destroy(pingPong);
         }
         base.Start();
 

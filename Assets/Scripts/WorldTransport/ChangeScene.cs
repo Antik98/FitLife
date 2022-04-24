@@ -23,7 +23,8 @@ public class ChangeScene : DisplayHint {
 
     void Start() {
         sceneController = GameObject.FindGameObjectWithTag("GameController")?.GetComponent<SceneController>();
-
+        if (!CollisionActivated)
+            displayHint = false;
         var fade = GameObject.Find("Fade");
         if (fade ?? false)
             transition = fade.GetComponent<Animator>();
@@ -104,16 +105,16 @@ public class ChangeScene : DisplayHint {
 
     public void Activate()
     {
-        GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
-        _gameTimer.StopTimer();
+        GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController")?.GetComponent<GameTimer>();
+        _gameTimer?.StopTimer();
         StartCoroutine(LoadNextScene(toScene));
     } 
     public void Activate(string customScene)
     {
         if (!string.IsNullOrEmpty(customScene))
         {
-            GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
-            _gameTimer.StopTimer();
+            GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController")?.GetComponent<GameTimer>();
+            _gameTimer?.StopTimer();
             this.toScene = customScene; 
             StartCoroutine(LoadNextScene(customScene));
         }

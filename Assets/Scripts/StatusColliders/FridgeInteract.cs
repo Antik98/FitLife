@@ -5,7 +5,7 @@ public class FridgeInteract : DisplayHint
 {
     private PlayerStatus playerStatus;
     public bool usable = true;
-    public string displayTextOnHint = "Press E to eat ";
+    public string displayTextOnHint = "Prozkoumat";
     public int useValue = -10;
 	public bool firstEnter = false;
 

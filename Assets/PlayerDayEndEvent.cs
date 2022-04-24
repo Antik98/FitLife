@@ -23,10 +23,13 @@ public class PlayerDayEndEvent : MonoBehaviour
 
     private void HandleDayEnd()
     {
-
-        if(SceneManager.GetActiveScene().name != "HomeScene")
+        if (SceneManager.GetActiveScene().name != "HomeScene")
         {
             StatusController.Instance.coroutineQueue.list.Add((sceneName) => WaitForPlayerToBeHome(sceneName));
+            StartCoroutine(GameObject.FindGameObjectWithTag("Transition")?.GetComponent<FadeAnimation>().TriggerFade(5, "HomeScene", "Další den..."));
+        }
+        else
+        {
             StartCoroutine(GameObject.FindGameObjectWithTag("Transition")?.GetComponent<FadeAnimation>().TriggerFade(5, "HomeScene", "Další den..."));
         }
     }

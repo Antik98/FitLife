@@ -7,7 +7,7 @@ public class CoroutineQueue : MonoBehaviour
     public List<WaitingForSceneEvent> list;
 
     public delegate bool WaitingForSceneEvent(string sceneName);
-    public static event WaitingForSceneEvent OnSceneChange;
+    public event WaitingForSceneEvent OnSceneChange;
     private void Start()
     {
         list = new List<WaitingForSceneEvent>();
@@ -29,7 +29,7 @@ public class CoroutineQueue : MonoBehaviour
         OnSceneChange += CheckWaiting;
     }
 
-    public void TriggerSceneChanged(string scene) => CheckWaiting(scene);
+    public void TriggerSceneChanged(string scene) => OnSceneChange?.Invoke(scene);
 
     bool CheckWaiting(string sceneName)
     {

@@ -33,12 +33,14 @@ public class PopUpMessage : MonoBehaviour
 
     void Update()
     {
-        dismissFunc = dismissFunc ?? (() => Input.GetKeyDown(KeyCode.Space));
-        if (popUpMessageAnimator.GetBool("IsOpen") && dismissFunc.Invoke())
+        if (!PauseGame.isGamePaused)
         {
-            DisplayNextSentence();
+            dismissFunc = dismissFunc ?? (() => Input.GetKeyDown(KeyCode.Space));
+            if (popUpMessageAnimator.GetBool("IsOpen") && dismissFunc.Invoke())
+            {
+                DisplayNextSentence();
+            }
         }
-
     }
 
     public void Open(Dialogue dialogue, params Sprite[] sprites)

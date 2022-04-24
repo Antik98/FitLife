@@ -5700,6 +5700,7 @@ MonoBehaviour:
   rb: {fileID: 2343973612111624953}
   animator: {fileID: 2343973612111624959}
   Dust: {fileID: 5259391667861449334}
+  collider: {fileID: 2343973612111624956}
 --- !u!95 &2343973612111624959
 Animator:
   serializedVersion: 3

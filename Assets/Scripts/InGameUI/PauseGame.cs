@@ -5,8 +5,19 @@ using UnityEngine;
 public class PauseGame : MonoBehaviour
 {
     public GameObject pauseMenu;
-    public PhoneDisplay phone;
     public GameObject questMenu;
+    public PopUpMessage popUpMessage;
+
+    public static bool isGamePaused { get; private set; }
+
+    IEnumerator Start()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
+        if(Time.timeScale == 0)
+        {
+            OpenPauseMenu();
+        }
+    }
 
     // Update is called once per frame
     void Update()
@@ -24,20 +35,34 @@ public class PauseGame : MonoBehaviour
             }
             else
             {
-                GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().lockPlayer();
-                StatusController.Instance.gameTimer.StopTimer();
-                pauseMenu.SetActive(true);
-                phone.SetPhoneState(false);
+                OpenPauseMenu();
             }
             
         }
 
     }
 
-    public void ClosePauseMenu()
+    private void OpenPauseMenu()
     {
-        GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();
+        if (!popUpMessage.isActive())
+        {
+            GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().lockPlayer();
+            StatusController.Instance.gameTimer.StopTimer();
+        }
+        pauseMenu.SetActive(true);
+        Time.timeScale = 0f;
+        isGamePaused = true;
+    }
+
+    private void ClosePauseMenu()
+    {
+        if (!popUpMessage.isActive())
+        {
+            GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();
+            StatusController.Instance.gameTimer.StartTimer();
+        }
         pauseMenu.SetActive(false);
-        StatusController.Instance.gameTimer.StartTimer();
+        Time.timeScale = 1f;
+        isGamePaused = false;
     }
 }

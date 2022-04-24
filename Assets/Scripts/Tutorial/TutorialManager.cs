@@ -23,17 +23,17 @@ public class TutorialManager : MonoBehaviour
 
     string[] TextDatabase = new string[]
     {
-        "Ahoj, vítáme tě u naší hry, která se ti pokusí přiblížit život studentů na FITu, fakultě informatiky ČVUT. Tvým úkolem bude vyzkoušet si poslední tři dny našeho studia prvního semestru.",
+        "Ahoj, vítáme tě u naší hry, která se ti pokusí přiblížit život studentů na FITu, fakultě informatiky ČVUT. Tvým úkolem bude vyzkoušet si poslední tři dny prvního semestru našeho studia.",
         "Začneme jednoduchým tutoriálem. Pohyb je jako všude pomocí WASD, popřípadě šipek, tak si to zkus.",
         "Super, další klávesou, kterou při hraní využiješ, je klávesa E, sloužící k interakci. Zkus si vzít něco z ledničky.",
-        "Krom podezřele zapáchajícího guláše a týden staré pizzy z polotovaru toho v ledničce moc není. Další klávesou, kterou při hraní využiješ, je K. Zmáčkni K a sleduj, co se stane.",
-        "Seznam se s věcí, jež ničí všechny moderní vztahy a díky níž nám utíká život mezi prsty. Tento mobil ti ale naopak bude důležitým pomocníkem.",
-        "První důležitá věc je čas. Stejně jako v životě, ani ve hře ho nemáš neomezený. Na každý herní den jej máš vymezený, tak si dej pozor, aby jsi stihnul všechny přednášky a byl včas zpátky doma.",
-        "Tohle je jeden ze tří atributů, o který se musíš starat. Energie. Čím víc budeš pařit nebo se učit, tím víc budeš unavený. Nenech ho klesnout na 0, to nebude mít dobrý důsledek! Dobiješ ho spánkem, nebo kávou v menze.",
-        "Nasycenost je tvůj druhý atribut. Zvyšuješ jí samozřejmě jídlem. Můžeš zkusit ten zbytek pizzy v ledničce, nebo navštiv místní menzu. Pokud nevíš, kde je, zkus se někoho zeptat. Také jí nenech klesnout na 0.",
+        "Krom podezřele zapáchajícího guláše a týden staré pizzy z polotovaru toho v ledničce moc není. Další klávesou, kterou při hraní využiješ, je M. Zmáčkni M a sleduj, co se stane.",
+        "Asi víš, k čemu normálně slouží mobil, ale na tomhle typu si Instagram nebo Tinder neotevřeš. Místo toho ti naopak bude důležitým pomocníkem.",
+        "První důležitou herní mechanikou je čas. Stejně jako v životě, tak ani ve hře ho nemáš neomezený. Dej si pozor a snaž se stihnout všechny přednášky včas a nezapomeň být před půlnocí zpátky doma v posteli.",
+        "Tohle je jeden ze tří atributů, o který se musíš starat. Energie. Čím víc se budeš učit, tím víc ti bude klesat. Nenech jí klesnout na 0, to nebude mít dobrý důsledek! Dobiješ ji spánkem nebo kávou v menze či kavárně.",
+        "Nasycenost je tvůj druhý atribut. Zvyšuješ jí samozřejmě jídlem. Můžeš zkusit ten zbytek pizzy v ledničce, nebo radši navštiv místní menzu. Pokud nevíš, kde je, zkus se někoho zeptat. Také jí nenech klesnout na 0.",
         "Poslední atribut je sociální status. Najdi si nové kamarády, choď na párty, bal holky, bav se. Jen tak ho udržíš vysoko.",
-        "Kliknutím na vykřičníček si zobrazíš menu úkolů, nebo si pomocí klávesy J zobraz časově nejbližší úkoly. Teď to nedělej, žádné úkoly stejně nemáš. U úkolů si vždy pečlivě přečti jejich popis a hlídej si časy přednášek. Telefon zavřeš opět stisknutím K.",
-        "Nyní už víš veškeré potřebné základy. Záleží už jen a jen na tobě, jestli dáš přednost pařbám před učením, nebo se vydáš cestou za červeným diplomem. Hodně štěstí!"
+        "Vykřičníček ti napovídá, že existuje menu úkolů. Každé ráno dostaneš nové úkoly dle tvého rozvrhu. Po skončení tutoriálu se hned na ty dnešní pomocí klávesy Q podívej. Také si pomocí klávesy TAB můžeš během hry zobrazit časově nejbližší úkoly. Mobil zavřeš opět stisknutím M.",
+        "Nyní už víš veškeré potřebné základy. Tvým cílem je přežít následující 3 dny. Jak to uděláš, záleží jen a jen na tobě. Hodně štěstí!"
     };
 
     string[] ContinueDatabase = new string[]
@@ -41,8 +41,8 @@ public class TutorialManager : MonoBehaviour
         "Pro pokračování stiskni mezerník",
         "Zkus se pohnout",
         "Prozkoumej ledničku",
-        "Otevři mobil stisknutím K",
-        "Zavři mobil stisknutím K"
+        "Otevři mobil stisknutím M",
+        "Zavři mobil stisknutím M"
     };
 
     const int TAB_END = 4;
@@ -55,8 +55,10 @@ public class TutorialManager : MonoBehaviour
         shouldDoTutorial = StatusController.Instance.GetComponent<PlayerStatus>().doTutorial;
         if (shouldDoTutorial)
         {
+            pointer.SetActive(false);
             lockInteraction();
             lockPlayer();
+            popUpMessage.Open(new Dialogue("[ME]AAh, to už je ráno? Asi mám ještě kocovi... Moment, jak se sem dostal ten bazén?"));
         }
     }
 
@@ -136,7 +138,7 @@ public class TutorialManager : MonoBehaviour
         }
         else if (popUpIndex == 3)
         {
-            popUpMessage.dismissFunc = (() => Input.GetKeyDown(KeyCode.K));
+            popUpMessage.dismissFunc = (() => Input.GetKeyDown(KeyCode.M));
         }
         else if (popUpIndex >= 4 && popUpIndex <= 8)
         {
@@ -144,7 +146,7 @@ public class TutorialManager : MonoBehaviour
         }
         else if (popUpIndex == 9)
         {
-            popUpMessage.dismissFunc = () => IsPressedKeyOrMouse(KeyCode.K) || (GameObject.FindGameObjectWithTag("UI_Quests")?.GetComponent<QuestDisplay>()?.isActive() ?? false);// if player opens quest menu proceed
+            popUpMessage.dismissFunc = () => IsPressedKeyOrMouse(KeyCode.M) || (GameObject.FindGameObjectWithTag("UI_Quests")?.GetComponent<QuestDisplay>()?.isActive() ?? false);// if player opens quest menu proceed
         }
         else if (popUpIndex == 10)
         {

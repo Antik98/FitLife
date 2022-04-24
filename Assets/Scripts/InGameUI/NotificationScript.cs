@@ -10,6 +10,8 @@ public class NotificationScript : MonoBehaviour
     private PlayerStatus playerStatus;
     public PopUpMessage popUpMessage;
 
+    public GameObject cursor;
+
     private void Start()
     {
         questMenu.SetActive(false);
@@ -25,6 +27,7 @@ public class NotificationScript : MonoBehaviour
                 if (questMenu.activeSelf)
                 {
                     questMenu.SetActive(false);
+                    cursor.SetActive(false);
                     GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();
                     StatusController.Instance.gameTimer.StartTimer();
                     Time.timeScale = 1f;
@@ -32,6 +35,7 @@ public class NotificationScript : MonoBehaviour
                 else
                 {
                     questMenu.SetActive(true);
+                    cursor.SetActive(true);
                     GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().lockPlayer();
                     StatusController.Instance.gameTimer.StopTimer();
                     Time.timeScale = 0f;

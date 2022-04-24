@@ -7,6 +7,7 @@ public class PauseGame : MonoBehaviour
     public GameObject pauseMenu;
     public GameObject questMenu;
     public PopUpMessage popUpMessage;
+    public GameObject cursor;
 
     public static bool isGamePaused { get; private set; }
 
@@ -22,6 +23,7 @@ public class PauseGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Cursor.visible = false;
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (questMenu.activeSelf)
@@ -49,6 +51,7 @@ public class PauseGame : MonoBehaviour
             GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().lockPlayer();
             StatusController.Instance.gameTimer.StopTimer();
         }
+        cursor.SetActive(true);
         pauseMenu.SetActive(true);
         Time.timeScale = 0f;
         isGamePaused = true;
@@ -61,6 +64,7 @@ public class PauseGame : MonoBehaviour
             GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();
             StatusController.Instance.gameTimer.StartTimer();
         }
+        cursor.SetActive(false);
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
         isGamePaused = false;

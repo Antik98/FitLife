@@ -55,7 +55,7 @@ public class PlayerStatus : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(12f);
+            yield return new WaitForSeconds(8f);
             if (!gameTimer.TimerStoped())
             {
 

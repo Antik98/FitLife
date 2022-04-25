@@ -44,6 +44,7 @@ public class PlayerDayEndEvent : MonoBehaviour
             Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
             popupMessage.Open(new Dialogue("Ufff to mě bolí hlava, měl jsem se jít vyspat a tolik neponocovat..."), QuestIcon);
             StatusController.Instance.PlayerStatus.addStatValues(-20,-20,-20);
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector2(-1.08f, 0.41f);
             return true;
         }
         return false;

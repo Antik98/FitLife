@@ -12,6 +12,7 @@ public class IntroToMenu : MonoBehaviour
 
     void Start()
     {
+        Cursor.visible = false;
         var fade = GameObject.Find("Fade");
         if (fade ?? false)
             transition = fade.GetComponent<Animator>();

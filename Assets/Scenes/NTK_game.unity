@@ -13658,6 +13658,11 @@ PrefabInstance:
       propertyPath: m_OverrideSorting
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 68961896330363721, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 68961896330363722, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_IsActive
@@ -13701,6 +13706,21 @@ PrefabInstance:
     - target: {fileID: 1493171046266768209, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887199758129976431, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887199758129976431, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -17.977554
+      objectReference: {fileID: 0}
+    - target: {fileID: 2640311107330972807, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2806606280025121972, guid: fe351d83c3e4b8440aeb5adf4309f019,
@@ -13831,7 +13851,7 @@ PrefabInstance:
     - target: {fileID: 6961395555543868360, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6961395555610233758, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -13896,7 +13916,7 @@ PrefabInstance:
     - target: {fileID: 7228838569970838412, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7727481794092149199, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -13916,7 +13936,7 @@ PrefabInstance:
     - target: {fileID: 7960912290132983315, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 8415864332037004029, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -17780,6 +17800,9 @@ MonoBehaviour:
     objectName: 
     sentences:
     - "[ME]Nech\xE1pu jak mohl n\u011Bkdo postavit takov\xFD bludi\u0161t\u011B..."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 10000000
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -17790,6 +17813,7 @@ MonoBehaviour:
   spriteOverrideDefault: {fileID: 0}
   spriteOverride2: {fileID: 0}
   spriteOverride3: {fileID: 0}
+  questIndicator: {fileID: 0}
 --- !u!1 &1634961032
 GameObject:
   m_ObjectHideFlags: 0

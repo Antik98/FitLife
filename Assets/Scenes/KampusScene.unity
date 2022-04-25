@@ -5359,7 +5359,7 @@ MonoBehaviour:
   dialogue:
     objectName: 
     sentences:
-    - "[ME]Hm, kosti\u010Dkat"
+    - "[ME]Hele, n\u011Bkdo tu zahodil kost z KFC."
   questFinishDialogue:
     objectName: 
     sentences: []

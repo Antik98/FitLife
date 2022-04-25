@@ -22,7 +22,7 @@ public class NTKGameEvent : GameEffect
             PopUpMessage popupMessage = gameController.GetComponent<PopUpMessage>();
             Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
             popupMessage.Open(new Dialogue("Výborně! Progtest hotov a dokonce na plný počet i s bonusem."), QuestIcon);
-            StatusController.Instance.PlayerStatus.addStatValues(socialVal: -20);
+            StatusController.Instance.PlayerStatus.addStatValues(socialVal: -10);
             return true;
         }
         return false;

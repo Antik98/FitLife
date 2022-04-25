@@ -775,7 +775,7 @@ RectTransform:
   m_Children:
   - {fileID: 355923107}
   m_Father: {fileID: 2077723871}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1484,6 +1484,9 @@ MonoBehaviour:
     objectName: mat
     sentences:
     - "[ME]Str\xE1nka 256, m\u011Bl bych si naj\xEDt n\u011Bjak\xFD kon\xED\u010Dek."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -3160,6 +3163,9 @@ MonoBehaviour:
     sentences:
     - "[ME]Ne, te\u010F m\xE1m d\u016Fle\u017Eit\u011Bj\u0161\xED v\u011Bci na pr\xE1ci,
       ne\u017E sledovat dalekohledem Hanku."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -3643,6 +3649,9 @@ MonoBehaviour:
     - "[ME]Hele, dokonce tu n\u011Bkdo nechal kachni\u010Dku."
     - "[ME]Aspo\u0148 se nebudu c\xEDtit tak single, jako ve skute\u010Dnosti jsem."
     - "[ME]Mo\u017En\xE1 bych se mohl aspo\u0148 osprchovat...."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -3915,6 +3924,9 @@ MonoBehaviour:
     objectName: 
     sentences:
     - "[ME]Aaah, miluju sp\xE1nek."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -3951,7 +3963,7 @@ PrefabInstance:
     - target: {fileID: 30739628115052865, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 68961895533937601, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -3961,12 +3973,12 @@ PrefabInstance:
     - target: {fileID: 68961895690170411, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -403.00003
+      value: -403.00006
       objectReference: {fileID: 0}
     - target: {fileID: 68961895709738349, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 68961895755510347, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -3991,12 +4003,7 @@ PrefabInstance:
     - target: {fileID: 68961896330363721, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 68961896330363722, guid: fe351d83c3e4b8440aeb5adf4309f019,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 68961896655056018, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -4042,6 +4049,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887199758129976431, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887199758129976431, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -17.97754
       objectReference: {fileID: 0}
     - target: {fileID: 2192059454775435002, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -4183,6 +4200,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4757879781691465996, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4794961899389813602, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -4278,11 +4300,6 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6252528086466352526, guid: fe351d83c3e4b8440aeb5adf4309f019,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6487380316311519704, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -4366,7 +4383,7 @@ PrefabInstance:
     - target: {fileID: 6961395555543868360, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6961395555610233758, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -4422,6 +4439,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7095817662488689951, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_Horizontal
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7960912290132983315, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7964495022671653862, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -4553,6 +4580,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9032698686506685652, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe351d83c3e4b8440aeb5adf4309f019, type: 3}
 --- !u!114 &1260506806 stripped
@@ -4591,6 +4623,9 @@ MonoBehaviour:
     sentences:
     - "[ME]Ahoj F\xEDdo, jak se m\xE1\u0161?"
     - Haf haf haf!
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -5002,6 +5037,9 @@ MonoBehaviour:
     sentences:
     - '[ME]Hele, tohle tady nechal Bruce.'
     - "[ME]Moje nyn\xED, yoink."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -5534,6 +5572,9 @@ MonoBehaviour:
     sentences:
     - "[ME]\u017De bych si trochu zacvi\u010Dil?"
     - "[ME]Eeh, dneska je\u0161t\u011B ne. Ale z\xEDtra u\u017E fakt za\u010Dnu!"
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 

@@ -20,6 +20,7 @@ Texture2D:
   m_MipCount: 1
   m_IsReadable: 1
   m_IgnoreMasterTextureLimit: 0
+  m_IsPreProcessed: 0
   m_StreamingMipmaps: 0
   m_StreamingMipmapsPriority: 0
   m_AlphaIsTransparency: 0
@@ -55,13 +56,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hashCode: -1253652929
   material: {fileID: 5375778158620982692}
-  materialHashCode: -1707058988
+  materialHashCode: 1631330239
   m_Version: 1.1.0
   m_SourceFontFileGUID: 20038336b6f8a314ea637215cc31ae30
   m_SourceFontFile_EditorRef: {fileID: 0}
   m_SourceFontFile: {fileID: 0}
   m_AtlasPopulationMode: 0
   m_FaceInfo:
+    m_FaceIndex: 0
     m_FamilyName: Ambitsek
     m_StyleName: Regular
     m_PointSize: 70
@@ -77,8 +79,8 @@ MonoBehaviour:
     m_SubscriptOffset: -17.5
     m_SubscriptSize: 0.5
     m_UnderlineOffset: -10.869141
-    m_UnderlineThickness: 4.272461
-    m_StrikethroughOffset: 17.6
+    m_UnderlineThickness: 31.45
+    m_StrikethroughOffset: 38.71
     m_StrikethroughThickness: 4.272461
     m_TabWidth: 44
   m_GlyphTable:
@@ -4144,6 +4146,8 @@ MonoBehaviour:
   m_AtlasTextures:
   - {fileID: -4676477811029664822}
   m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
   m_UsedGlyphRects:
   - m_X: 0
     m_Y: 0

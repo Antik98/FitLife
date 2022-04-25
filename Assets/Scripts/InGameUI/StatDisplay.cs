@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 public class StatDisplay : MonoBehaviour
@@ -7,6 +9,7 @@ public class StatDisplay : MonoBehaviour
     private PlayerStatus playerStatus;
     private GameTimer gameTimer;
 
+    public PhoneDisplay phone;
     public Text time;   
     public Text hunger;
     public Text energy;
@@ -52,6 +55,23 @@ public class StatDisplay : MonoBehaviour
         hunger.text = playerStatus.hunger.ToString();
         energy.text = playerStatus.energy.ToString();
         social.text = playerStatus.social.ToString();
+
+        List<Text> list = new List<Text>() { hunger, energy, social };
+
+        foreach(Text s in list)
+        {
+            if (Int32.TryParse(s.text, out int output) && output <= 20)
+            {
+                if(phone != null)
+                    phone.SetPhoneState(true);
+                s.color = Color.red;
+            }
+            else
+            {
+                s.color = Color.black;
+            }
+            
+        }
     }
 
     private void onAttributeChange(object sender, PlayerStatus.Stats stats, int value)

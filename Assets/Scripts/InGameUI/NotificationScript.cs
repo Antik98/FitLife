@@ -56,11 +56,14 @@ public class NotificationScript : MonoBehaviour
             }
         }
     }
-
+    */
     public void CloseNotification()
     {
         questMenu.SetActive(false);
-
+        cursor.SetActive(false);
+        GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();
+        StatusController.Instance.gameTimer.StartTimer();
+        Time.timeScale = 1f;
     }
- */
+ 
 }

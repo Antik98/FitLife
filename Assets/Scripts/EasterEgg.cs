@@ -100,6 +100,8 @@ public class EasterEgg : DisplayHint
             if (questTracker.getQuest(x).GetStatus() == Quest.Status.turnIn)
             {
                 Quest _questFinishingHere = questTracker.getQuest(x);
+                if (shouldAddSocial)
+                    playerStatus.addStatValues(socialVal: 10);
                 questTracker.CompleteQuest(x);
                 DisplayDialogueWithOverrideSprites(questFinishDialogue);
                 if (_questFinishingHere is QuestInteraction)

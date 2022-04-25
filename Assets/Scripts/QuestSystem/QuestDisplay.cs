@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
-
+using TMPro;
 
 public class QuestDisplay : MonoBehaviour
 {
@@ -11,7 +11,8 @@ public class QuestDisplay : MonoBehaviour
     public Dictionary<int,GameObject> questObjects = new Dictionary<int, GameObject>();
     public GameObject content;
     public GameObject template;
-    public Text questText;
+    //public Text questText;
+    public TextMeshProUGUI questText;
     public int? displayedQuestIndex = 0;
 
 
@@ -58,7 +59,7 @@ public class QuestDisplay : MonoBehaviour
             if (curStatus == Quest.Status.progress || curStatus == Quest.Status.turnIn)
             {
                 var copy = Instantiate(template);
-                copy.GetComponent<Text>().text = questTracker.getQuest(num).name;
+                copy.GetComponent<TextMeshProUGUI>().text = questTracker.getQuest(num).name;
                 copy.transform.SetParent( content.GetComponent<GridLayoutGroup>().transform, false);
                 copy.GetComponent<QuestFab>().questNumber = num;
                 questObjects.Add(num, copy.gameObject);

@@ -9,7 +9,7 @@ public class PauseGame : MonoBehaviour
     public PopUpMessage popUpMessage;
     public GameObject cursor;
 
-    public static bool isGamePaused { get; private set; }
+    public static bool isGamePaused = false;
 
     IEnumerator Start()
     {

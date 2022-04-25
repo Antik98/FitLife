@@ -143,6 +143,9 @@ MonoBehaviour:
   dialogue:
     objectName: 
     sentences: []
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -256,7 +259,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 999
-  m_Sprite: {fileID: 86414808533463282, guid: 0126bf26b7086b843993782976152683, type: 3}
+  m_Sprite: {fileID: -995511490824875474, guid: 037898335511a7b4d89d4d6ade953cdb,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

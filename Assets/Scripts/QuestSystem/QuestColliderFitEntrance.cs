@@ -45,7 +45,7 @@ public class QuestColliderFitEntrance : DisplayHint
             {
                 if(q is SchoolQuest sq && q.IsQuestFinishable(gameTimer.gameTime))
                 {
-                    //Finish sluchatka quest
+                    //Finish isic quest
                     if (questTracker.getQuest(17).GetStatus() == Quest.Status.progress)
                     {
                         questTracker.TurnInQuest(17);
@@ -55,7 +55,7 @@ public class QuestColliderFitEntrance : DisplayHint
                     questUnavailable = false;
                     questTracker.CompleteQuest(q.questID);
                     gameTimer.SleepHours((float)(sq.deadline + TimeSpan.FromHours(1.5f) - gameTimer.gameTime).TotalHours);
-                    StatusController.Instance.GetComponent<CoroutineQueue>().list.Add((scene) => WaitForPlayerToComeBack(scene, wellDoneDialogue.sentences[0] + "Quest splněn:  " + q.name));
+                    StatusController.Instance.GetComponent<CoroutineQueue>().list.Add((scene) => WaitForPlayerToComeBack(scene, wellDoneDialogue.sentences[0] + "Quest splněn: " + q.name));
                     if (((SchoolQuest)q).schoolSceneName != "")
                     {
                         sceneChanger.Activate(((SchoolQuest)q).schoolSceneName);
@@ -76,6 +76,7 @@ public class QuestColliderFitEntrance : DisplayHint
             PopUpMessage popupMessage = gameController.GetComponent<PopUpMessage>();
             Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
             popupMessage.Open(new Dialogue(dialogue), QuestIcon);
+            StatusController.Instance.PlayerStatus.addStatValues(energyVal: -15, socialVal: -5, hungerVal: -10);
             return true;
         }
         return false;

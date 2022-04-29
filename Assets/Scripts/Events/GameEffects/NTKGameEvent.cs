@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class NTKGameEvent : GameEffect
 {
+    public CountDownTimerNtk countDownTimerNtk;
     public override IEnumerator execute()
     {
         yield return null;
+        countDownTimerNtk.Stop();
         StatusController.Instance.questTracker.CompleteQuest(16);
         StatusController.Instance.questTracker.CompleteQuest(9);
         StatusController.Instance.coroutineQueue.list.Add((scene) => WaitForPlayerToComeBack(scene));

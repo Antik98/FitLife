@@ -48,7 +48,7 @@ public class GameTimer : MonoBehaviour
     // We can use these events to trigger quest timeouts, world events
     void InvokeTimePassedEvents() 
     {
-        TimeSpan nextTick = gameTime + TimeSpan.FromSeconds(Time.deltaTime * 70);
+        TimeSpan nextTick = gameTime + TimeSpan.FromSeconds(Time.deltaTime * 83);
 
         //Called when 15 minutes passed
         if(gameTime.Minutes % 15 == 0 && nextTick.Minutes % 15 != 0 )
@@ -86,7 +86,7 @@ public class GameTimer : MonoBehaviour
                 EndGameSuccessfully();
             }
 
-            gameTime += TimeSpan.FromSeconds(Time.deltaTime*70);
+            gameTime += TimeSpan.FromSeconds(Time.deltaTime*83);
             
         }
     }

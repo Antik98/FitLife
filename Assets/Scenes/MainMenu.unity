@@ -653,7 +653,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 370.98505, y: -95.64903}
+  m_AnchoredPosition: {x: 370.98505, y: -95.64905}
   m_SizeDelta: {x: 538.81775, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &84615206
@@ -3909,7 +3909,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 76.021545, y: -24.724257}
+  m_AnchoredPosition: {x: 76.021545, y: -24.724258}
   m_SizeDelta: {x: 734.5327, y: 86.929504}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &770542028
@@ -9225,6 +9225,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 859731361116135865, guid: 26346c628592049f18790646fb50be34,
+        type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 26346c628592049f18790646fb50be34, type: 3}

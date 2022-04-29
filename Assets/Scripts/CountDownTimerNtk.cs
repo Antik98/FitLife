@@ -38,6 +38,11 @@ public class CountDownTimerNtk : MonoBehaviour
         }
     }
 
+    public void Stop()
+    {
+        canCount = false;
+    }
+
     IEnumerator failedRun()
     {
         questTracker.FailQuest(16);

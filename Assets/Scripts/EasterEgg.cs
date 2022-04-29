@@ -104,7 +104,8 @@ public class EasterEgg : DisplayHint
                 if (shouldAddSocial)
                     playerStatus.addStatValues(socialVal: 10);
                 questTracker.CompleteQuest(x);
-                DisplayDialogueWithOverrideSprites(questFinishDialogue);
+                if(questFinishDialogue.sentences.Count() != 0)
+                    DisplayDialogueWithOverrideSprites(questFinishDialogue);
                 if (_questFinishingHere is QuestInteraction)
                 {
                     string[] _tmp = { ((QuestInteraction)_questFinishingHere).questCompleteText };

@@ -5185,7 +5185,7 @@ PrefabInstance:
     - target: {fileID: 1887199758129976431, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -17.977524
+      value: -17.97754
       objectReference: {fileID: 0}
     - target: {fileID: 2640311107330972807, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -6231,15 +6231,12 @@ MonoBehaviour:
     objectName: event
     sentences:
     - "Dobr\xFD den. Dnes n\xE1s \u010Dek\xE1 zkou\u0161ka z matematick\xE9 logiky."
-    - "Jak znalci \u0159\xEDkaj\xED: \"BI-MLO\""
+    - "Jak znalci \u0159\xEDkaj\xED: \"BI-MLO\"."
     - "Na stole m\xE1te p\xEDsemku, tak se pus\u0165te do toho."
-    - "[ME]Kurva, Hilbert\u016Fv kalkulus!? Ten jsem se neu\u010Dil."
-    - '[ME]Minimalni KNT a DNT?'
-    - "[ME]Zn\xE1m jen TNT."
-    - "[ME]Karnaughova mapa? Je na n\xED aspo\u0148 zakopanej poklad?"
-    - "[ME]Splnitelnost formule? J\xE1 nejsem Schumacher."
-    - "[ME]Ten v\xED o formul\xEDch v\u0161echno.."
-    - '[ME]Tak tenhle test je dost v prdeli no.'
+    - "[ME]Kurva, Hilbert\u016Fv kalkulus!? Ten jsem se neu\u010Dil, jsem myslel,
+      \u017Ee ho do testu nedostanu."
+    - "[ME]Minim\xE1ln\xED KNT a DNT? Splnitelnost formule? Uh."
+    - "[ME]To bude dlouh\xFDch 90 minut."
   gameController: {fileID: 1775618923}
   questManager: {fileID: 0}
   Teacher: {fileID: 7949102513685488369, guid: fffb6eacca1486a4386065600156a579, type: 3}

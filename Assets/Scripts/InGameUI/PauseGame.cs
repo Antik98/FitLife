@@ -46,6 +46,7 @@ public class PauseGame : MonoBehaviour
 
     private void OpenPauseMenu()
     {
+        StatusController.Instance.audioManager.playSoundName("phoneUp");
         if (!popUpMessage.isActive())
         {
             GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().lockPlayer();
@@ -59,6 +60,7 @@ public class PauseGame : MonoBehaviour
 
     private void ClosePauseMenu()
     {
+        StatusController.Instance.audioManager.playSoundName("phoneDown");
         if (!popUpMessage.isActive())
         {
             GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();

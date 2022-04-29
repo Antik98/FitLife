@@ -11,6 +11,7 @@ public class GameManagerZMA : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
+        Cursor.visible = false;
         gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         gameTimer.StopTimer();
         playerStatus = GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
@@ -20,7 +21,7 @@ public class GameManagerZMA : MonoBehaviour
     {
         //Debug.Log("GAME WON");
         gameTimer.StartTimer();
-        SceneManager.LoadScene("ZMA_MinigameWinningScreen");
+        SceneManager.LoadScene("ZMA_MinigameWinningScene");
     }
 
     public void EndGame()

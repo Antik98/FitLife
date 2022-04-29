@@ -18,11 +18,13 @@ public class AnimationSoundEffectScript : MonoBehaviour
     public void MakeOpenSound()
     {
         audioSource?.PlayOneShot(objectShow, 0.2f);
+        //StatusController.Instance.audioManager.playSoundName("phoneUp");
     }
 
     public void MakeCloseSound()
     {
         audioSource?.PlayOneShot(objectHide, 0.2f);
+        //StatusController.Instance.audioManager.playSoundName("phoneDown");
     }
 
 }

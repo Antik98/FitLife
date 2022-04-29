@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class CountDownTimerNtk : MonoBehaviour
 {
 
-    private float timer = 60;
+    public float timer = 60;
     private bool canCount = true;
     private bool doOnce = false;
     public Text timerText;

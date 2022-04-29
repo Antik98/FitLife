@@ -11,6 +11,7 @@ public class TimerZMA : MonoBehaviour
 	public GameManagerZMA gameManager;
 	void Start()
 	{
+		Cursor.visible = false;
 		currentTime = startingTime;
 		minute = (int)currentTime / 60;
 		second = (int)currentTime % 60;
@@ -18,6 +19,7 @@ public class TimerZMA : MonoBehaviour
 
 	void Update()
 	{
+		Cursor.visible = false;
 		if (minute <= 0 && second <= 0)
 		{
 			gameManager.GameWin();

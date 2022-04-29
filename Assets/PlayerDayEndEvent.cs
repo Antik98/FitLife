@@ -23,14 +23,17 @@ public class PlayerDayEndEvent : MonoBehaviour
 
     private void HandleDayEnd()
     {
+        string fadeText = (StatusController.Instance.gameTimer.gameTime.Days + 1) >= 4 ? ""
+            : string.Format("Den {0}/3", StatusController.Instance.gameTimer.gameTime.Days + 1);
+
         if (SceneManager.GetActiveScene().name != "HomeScene")
         {
             StatusController.Instance.coroutineQueue.list.Add((sceneName) => WaitForPlayerToBeHome(sceneName));
-            StartCoroutine(GameObject.FindGameObjectWithTag("Transition")?.GetComponent<FadeAnimation>().TriggerFade(5, "HomeScene", "Další den..."));
+            StartCoroutine(GameObject.FindGameObjectWithTag("Transition")?.GetComponent<FadeAnimation>().TriggerFade(5, "HomeScene", fadeText));
         }
         else
         {
-            StartCoroutine(GameObject.FindGameObjectWithTag("Transition")?.GetComponent<FadeAnimation>().TriggerFade(5, "HomeScene", "Další den..."));
+            StartCoroutine(GameObject.FindGameObjectWithTag("Transition")?.GetComponent<FadeAnimation>().TriggerFade(5, "HomeScene", fadeText));
         }
     }
 

@@ -45,8 +45,6 @@ public class playerMovementZMA : MonoBehaviour
     public void lockPlayer()
     {
         this.GetComponent<Animator>().enabled = false;
-        GameObject soundManager = GameObject.FindGameObjectsWithTag("SoundManager")[0];
-        soundManager.GetComponent<AudioSource>().mute = true;
         curSpeed = 0;
     }
 
@@ -54,8 +52,6 @@ public class playerMovementZMA : MonoBehaviour
     public void unlockPlayer()
     {
         this.GetComponent<Animator>().enabled = true;
-        GameObject soundManager = GameObject.FindGameObjectsWithTag("SoundManager")[0];
-        soundManager.GetComponent<AudioSource>().mute = false;
         curSpeed = moveSpeed;
     }
 

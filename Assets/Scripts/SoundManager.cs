@@ -12,7 +12,6 @@ public class SoundManager : MonoBehaviour
     public bool playWalkingSound = true;
 
     void Start() {
-        audioPlayer = GetComponent<AudioSource>();
         if(audioPlayer??false)
         {
             audioPlayer.clip = walk;

@@ -10,8 +10,9 @@ public class MainMenu : MonoBehaviour
 
     void Start()
     {
-        
         sceneController = GameObject.FindGameObjectWithTag("GameController").GetComponent<SceneController>();
+        if (StatusController.initialized)
+            StatusController.Instance.Stop();
     }
 
     public void createNewGame()

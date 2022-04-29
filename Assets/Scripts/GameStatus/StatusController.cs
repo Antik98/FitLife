@@ -11,6 +11,8 @@ public class StatusController : MonoBehaviour
     public PlayerStatus PlayerStatus;
     public InteractionTracker interactionTracker;
     public CoroutineQueue coroutineQueue;
+    public AudioSource musicSource;
+    public AudioManager audioManager;
 
     public static bool initialized => _instance != null;
 
@@ -34,6 +36,8 @@ public class StatusController : MonoBehaviour
         PlayerStatus = GetComponent<PlayerStatus>();
         interactionTracker = GetComponent<InteractionTracker>();
         coroutineQueue = GetComponent<CoroutineQueue>();
+        musicSource = GetComponent<AudioSource>();
+        audioManager = GetComponent<AudioManager>();
     }
 
     public void Reset()
@@ -43,7 +47,9 @@ public class StatusController : MonoBehaviour
         GetComponent<PlayerStatus>()?.Reset();
         coroutineQueue?.Reset();
         interactionTracker?.Reset();
+        musicSource.time = 0;
     }
+
     public void Stop()
     {
         gameTimer.StopTimer();

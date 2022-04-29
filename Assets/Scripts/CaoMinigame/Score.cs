@@ -11,11 +11,13 @@ public class Score : MonoBehaviour
     private WordManager wordManager;
     private void Start()
     {
+        Cursor.visible = false;
         wordManager = FindObjectOfType<WordManager>();
     }
 
     private void Update()
     {
+        Cursor.visible = false;
         for (int i = 0; i < hearts.Length; i++)
         {
             if (i < curLives)

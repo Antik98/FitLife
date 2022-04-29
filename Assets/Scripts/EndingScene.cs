@@ -21,6 +21,7 @@ public class EndingScene : MonoBehaviour
 
         if((statusController ?? false))
         {
+            statusController.gameTimer.StopTimer();
             playerStatus = statusController.GetComponent<PlayerStatus>();
             energyStat.text = playerStatus.energy.ToString();
             socialStat.text = playerStatus.social.ToString();
@@ -35,6 +36,7 @@ public class EndingScene : MonoBehaviour
 
         }
     }
+
     IEnumerator showDialog()
     {
         if (playerStatus.energy <= 0)

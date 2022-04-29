@@ -89,7 +89,7 @@ public class QuestDisplay : MonoBehaviour
             num = questObjects.First().Value.GetComponent<QuestFab>().questNumber;
         }
 
-        questText.text = num.HasValue ? questTracker.getQuest(num.Value).text : "Žádný aktivní quest";
+        questText.text = num.HasValue ? questTracker.getQuest(num.Value).text : "Žádný aktivní quest, nezapomeň se zítra ráno podívat na nové questy dle rozvrhu.";
         displayedQuestIndex = num ?? null;
     }
 

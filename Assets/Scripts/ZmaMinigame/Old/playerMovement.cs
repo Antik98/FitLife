@@ -53,8 +53,6 @@ public class playerMovement : MonoBehaviour
         collider.enabled = false;
         animator.SetFloat("Speed", 0);
         Dust.Stop();
-        GameObject soundManager = GameObject.FindGameObjectsWithTag("SoundManager")[0];
-        soundManager.GetComponent<AudioSource>().mute = true;
         curSpeed = 0;
     }
 
@@ -64,8 +62,6 @@ public class playerMovement : MonoBehaviour
         collider.enabled = true;
         canMove = true;
         Dust.Stop();
-        GameObject soundManager = GameObject.FindGameObjectsWithTag("SoundManager")[0];
-        soundManager.GetComponent<AudioSource>().mute = false;
         curSpeed = moveSpeed;
     }
 

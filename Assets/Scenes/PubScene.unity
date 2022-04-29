@@ -442,7 +442,7 @@ Transform:
   - {fileID: 676660418}
   - {fileID: 1073746419}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &135553046
 GameObject:
@@ -3077,7 +3077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043bee3f89409460693d0a1fa748d131, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  displayTextOnHint: "Prozkoumej stisknut\xEDm E"
+  displayTextOnHint: Promluvit
   dialogue:
     objectName: mat
     sentences:
@@ -3603,7 +3603,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &626155770
 Transform:
   m_ObjectHideFlags: 0
@@ -3701,7 +3701,7 @@ Transform:
   - {fileID: 751950449}
   - {fileID: 89748118}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &639260173
 PrefabInstance:
@@ -3958,7 +3958,7 @@ PrefabInstance:
     - target: {fileID: 543115629837344577, guid: 26346c628592049f18790646fb50be34,
         type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 543115629837344577, guid: 26346c628592049f18790646fb50be34,
         type: 3}
@@ -5054,18 +5054,12 @@ MonoBehaviour:
   dialogue:
     objectName: mat
     sentences:
-    - "[2]...tak\u017Ee koalice do p\u0159\xED\u0161t\xEDch voleb je jasn\xE1. Andrej
-      nebude m\xEDt \u0161anci."
-    - "[3]V\xFDborn\u011B, Dominiku! A gratuluji k ocen\u011Bn\xED influencera roku,
-      je to v\xEDc ne\u017E zaslou\u017Een\u011B."
-    - "[3]Hej, ty n\xE1s poslouch\xE1\u0161 pro\u010D? Jsi snad vl\xE1dn\xED \u0161peh?"
-    - "[ME]Eh, j\xE1..."
-    - "[2]Supr mikina k\xE1mo, u\u017E ti na n\xED chyb\xED jen \u010Dern\xFD vyk\u0159i\u010Dn\xEDk,
-      hehe."
-    - "[ME]D\xEDky. Hele, budete opravdu kandidovat na prezidenta?"
-    - "[2]Hele to je\u0161t\u011B nev\xEDm. Uvid\xEDme, jak se situace vyvine."
-    - "[ME]Jasn\u011B, ch\xE1pu. Tak nashle."
-    - "[2]M\u011Bj se, a nezapome\u0148 j\xEDt k volb\xE1m!"
+    - "[ME]Hele, zkus\xEDm star\xFD zn\xE1m\xFD trik."
+    - "[ME]Sle\u010Dno, vy m\xE1te v kapse zrc\xE1tko?"
+    - "Pros\xEDm?"
+    - "[ME]Proto\u017Ee j\xE1 se vid\xEDm ve va\u0161ich kalhotk\xE1ch, hehe."
+    - "Odprejskni ty nechutnej pr\xE1s\xE1ku, nebo ti d\xE1m facku."
+    - "[ME]No tak tohle nevy\u0161lo."
   questFinishDialogue:
     objectName: 
     sentences: []
@@ -5076,11 +5070,11 @@ MonoBehaviour:
   repeatableDialog: 0
   isEasterEgg: 0
   shouldAddSocial: 1
-  spriteOverrideDefault: {fileID: 0}
+  spriteOverrideDefault: {fileID: 1879572148066321847, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
+    type: 3}
   spriteOverride2: {fileID: -4737257690690313851, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
     type: 3}
-  spriteOverride3: {fileID: 1879572148066321847, guid: e63eeea9625f9f944b2bef11c1e4d1fe,
-    type: 3}
+  spriteOverride3: {fileID: 0}
   questIndicator: {fileID: 0}
 --- !u!61 &1068672872
 BoxCollider2D:
@@ -6141,7 +6135,7 @@ Transform:
   - {fileID: 185938884}
   - {fileID: 2126094005}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1380193014
 PrefabInstance:
@@ -6153,7 +6147,7 @@ PrefabInstance:
     - target: {fileID: 68961895690170411, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -403
+      value: -403.00003
       objectReference: {fileID: 0}
     - target: {fileID: 68961896330363722, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -8286,7 +8280,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1691707872
 Transform:
   m_ObjectHideFlags: 0
@@ -10364,7 +10358,7 @@ Transform:
   - {fileID: 701599631}
   - {fileID: 202154684}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1805169056
 GameObject:
@@ -11700,6 +11694,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2109133369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 639260173}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2109133370}
+  m_Layer: 0
+  m_Name: SoundManager (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2109133370
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 639260173}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2109133369}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2110782008
 GameObject:
   m_ObjectHideFlags: 0

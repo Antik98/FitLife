@@ -22,8 +22,9 @@ public class SchoolQuest : Quest
         SchoolSubjectType subject,
         int gainedPointsToSubject,
         string schoolSceneName,
-        Status status = Status.inactive) 
-        : base(questID, name, text, status)
+        Status status = Status.inactive,
+        string notysekText = null) 
+        : base(questID, name, text, status, notysekText)
     {
         this.deadline = deadline;
         this.type = type;
@@ -38,6 +39,12 @@ public class SchoolQuest : Quest
         base.CompleteQuest();
         GradingSystem.GradeTracker.AddPoints(subject, gainedPointsToSubject);
         var playerStatus = StatusController.Instance.GetComponent<PlayerStatus>();
+    }
+    public override void FailQuest()
+    {
+        base.FailQuest();
+        if(type == Type.exam)
+            GradingSystem.GradeTracker.ResetPoints(subject);
     }
 
     public override bool IsQuestTimedOut(TimeSpan gameTime)

@@ -49,13 +49,16 @@ public class QuestColliderFitEntrance : DisplayHint
                     if (questTracker.getQuest(17).GetStatus() == Quest.Status.progress)
                     {
                         questTracker.TurnInQuest(17);
-                        StatusController.Instance.GetComponent<CoroutineQueue>().list.Add((scene) => WaitForPlayerToComeBack(scene, (questTracker.getQuest(17) as QuestInteraction).questTurnInText));
+                        StatusController.Instance.GetComponent<CoroutineQueue>().list.Add((scene) => WaitForPlayerToComeBack(scene, 17, (questTracker.getQuest(17) as QuestInteraction).questTurnInText));
+                    }
+                    questUnavailable = false;
+                    if(sq.questID == 6 || sq.questID == 7)
+                    {
+                        sceneChanger.Activate(((SchoolQuest)q).schoolSceneName);
+                        break;
                     }
 
-                    questUnavailable = false;
-                    questTracker.CompleteQuest(q.questID);
-                    gameTimer.SleepHours((float)(sq.deadline + TimeSpan.FromHours(1.5f) - gameTimer.gameTime).TotalHours);
-                    StatusController.Instance.GetComponent<CoroutineQueue>().list.Add((scene) => WaitForPlayerToComeBack(scene, wellDoneDialogue.sentences[0] + "Quest splněn: " + q.name));
+                    StatusController.Instance.GetComponent<CoroutineQueue>().list.Add((scene) => WaitForPlayerToComeBack(scene, q.questID, wellDoneDialogue.sentences[0] + "Quest splněn: " + q.name));
                     if (((SchoolQuest)q).schoolSceneName != "")
                     {
                         sceneChanger.Activate(((SchoolQuest)q).schoolSceneName);
@@ -68,13 +71,18 @@ public class QuestColliderFitEntrance : DisplayHint
         }
     }
 
-    bool WaitForPlayerToComeBack(string scene, string dialogue = "")
+    bool WaitForPlayerToComeBack(string scene, int questId, string dialogue = "")
     {
         if(scene == "KampusScene")
         {
             GameObject gameController = GameObject.Find("UI");
             PopUpMessage popupMessage = gameController.GetComponent<PopUpMessage>();
             Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
+            if (StatusController.Instance.questTracker.getQuest(questId) is SchoolQuest sq)
+            {
+                questTracker.CompleteQuest(questId);
+                gameTimer.SleepHours((float)(sq.deadline + TimeSpan.FromHours(1.5f) - gameTimer.gameTime).TotalHours);
+            }
             popupMessage.Open(new Dialogue(dialogue), QuestIcon);
             StatusController.Instance.PlayerStatus.addStatValues(energyVal: -15, socialVal: -5, hungerVal: -10);
             return true;

@@ -58,8 +58,7 @@ public class EasterEgg : DisplayHint
                 Close();
                 StatusController.Instance.interactionTracker.addInteractionToHistory(dialogue.GetHashCode(), isEasterEgg);
             }
-            questInteractionProcess();
-            StartCoroutine(WaitAfterDialog());
+            StartCoroutine(questInteractionProcess());
         }
     }
 
@@ -93,8 +92,10 @@ public class EasterEgg : DisplayHint
     }
 
 
-    public void questInteractionProcess()
+    public IEnumerator questInteractionProcess()
     {
+        yield return new WaitWhile(() => popupMessage?.isActive() ?? false);
+
         foreach (var x in QuestIdFinishingHere)
         {
             if (questTracker.getQuest(x).GetStatus() == Quest.Status.turnIn)
@@ -141,5 +142,7 @@ public class EasterEgg : DisplayHint
                 }
             }
         }
+        yield return new WaitWhile(() => popupMessage?.isActive() ?? false);
+        StartCoroutine(WaitAfterDialog());
     }
 }

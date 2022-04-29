@@ -8,8 +8,8 @@ public class ProgtestQuest : Quest
 {
     public TimeSpan deadline;
 
-    public ProgtestQuest(int questID, string name, string text, TimeSpan deadline, Status status = Status.inactive) 
-        : base(questID, name, text, status)
+    public ProgtestQuest(int questID, string name, string text, TimeSpan deadline, Status status = Status.inactive, string notysekText = null) 
+        : base(questID, name, text, status, notysekText)
     {
         this.deadline = deadline;
         this.type = Quest.Type.progtest;

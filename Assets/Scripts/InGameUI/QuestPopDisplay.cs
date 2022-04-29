@@ -19,7 +19,8 @@ public class QuestPopDisplay : MonoBehaviour
 
     private void OnDisable()
     {
-        questTracker.HandleQuestChanged -= onQuestChange;
+        if(questTracker != null)
+            questTracker.HandleQuestChanged -= onQuestChange;
     }
 
     private void OnEnable()
@@ -31,11 +32,14 @@ public class QuestPopDisplay : MonoBehaviour
     private IEnumerator OnEnableCoroutine()
     {
         yield return new WaitUntil(() => StatusController.initialized);
-        playerStatus = StatusController.Instance.GetComponent<PlayerStatus>();
+        playerStatus = StatusController.Instance.PlayerStatus;
         text.SetActive(false);
-        questTracker = StatusController.Instance.GetComponent<QuestTracker>();
+        questTracker = StatusController.Instance.questTracker;
         questTracker.HandleQuestChanged += onQuestChange;
-        UpdateQuestViewWithoutEffects();
+        if (playerStatus.doTutorial)
+            StartCoroutine(forceUpdateView());
+        else
+            UpdateQuestViewWithoutEffects();
     }
 
     void Update()
@@ -44,27 +48,37 @@ public class QuestPopDisplay : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Tab) && !playerStatus.doTutorial)
             {
-                StopAllCoroutines();
                 UpdateQuestViewWithoutEffects();
                 questAnimator?.SetBool("IsOpen", !isActive());
-                if (isActive())
-                {
-                    text.SetActive(true);
-                }
-                else
-                {
-                    text.SetActive(false);
-                }
+                text.SetActive(isActive());
             }
         }
     }
 
-
+    private IEnumerator forceUpdateView()
+    {
+        questAnimator?.SetBool("IsOpen", true);
+        questLines.ToList().ForEach(x => x.text = "");
+        questLinesText.ToList().ForEach(x => x.text = "");
+        yield return StartCoroutine(UpdateQuestView());
+        questAnimator?.SetBool("IsOpen", false);
+    }
 
     private void onQuestChange(object sender, int id)
     {
+        if(sender == null)
+        {
+            StartCoroutine(forceUpdateView());
+            return;
+        }
+
+        if (questTracker.getQuest(id).GetStatus() == Quest.Status.turnIn)
+        {
+            return;
+        }
+
         StopAllCoroutines();
-        StartCoroutine(UpdateQuestView());
+        StartCoroutine(UpdateQuestView(id));
         if(questTracker.getQuest(id).GetStatus() == Quest.Status.failed)
         {
             Sprite QuestIcon = Resources.LoadAll<Sprite>("PopUpMessageIcons")[0];
@@ -74,62 +88,87 @@ public class QuestPopDisplay : MonoBehaviour
 
     private void UpdateQuestViewWithoutEffects()
     {
-        questLines.ToList().Skip(1).ToList().ForEach(x => x.text = "");
-        questLinesText.ToList().Skip(1).ToList().ForEach(x => x.text = "");
+        StopAllCoroutines();
+        questLines.ToList().ForEach(x => x.text = "");
+        questLinesText.ToList().ForEach(x => x.text = "");
         var items = questLines.ToList().Zip(questLinesText.ToList().Zip(questTracker.getActiveQuests(), (x, y) => (x, y)), (x, y) => (x, y.x, y.y));
         foreach (var (title, text, quest) in items)
         {
             title.text = quest.name;
-            text.text = quest.text;
+            text.text = quest.notysekText;
         }
 
         if (!questTracker.getActiveQuests().Any())
         {
             questLines.FirstOrDefault().text = "";
-            questLinesText.FirstOrDefault().text = "Máš volno! Žádné aktivní úkoly.";
+            questLinesText.FirstOrDefault().text = "Žádné aktivní úkoly, pro dnešek mám volno! Zítra ráno se nesmím zapomenout podívat na nové questy dle rozvrhu.";
+        }
+        else if (items.Count() == 1)
+        {
+            questLines.ToList().Skip(1).ToList().ForEach(x => x.text = "");
+            questLinesText.ToList().Skip(1).ToList().ForEach(x => x.text = "");
         }
     }
-        private IEnumerator UpdateQuestView()
+
+    private IEnumerator UpdateQuestView(int? questId = null)
     {
         bool wasOpen = isActive();
-        questAnimator?.SetBool("IsOpen", true);
-
-        questLines.ToList().Skip(1).ToList().ForEach(x => x.text = "");
-        questLinesText.ToList().Skip(1).ToList().ForEach(x => x.text = "");
         var items = questLines.ToList().Zip(questLinesText.ToList().Zip(questTracker.getActiveQuests(), (x, y) => (x, y)), (x, y) => (x, y.x, y.y) );
+
         foreach (var (title, text, quest) in items)
         {
-            StartCoroutine(UpdateText(title, quest.name));
-            yield return StartCoroutine(UpdateText(text, quest.text));
+            if(questId.HasValue && questTracker.getQuest(questId.Value).name == title.text)
+            {
+                StartCoroutine(ScratchText(title, quest.name));
+                yield return StartCoroutine(ScratchText(text, quest.notysekText));
+
+            }
+            StartCoroutine(DisplaySentence(title, quest.name));
+            yield return StartCoroutine(DisplaySentence(text, quest.notysekText));
         }
 
         if (!questTracker.getActiveQuests().Any())
         {
             questLines.FirstOrDefault().text = "";
             yield return StartCoroutine(DisplaySentence(questLinesText.FirstOrDefault(), "Máš volno! Žádné aktivní úkoly."));
+        } else if (items.Count() == 1)
+        {
+            if (questId.HasValue && questTracker.getQuest(questId.Value).name == questLines.ElementAtOrDefault(1)?.text)
+            {
+                StartCoroutine(ScratchText(questLines[1], ""));
+                yield return StartCoroutine(ScratchText(questLinesText[1], ""));
+            }
+            else
+            {
+                questLines.ToList().Skip(1).ToList().ForEach(x => x.text = "");
+                questLinesText.ToList().Skip(1).ToList().ForEach(x => x.text = "");
+            }
         }
-
         questAnimator?.SetBool("IsOpen", wasOpen);
     }
 
-    private IEnumerator UpdateText(TextMeshProUGUI gui, string newText)
+    private IEnumerator ScratchText(TextMeshProUGUI gui, string newText)
     {
         WaitForSeconds w = new WaitForSeconds(0.02f);
         string originalStr = gui.text;
         if(newText != gui.text)
         {
+            questAnimator?.SetBool("IsOpen", true);
             foreach (int x in Enumerable.Range(0, originalStr.Length))
             {
                 gui.text = "<s>" + originalStr.Substring(0, x) + "</s>" + originalStr.Substring(x);
                 yield return w;
             }
-            yield return StartCoroutine(DisplaySentence(gui, newText));
         }
         yield return null;
     }
 
     IEnumerator DisplaySentence(TextMeshProUGUI gui, string display)
     {
+        if (display == gui.text)
+            yield break;
+        questAnimator?.SetBool("IsOpen", true);
+        StatusController.Instance.audioManager.playSoundName("writing");
         gui.text = "";
         WaitForSeconds w = new WaitForSeconds(0.02f);
         foreach (char letter in display.ToCharArray())
@@ -137,7 +176,6 @@ public class QuestPopDisplay : MonoBehaviour
             gui.text += letter;
             yield return w;
         }
-
     }
 
     public bool isActive()

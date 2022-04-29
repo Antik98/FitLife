@@ -26,6 +26,7 @@ public class NotificationScript : MonoBehaviour
             {
                 if (questMenu.activeSelf)
                 {
+                    StatusController.Instance.audioManager.playSoundName("phoneDown");
                     questMenu.SetActive(false);
                     cursor.SetActive(false);
                     GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().unlockPlayer();
@@ -34,6 +35,7 @@ public class NotificationScript : MonoBehaviour
                 }
                 else
                 {
+                    StatusController.Instance.audioManager.playSoundName("phoneUp");
                     questMenu.SetActive(true);
                     cursor.SetActive(true);
                     GameObject.FindGameObjectWithTag("Player")?.GetComponent<playerMovement>().lockPlayer();

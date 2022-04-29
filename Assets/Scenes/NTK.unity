@@ -3525,75 +3525,6 @@ PolygonCollider2D:
       - {x: 0.33082688, y: -0.0073895454}
       - {x: 0.3341607, y: 0.26901913}
       - {x: 0.31869543, y: 0.27065563}
---- !u!1001 &551681348
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1406761736181708417, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_Name
-      value: SoundManager
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.3335847
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.81743395
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -71.007324
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1406761736181708420, guid: 359c622108a1e7f4e8785639950c07b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 359c622108a1e7f4e8785639950c07b2, type: 3}
 --- !u!1 &577217569
 GameObject:
   m_ObjectHideFlags: 0
@@ -3761,6 +3692,9 @@ MonoBehaviour:
     - "[ME]Koup\xEDm ledni\u010Dku, do t\xE9 m\xE9 na Strahov\u011B n\u011Bkdo dal
       mikrovlnku, zn. sp\u011Bch\xE1."
     - "[ME]Skv\u011Bl\xFD, lidem ofici\xE1ln\u011B jeblo."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -4385,7 +4319,7 @@ PrefabInstance:
     - target: {fileID: 4587230140076113457, guid: 1661046b564fb4841a0066991e9c01bf,
         type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 0.40625
+      value: 0.375
       objectReference: {fileID: 0}
     - target: {fileID: 4587230140076113457, guid: 1661046b564fb4841a0066991e9c01bf,
         type: 3}
@@ -4660,6 +4594,9 @@ MonoBehaviour:
     sentences:
     - "Tato sekce je moment\xE1ln\u011B uzav\u0159ena, prob\xEDhaj\xED zde pr\xE1ce
       na DLC. D\u011Bkujeme za pochopen\xED."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -4955,7 +4892,7 @@ Transform:
   - {fileID: 2074982321}
   - {fileID: 1288236414}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1014169147
 GameObject:
@@ -5382,7 +5319,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1095486359
 MonoBehaviour:
@@ -5413,6 +5350,9 @@ MonoBehaviour:
     objectName: 
     sentences:
     - "[ME]Tyjo to je v\u016Fn\u011B, to jsem cejtil u\u017E p\u0159ed knihovnou."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 0e000000
   QuestIdStartingHere: 
@@ -5806,12 +5746,12 @@ PrefabInstance:
     - target: {fileID: 4587230140076113457, guid: 1661046b564fb4841a0066991e9c01bf,
         type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 1
+      value: 0.4375
       objectReference: {fileID: 0}
     - target: {fileID: 4587230140076113457, guid: 1661046b564fb4841a0066991e9c01bf,
         type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 1
+      value: 0.53125
       objectReference: {fileID: 0}
     - target: {fileID: 6863654740461744989, guid: 1661046b564fb4841a0066991e9c01bf,
         type: 3}
@@ -6115,7 +6055,7 @@ Transform:
   - {fileID: 1180525545}
   - {fileID: 1654559030}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1180525544
 GameObject:
@@ -6578,6 +6518,9 @@ MonoBehaviour:
     - "V\xEDtejte v N\xE1rodn\xED technick\xE9 knihovn\u011B."
     - "Je zde ulo\u017Eeno p\u0159es 1,1 milionu svazk\u016F, co\u017E z n\xED d\u011Bl\xE1
       nejv\u011Bt\u0161\xED knihovnu technick\xE9 literatury v \u010Cesk\xE9 republice."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -7549,6 +7492,9 @@ MonoBehaviour:
     - "[ME]Nab\xEDdka pr\xE1ce v bance, inzer\xE1t bytu, n\xE1bor do skauta, pozv\xE1nka
       na V\u0160E. Moment, co je tohle..."
     - "[ME]Zak\xE1zka na vlkodlaka? T\u011Bm lidem u\u017E v\xE1\u017En\u011B hrabe."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -7771,7 +7717,7 @@ PrefabInstance:
     - target: {fileID: 543115629837344577, guid: 26346c628592049f18790646fb50be34,
         type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 543115629837344577, guid: 26346c628592049f18790646fb50be34,
         type: 3}
@@ -8190,6 +8136,9 @@ MonoBehaviour:
     - "Jedno je jasn\xE9 \u2013 s Apakrychlemi ji\u017E nikdy nic nebude takov\xE9
       jako d\u0159\xEDv."
     - '[ME]Wtf?'
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -8625,7 +8574,7 @@ Transform:
   - {fileID: 1630667351}
   - {fileID: 293890909}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1479875149
 GameObject:
@@ -10734,7 +10683,7 @@ Transform:
   - {fileID: 1187841327}
   - {fileID: 1594869696}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1685273772
 GameObject:
@@ -11254,7 +11203,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1749174088
 GameObject:
@@ -11538,6 +11487,9 @@ MonoBehaviour:
     objectName: mat
     sentences:
     - "[ME]Ach, prost\u011B lidi v NTK, to fakt nech\xE1pu."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 
@@ -11922,7 +11874,7 @@ Transform:
   - {fileID: 577217570}
   - {fileID: 2033369888}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1838429480
 GameObject:
@@ -12206,6 +12158,9 @@ MonoBehaviour:
     objectName: 
     sentences:
     - '[ME]Tady bych mohl naprogramovat ten ProgTest.'
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 0c000000
   QuestIdTurningInHere: 
   QuestIdStartingHere: 0c000000
@@ -12483,7 +12438,7 @@ PrefabInstance:
     - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
         type: 3}
       propertyPath: dialogue.sentences.Array.data[8]
-      value: "[ME]Aha, no j\xE1 te\u010F zrovna z\xE1pas\xEDm se zmou"
+      value: "[ME]Aha, no j\xE1 te\u010F zrovna z\xE1pas\xEDm se zmou."
       objectReference: {fileID: 0}
     - target: {fileID: 7391999465245130892, guid: 1661046b564fb4841a0066991e9c01bf,
         type: 3}
@@ -12567,6 +12522,9 @@ MonoBehaviour:
     objectName: 
     sentences:
     - "[ME]Turniket, vypad\xE1 to, \u017Ee to tiskne l\xEDstky do knihovny."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 0c000000
   QuestIdStartingHere: 
@@ -12778,6 +12736,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2579760637654744933, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -30.599998
+      objectReference: {fileID: 0}
     - target: {fileID: 2806606280025121972, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_Camera
@@ -12953,6 +12916,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6245049278890535457, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6487380316311519704, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -13088,6 +13056,16 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7520051903420116165, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7520051903420116165, guid: fe351d83c3e4b8440aeb5adf4309f019,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8561323245306395995, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_Pivot.x
@@ -13101,7 +13079,7 @@ PrefabInstance:
     - target: {fileID: 8561323245306395995, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8561323245306395995, guid: fe351d83c3e4b8440aeb5adf4309f019,
         type: 3}
@@ -13722,6 +13700,9 @@ MonoBehaviour:
     objectName: mat
     sentences:
     - "[ME]No par\xE1da, oni se rozmno\u017Eili."
+  questFinishDialogue:
+    objectName: 
+    sentences: []
   QuestIdFinishingHere: 
   QuestIdTurningInHere: 
   QuestIdStartingHere: 

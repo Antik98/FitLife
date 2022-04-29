@@ -64,7 +64,8 @@ public class StatDisplay : MonoBehaviour
             {
                 if(phone != null)
                     phone.SetPhoneState(true);
-                s.color = Color.red;
+                s.color = new Color32(181, 16, 16, 255);
+                StatusController.Instance.audioManager.playSoundName("phoneVibration");
             }
             else
             {

@@ -19,7 +19,7 @@ public class ChangeScene : DisplayHint {
     // sound
     private AudioSource audioPlayer;
     public AudioClip transitionSFX;
-    private float audioVolume = 0.5f;
+    private float audioVolume = 0.2f;
 
     void Start() {
         sceneController = GameObject.FindGameObjectWithTag("GameController")?.GetComponent<SceneController>();

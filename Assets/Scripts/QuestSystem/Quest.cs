@@ -27,16 +27,18 @@ public abstract class Quest
     public int questID = 0;
     public string name = "";
     public string text = "";
+    public string notysekText = "";
     public Type type;
     public Status status;
 
 
-    public Quest(int questID, string questName, string questLogText, Status status = Status.inactive)
+    public Quest(int questID, string questName, string questLogText, Status status = Status.inactive, string notysekText = null)
     {
         this.questID = questID;
         this.name = questName;
         this.text = questLogText;
         this.status = status;
+        this.notysekText = string.IsNullOrWhiteSpace(notysekText) ? questLogText : notysekText;
     }
 
     public virtual Status GetStatus()

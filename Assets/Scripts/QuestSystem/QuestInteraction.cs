@@ -18,7 +18,8 @@ public class QuestInteraction : Quest
         string questTurnInText,
         string questCompleteText,
         Status status = Status.inactive,
-        TimeSpan deadline = default(TimeSpan)) : base( questID,  name,  questLogText, status)
+        TimeSpan deadline = default(TimeSpan),
+        string notysekText = null) : base( questID,  name,  questLogText, status, notysekText)
     {
         this.questID = questID;
         this.name = name;

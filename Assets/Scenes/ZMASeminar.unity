@@ -171,7 +171,7 @@ Transform:
   - {fileID: 672103290}
   - {fileID: 708600001}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &143892570
 GameObject:
@@ -334,7 +334,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &318642895
 GameObject:
@@ -4116,7 +4116,7 @@ Transform:
   - {fileID: 677329363}
   - {fileID: 1801547061}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1341072914
 GameObject:
@@ -5244,17 +5244,16 @@ MonoBehaviour:
     sentences:
     - "T\xE1k, dobr\xFD den. V\xEDtejte u dal\u0161\xED p\u0159edn\xE1\u0161ky ze
       ZMA."
-    - "Dnes se budeme zab\xFDvat neur\u010Dit\xFDmi integr\xE1ly."
+    - "Dnes za\u010Dneme s Landauovou symbolikou."
     - "Za\u010Dneme nejd\u0159\xEDv t\xEDm, \u017Ee si \u0159ekneme, k \u010Demu..."
-    - "[ME]Hej ta tabule je n\u011Bjak\xE1 rozmazan\xE1..."
-    - "[ME]...asi budu pot\u0159ebovat br\xFDle."
-    - ...a tohle nenajdete ani ve slajdech...
-    - "...tak si to dob\u0159e zapamatujte..."
-    - "[ME]Co\u017Ee, hej k\xE1mo, co \u0159\xEDkal?"
-    - "...a bude to ve zkou\u0161kov\xE9m testu..."
+    - "[ME]Hej ta tabule je n\u011Bjak\xE1 rozmazan\xE1, asi budu pot\u0159ebovat
+      br\xFDle."
+    - "[ME]M\u011Bl bych si taky ob\u010Das zaj\xEDt do fitka, chod\xED tam hezk\xFD
+      holky."
+    - "...a tohle nenajdete ani ve slajdech, tak si to dob\u0159e zapamatujte..."
+    - "[ME]Po\u010Dkat co, hej k\xE1mo, co \u0159\xEDkal?"
+    - "...a m\u016F\u017Eeme se v\xE1s na to zeptat i u zkou\u0161ky..."
     - '[ME]Co? No tak to je v pr...'
-    - "...tak se uvid\xEDme u zkou\u0161ek, zat\xEDm nashle."
-    - '[ME]No nazdar.'
   gameController: {fileID: 1765195310}
   questManager: {fileID: 0}
   Teacher: {fileID: 3696104576967036303, guid: fffb6eacca1486a4386065600156a579, type: 3}
@@ -5270,7 +5269,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1660776044
 MonoBehaviour:
@@ -6749,7 +6748,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2098527191
 GameObject:

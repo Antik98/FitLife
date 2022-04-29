@@ -8,9 +8,11 @@ public class LoadScreenOnEnter : MonoBehaviour
 
     private ChangeScene sceneChanger; 
     // Start is called before the first frame update
-    void Start()
+    IEnumerator Start()
     {
         sceneChanger = GetComponent<ChangeScene>();
+        yield return new WaitUntil(() => StatusController.initialized);
+        StatusController.Instance.gameTimer.StopTimer();
     }
 
     // Update is called once per frame

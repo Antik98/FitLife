@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class CoroutineQueue : MonoBehaviour
 {
@@ -22,6 +24,7 @@ public class CoroutineQueue : MonoBehaviour
     {
         yield return new WaitUntil(() => StatusController.initialized);
         OnSceneChange += CheckWaiting;
+        SceneManager.activeSceneChanged += CheckWaiting;
     }
 
     private void OnDisable()
@@ -35,6 +38,11 @@ public class CoroutineQueue : MonoBehaviour
     {
         list.RemoveAll(x => x(sceneName) == true);
         return true;
+    }
+    private void CheckWaiting(Scene current, Scene next)
+    {
+        TriggerSceneChanged(next.name);
+        list.RemoveAll(x => x(next.name) == true);
     }
 
     public void Reset()

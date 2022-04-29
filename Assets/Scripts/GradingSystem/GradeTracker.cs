@@ -32,6 +32,19 @@ namespace GradingSystem
             }
         }
 
+        public static void ResetPoints(SchoolSubjectType subjectType)
+        {
+            int currentPoints = 0;
+            if (subjectMap.TryGetValue(subjectType, out currentPoints))
+            {
+                subjectMap[subjectType] = 0;
+            }
+            else
+            {
+                throw new ArgumentException("Cannot find subject " + subjectType.GetType().GetEnumName(subjectType));
+            }
+        }
+
         public static Dictionary<SchoolSubjectType, int> GetSubjectsState()
         {
             return new Dictionary<SchoolSubjectType, int>(subjectMap);

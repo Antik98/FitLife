@@ -23,12 +23,13 @@ public class BedGameEffect : GameEffect
     {
         if (gameTimer.gameTime.Hours >= 21)
         {
-            yield return fade.TriggerFade(5, "Další den...", gameTimer.TriggerNextDay);
+            gameTimer.TriggerNextDay();
         }
         else
         {
             popupMessage.Open(new Dialogue("Ještě je brzo, jít spát můžeš až od 21:00."));
         }
         done = true;
+        yield return null;
     }
 }

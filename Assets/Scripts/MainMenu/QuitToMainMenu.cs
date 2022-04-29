@@ -4,16 +4,36 @@ using UnityEngine.SceneManagement;
 public class QuitToMainMenu : MonoBehaviour
 {
 
-    public void quitGame()
+    public void Update()
     {
-        Debug.Log("Ending game");
+        if (Input.GetKey(KeyCode.Space) && SceneManager.GetActiveScene().name == "endingScene")
+        {
+            Debug.Log("Ending game");
 
 
-        if (StatusController.Instance != null) StatusController.Instance.GetComponent<GameTimer>().StopTimer();
-        if (MusicManager.Instance != null) MusicManager.Instance.GetComponent<ChangeMusicByScene>().restartMusic();
-        if (StatusController.Instance != null) StatusController.Instance.Reset();
-        Time.timeScale = 1;
-        PauseGame.isGamePaused = false;
-        SceneManager.LoadScene("MainMenu");
+            if (StatusController.Instance != null) StatusController.Instance.GetComponent<GameTimer>().StopTimer();
+            if (StatusController.Instance != null) StatusController.Instance.audioManager.restartMusic();
+            if (StatusController.Instance != null) StatusController.Instance.Reset();
+            Time.timeScale = 1;
+            PauseGame.isGamePaused = false;
+            SceneManager.LoadScene("MainMenu");
+        }
+    }
+
+
+    public void QuitGame()
+    {
+            Debug.Log("Ending game");
+
+
+            if (StatusController.Instance != null) StatusController.Instance.GetComponent<GameTimer>().StopTimer();
+            if (StatusController.Instance != null) StatusController.Instance.audioManager.restartMusic();
+            if (StatusController.Instance != null) StatusController.Instance.Reset();
+            Time.timeScale = 1;
+            PauseGame.isGamePaused = false;
+            SceneManager.LoadScene("MainMenu");
     }
 }
+
+
+

@@ -24,15 +24,15 @@ public class TutorialManager : MonoBehaviour
     string[] TextDatabase = new string[]
     {
         "Ahoj, vítáme tě u naší hry, která se ti pokusí přiblížit život studentů na FITu, fakultě informatiky ČVUT. Tvým úkolem bude vyzkoušet si poslední tři dny prvního semestru našeho studia.",
-        "Začneme jednoduchým tutoriálem. Pohyb je jako všude pomocí WASD, popřípadě šipek, tak si to zkus.",
-        "Super, další klávesou, kterou při hraní využiješ, je klávesa E, sloužící k interakci. Zkus si vzít něco z ledničky.",
-        "Krom podezřele zapáchajícího guláše a týden staré pizzy z polotovaru toho v ledničce moc není. Další klávesou, kterou při hraní využiješ, je M. Zmáčkni M a sleduj, co se stane.",
+        "Začneme jednoduchým tutoriálem. Pohyb je jako všude pomocí <b>WASD</b>, popřípadě šipek, tak si to zkus.",
+        "Super, další klávesou, kterou při hraní využiješ, je klávesa <b>E</b>, sloužící k interakci. Zkus si vzít něco z ledničky.",
+        "Krom podezřele zapáchajícího guláše a týden staré pizzy z polotovaru toho v ledničce moc není. Další klávesou, kterou při hraní využiješ, je <b>M</b>. Zmáčkni <b>M</b> a sleduj, co se stane.",
         "Asi víš, k čemu normálně slouží mobil, ale na tomhle typu si Instagram nebo Tinder neotevřeš. Místo toho ti naopak bude důležitým pomocníkem.",
         "První důležitou herní mechanikou je čas. Stejně jako v životě, tak ani ve hře ho nemáš neomezený. Dej si pozor a snaž se stihnout všechny přednášky včas a nezapomeň být před půlnocí zpátky doma v posteli.",
         "Tohle je jeden ze tří atributů, o který se musíš starat. Energie. Čím víc se budeš učit, tím víc ti bude klesat. Nenech jí klesnout na 0, to nebude mít dobrý důsledek! Dobiješ ji spánkem nebo kávou v menze či kavárně.",
         "Nasycenost je tvůj druhý atribut. Zvyšuješ jí samozřejmě jídlem. Můžeš zkusit ten zbytek pizzy v ledničce, nebo radši navštiv místní menzu. Pokud nevíš, kde je, zkus se někoho zeptat. Také jí nenech klesnout na 0.",
         "Poslední atribut je sociální status. Najdi si nové kamarády, choď na párty, bal holky, bav se. Jen tak ho udržíš vysoko.",
-        "Vykřičníček ti napovídá, že existuje menu úkolů. Každé ráno dostaneš nové úkoly dle tvého rozvrhu. Po skončení tutoriálu se hned na ty dnešní pomocí klávesy Q podívej. Také si pomocí klávesy TAB můžeš během hry zobrazit časově nejbližší úkoly. Mobil zavřeš opět stisknutím M.",
+        "Vykřičníček ti napovídá, že existuje menu úkolů. Každé ráno dostaneš nové úkoly dle tvého rozvrhu. Po skončení tutoriálu se hned na ty dnešní pomocí klávesy <b>Q</b> podívej. Také si pomocí klávesy <b>TAB</b> můžeš během hry zobrazit časově nejbližší úkoly. Mobil zavřeš opět stisknutím <b>M</b>.",
         "Nyní už víš veškeré potřebné základy. Tvým cílem je přežít následující 3 dny. Jak to uděláš, záleží jen a jen na tobě. Hodně štěstí!"
     };
 
@@ -51,6 +51,7 @@ public class TutorialManager : MonoBehaviour
     void Start()
     {
         fridge = GameObject.Find("FridgeInteractive");
+        fridge.SetActive(false);
         gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         shouldDoTutorial = StatusController.Instance.GetComponent<PlayerStatus>().doTutorial;
         if (shouldDoTutorial)
@@ -129,7 +130,8 @@ public class TutorialManager : MonoBehaviour
         {
             unlockPlayer();
             popUpMessage.dismissFunc = (() =>  IsPressedKeyOrMouse (KeyCode.W, KeyCode.A, KeyCode.S, KeyCode.D,
-                KeyCode.UpArrow, KeyCode.LeftArrow, KeyCode.DownArrow, KeyCode.RightArrow)); 
+                KeyCode.UpArrow, KeyCode.LeftArrow, KeyCode.DownArrow, KeyCode.RightArrow));
+            fridge.SetActive(true);
         }
         else if (popUpIndex == 2)
         {

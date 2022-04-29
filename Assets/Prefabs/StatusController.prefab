@@ -16,6 +16,8 @@ GameObject:
   - component: {fileID: 543115629837344570}
   - component: {fileID: -8584971388667610409}
   - component: {fileID: 8626267759191860499}
+  - component: {fileID: 859731361116135865}
+  - component: {fileID: 5595273955608036063}
   m_Layer: 0
   m_Name: StatusController
   m_TagString: StatusController
@@ -54,6 +56,8 @@ MonoBehaviour:
   PlayerStatus: {fileID: 543115629837344572}
   interactionTracker: {fileID: 8626267759191860499}
   coroutineQueue: {fileID: -8584971388667610409}
+  musicSource: {fileID: 859731361116135865}
+  audioManager: {fileID: 5595273955608036063}
 --- !u!114 &543115629837344575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133,3 +137,157 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f2cf9777a686423daf7cd48cfa0bf1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!82 &859731361116135865
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 543115629837344576}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 0.2
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &5595273955608036063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 543115629837344576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db5fae865b874b4cbbac079e3f44a88, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Music:
+  - {fileID: 8300000, guid: 9ad704b5d62d54d14827c99e10911fda, type: 3}
+  - {fileID: 8300000, guid: 68703c3ea6c004143b64f83005e0d8de, type: 3}
+  - {fileID: 8300000, guid: 7f7223b5798ccb24b974b49d392458a6, type: 3}
+  - {fileID: 8300000, guid: df8175f2b7f1d9e48842b2e78e0abf68, type: 3}
+  - {fileID: 8300000, guid: cb97f6be858318644bbc28861493f05b, type: 3}
+  - {fileID: 8300000, guid: d01967249f7d17149b8753cc352ea16d, type: 3}
+  - {fileID: 8300000, guid: 6d47e27fb63ce6d4a844458fab4f49a7, type: 3}
+  sounds:
+  - name: phoneUp
+    audioSource: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: bcada2f0b97ab1f46b3dc0e60cc06b22, type: 3}
+    loop: 0
+    volume: 0.2
+    pitch: 1.08
+  - name: phoneDown
+    audioSource: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 44fda61d442dee047825195922d2b483, type: 3}
+    loop: 0
+    volume: 0.2
+    pitch: 1.12
+  - name: phoneVibration
+    audioSource: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: f53ecd1fdd9ea1c49b7d8a64b2c23f43, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+  - name: questFail
+    audioSource: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 697193c0a773c4140a7725ad66422b2c, type: 3}
+    loop: 0
+    volume: 0.4
+    pitch: 1
+  - name: questSuccess
+    audioSource: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 3b4e577d96e071f44b2d6b4876164368, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+  - name: writing
+    audioSource: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 274a0bf6daceb4d4db5aaf519e3dec2e, type: 3}
+    loop: 0
+    volume: 0.35
+    pitch: 1
+  musicSource: {fileID: 859731361116135865}

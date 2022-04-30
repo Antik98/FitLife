@@ -6,10 +6,14 @@ using UnityEngine.SceneManagement;
 
 public class CoroutineQueue : MonoBehaviour
 {
-    public List<WaitingForSceneEvent> list = new List<WaitingForSceneEvent>();
+    public List<WaitingForSceneEvent> list;
 
     public delegate bool WaitingForSceneEvent(string sceneName);
     public event WaitingForSceneEvent OnSceneChange;
+    private void Start()
+    {
+        list = new List<WaitingForSceneEvent>();
+    }
 
     private void OnEnable()
     {
@@ -19,23 +23,27 @@ public class CoroutineQueue : MonoBehaviour
     private IEnumerator OnEnableCoroutine()
     {
         yield return new WaitUntil(() => StatusController.initialized);
+        OnSceneChange += CheckWaiting;
         SceneManager.activeSceneChanged += CheckWaiting;
     }
 
     private void OnDisable()
     {
+        OnSceneChange -= CheckWaiting;
         SceneManager.activeSceneChanged -= CheckWaiting;
     }
 
-    public void TriggerSceneChanged(string scene)
-    {
-        return;
-    }
+    public void TriggerSceneChanged(string scene) => OnSceneChange?.Invoke(scene);
 
+    bool CheckWaiting(string sceneName)
+    {
+        list.RemoveAll(x => x(sceneName) == true);
+        return true;
+    }
     private void CheckWaiting(Scene current, Scene next)
     {
-        list.RemoveAll(x => x(next.name) == true);
         TriggerSceneChanged(next.name);
+        list.RemoveAll(x => x(next.name) == true);
     }
 
     public void Reset()

@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -42,11 +43,7 @@ public class StatusController : MonoBehaviour
 
     public void Reset()
     {
-        GetComponent<QuestTracker>()?.Reset();
-        GetComponent<GameTimer>()?.Reset();
-        GetComponent<PlayerStatus>()?.Reset();
-        coroutineQueue?.Reset();
-        interactionTracker?.Reset();
+        Array.ForEach(GetComponents<IStatusControllerService>(), s => s.Reset());
         musicSource.time = 0;
     }
 

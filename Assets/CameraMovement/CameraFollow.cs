@@ -13,9 +13,9 @@ public class CameraFollow : MonoBehaviour
     private Transform playerTransform;
 
     private Camera cam;
-    private float sizeX, sizeY, ratio, targetaspect;
-    private float scalewidth = 1;
-    private float scaleheight = 1;
+    private float sizeX, sizeY, ratio, targetAspect;
+    private float widthScale = 1;
+    private float heightScale = 1;
 
     private Func<Vector3> GetCameraFollowPositionFunc;
     public void Start()
@@ -23,7 +23,7 @@ public class CameraFollow : MonoBehaviour
         playerTransform = GameObject.FindGameObjectWithTag("Player")?.GetComponent<Transform>();
         this.GetCameraFollowPositionFunc = () => playerTransform?.position ?? new Vector3(0,0);
         this.cam = GetComponent<Camera>();
-        targetaspect = 16.0f / 9.0f;
+        targetAspect = 16.0f / 9.0f;
     }
 
     // Update is called once per frame
@@ -33,38 +33,18 @@ public class CameraFollow : MonoBehaviour
         ratio = (float)Screen.width / (float)Screen.height;
         sizeX = sizeY * ratio;
 
-        scaleheight = ratio / targetaspect;
-        scalewidth = 1.0f / scaleheight;
+        heightScale = ratio / targetAspect;
+        widthScale = 1.0f / heightScale;
 
-        if (scaleheight < 1.0f)
-        {
-            Rect rect = cam.rect;
+        Rect rect = cam.rect;
+        rect.width = heightScale < 1    ? 1 : widthScale;
+        rect.height = heightScale > 1   ? 1 : heightScale;
+        rect.x = heightScale < 1        ? 0 : (1.0f - widthScale) / 2.0f;
+        rect.y = heightScale > 1        ? 0 : (1.0f - heightScale) / 2.0f;
 
-            rect.width = 1.0f;
-
-            rect.height = scaleheight;
-            rect.x = 0;
-            rect.y = (1.0f - scaleheight) / 2.0f;
-
-            cam.rect = rect;
-
-        }
-        else // add pillarbox
-        {
-
-            Rect rect = cam.rect;
-
-            rect.width = scalewidth;
-
-            rect.height = 1.0f;
-            rect.x = (1.0f - scalewidth) / 2.0f;
-            rect.y = 0;
-
-            cam.rect = rect;
-
-        }
+        cam.rect = rect;
     }
-
+    //Framerate dependent Update()
     private void FixedUpdate()
     {
         if(playerTransform != null)
@@ -73,7 +53,7 @@ public class CameraFollow : MonoBehaviour
             cameraFollowPosition.z = transform.position.z;
 
             Vector3 boundPosition = new Vector3(
-                Mathf.Clamp(cameraFollowPosition.x, (minValues.x + 3.200652f - (sizeX / 2) * scalewidth), (maxValues.x - 3.200652f + (sizeX / 2) * scalewidth)),
+                Mathf.Clamp(cameraFollowPosition.x, (minValues.x + 3.200652f - (sizeX / 2) * widthScale), (maxValues.x - 3.200652f + (sizeX / 2) * widthScale)),
                 Mathf.Clamp(cameraFollowPosition.y, minValues.y, maxValues.y),
                 Mathf.Clamp(cameraFollowPosition.z, minValues.z, maxValues.z)
                 );

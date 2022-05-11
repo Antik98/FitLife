@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class PlayerStatus : MonoBehaviour
+public class PlayerStatus : MonoBehaviour, IStatusControllerService
 {
     public enum Stats
     {
@@ -13,11 +13,13 @@ public class PlayerStatus : MonoBehaviour
         SOCIAL = 2
     }
 
-    public int energy = 100; 
-    public int social = 50;
-    public int hunger = 100;
+    public int energy { get; private set; } = 100; 
+    public int social { get; private set; } = 50;
+    public int hunger { get; private set; } = 100;
     public bool doTutorial = false;
     private GameTimer gameTimer;
+    public static readonly int minutesUntilStatDecrease = 11;
+    private int minuteCounter = 0;
 
     public delegate void AttributesChanged();
     public event AttributesChanged HandleAttributesChanged;
@@ -42,7 +44,39 @@ public class PlayerStatus : MonoBehaviour
     private void Start()
     {
         gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
-        StartCoroutine(infLoop());
+        //StartCoroutine(infLoop());
+    }
+    private void OnEnable()
+    {
+        StartCoroutine(OnEnableCoroutine());
+    }
+    private IEnumerator OnEnableCoroutine()
+    {
+        yield return new WaitUntil(() => StatusController.initialized);
+        StatusController.Instance.gameTimer.BroadcastMinutePassed += HandleMinuteChanged;
+    }
+    private void OnDisable()
+    {
+        StatusController.Instance.gameTimer.BroadcastMinutePassed -= HandleMinuteChanged;
+    }
+
+    private void HandleMinuteChanged()
+    {
+        if(++minuteCounter == minutesUntilStatDecrease)
+        {
+            minuteCounter = 0;
+
+            if (energy <= 0 || hunger <= 0 || social <= 0)
+            {
+                gameTimer.StopTimer();
+                lowStatEvent();
+                return;
+            }
+
+            hunger -= 1;
+            energy -= 1;
+            HandleAttributesChanged?.Invoke();
+        }
     }
 
 
@@ -51,34 +85,28 @@ public class PlayerStatus : MonoBehaviour
         GameObject.FindGameObjectWithTag("GameController").GetComponent<SceneController>().LoadScene("endingScene");
     }
 
-    IEnumerator infLoop()
-    {
-        while (true)
-        {
-            yield return new WaitForSeconds(8f);
-            if (!gameTimer.TimerStoped())
-            {
+    //IEnumerator infLoop()
+    //{
+    //    while (true)
+    //    {
+    //        yield return new WaitForSeconds(8f);
+    //        Debug.Log("Stat change");
+    //        if (!gameTimer.TimerStoped())
+    //        {
 
-                if (energy <= 0 || hunger <= 0 || social <= 0)
-                {
-                    gameTimer.StopTimer();
-                    lowStatEvent();
-                    yield break;
-                }
+    //            if (energy <= 0 || hunger <= 0 || social <= 0)
+    //            {
+    //                gameTimer.StopTimer();
+    //                lowStatEvent();
+    //                yield break;
+    //            }
                
-                hunger -= 1;
-                energy -= 1;
-
-
-                if (social >= 100)
-                {
-                    social = 100;
-                }
-                // social -= 1;
-                HandleAttributesChanged?.Invoke();
-            }
-        }
-    }
+    //            hunger -= 1;
+    //            energy -= 1;
+    //            HandleAttributesChanged?.Invoke();
+    //        }
+    //    }
+    //}
 
     public void addStatValues(int energyVal = 0, int socialVal = 0, int hungerVal = 0)
     {

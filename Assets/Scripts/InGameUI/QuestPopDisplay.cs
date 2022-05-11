@@ -113,7 +113,9 @@ public class QuestPopDisplay : MonoBehaviour
     private IEnumerator UpdateQuestView(int? questId = null)
     {
         bool wasOpen = isActive();
-        var items = questLines.ToList().Zip(questLinesText.ToList().Zip(questTracker.getActiveQuests(), (x, y) => (x, y)), (x, y) => (x, y.x, y.y) );
+        var items = questLines.ToList().Zip(
+            questLinesText.ToList().Zip(
+            questTracker.getActiveQuests(), (x, y) => (x, y)), (x, y) => (x, y.x, y.y) );
 
         foreach (var (title, text, quest) in items)
         {

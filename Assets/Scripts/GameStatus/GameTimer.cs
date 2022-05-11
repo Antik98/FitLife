@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-public class GameTimer : MonoBehaviour
+public class GameTimer : MonoBehaviour, IStatusControllerService
 {
     private SceneController sceneController;
 
@@ -12,6 +12,7 @@ public class GameTimer : MonoBehaviour
     public TimeSpan gameTime;
     public  TimeSpan endingDayTime = new TimeSpan(endingDay, 0, 0, 0);
     public readonly TimeSpan initTime = new TimeSpan(0,6,0,0);
+    public static readonly float timeSpeedConstant = 83;
 
     public delegate void TimePeriodPassed();
     public event TimePeriodPassed BroadcastDayPassed;
@@ -48,7 +49,7 @@ public class GameTimer : MonoBehaviour
     // We can use these events to trigger quest timeouts, world events
     void InvokeTimePassedEvents() 
     {
-        TimeSpan nextTick = gameTime + TimeSpan.FromSeconds(Time.deltaTime * 83);
+        TimeSpan nextTick = gameTime + TimeSpan.FromSeconds(Time.deltaTime * timeSpeedConstant);
 
         //Called when 15 minutes passed
         if(gameTime.Minutes % 15 == 0 && nextTick.Minutes % 15 != 0 )
@@ -86,7 +87,7 @@ public class GameTimer : MonoBehaviour
                 EndGameSuccessfully();
             }
 
-            gameTime += TimeSpan.FromSeconds(Time.deltaTime*83);
+            gameTime += TimeSpan.FromSeconds(Time.deltaTime* timeSpeedConstant);
             
         }
     }

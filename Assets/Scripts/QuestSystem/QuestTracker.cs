@@ -6,7 +6,7 @@ using GradingSystem;
 using JetBrains.Annotations;
 using UnityEngine;
 
-public class QuestTracker : MonoBehaviour
+public class QuestTracker : MonoBehaviour, IStatusControllerService
 {
 
     public delegate void QuestChanged(int id);
@@ -64,17 +64,15 @@ public class QuestTracker : MonoBehaviour
     IEnumerator OnEnableCoroutine()
     {
         yield return new WaitUntil(() => StatusController.initialized);
-        gameTimer = StatusController.Instance.GetComponent<GameTimer>();
         StartQuestDay1();
-        gameTimer.BroadcastDayPassed += HandleDayPassed;
-        gameTimer.Broadcast15MinutesPassed += HandleMinuteIntervalPassed;
+        StatusController.Instance.gameTimer.BroadcastDayPassed += HandleDayPassed;
+        StatusController.Instance.gameTimer.Broadcast15MinutesPassed += Handle15MinuteIntervalPassed;
     }
 
     public void OnDisable()
     {
-        gameTimer = StatusController.Instance.GetComponent<GameTimer>();
-        gameTimer.BroadcastDayPassed -= HandleDayPassed;
-        gameTimer.Broadcast15MinutesPassed -= HandleMinuteIntervalPassed;
+        StatusController.Instance.gameTimer.BroadcastDayPassed -= HandleDayPassed;
+        StatusController.Instance.gameTimer.Broadcast15MinutesPassed -= Handle15MinuteIntervalPassed;
     }
 
     private void HandleDayPassed()
@@ -82,7 +80,7 @@ public class QuestTracker : MonoBehaviour
         StartCoroutine(SendDelayedUpdateEvent());
     }
 
-    private void HandleMinuteIntervalPassed()
+    private void Handle15MinuteIntervalPassed()
     {
         CheckQuestsTimeout();
     }
@@ -167,7 +165,7 @@ public class QuestTracker : MonoBehaviour
 
         foreach(Quest q in quests)
         {
-            if (q.status == Quest.Status.progress && q.IsQuestTimedOut(gameTimer.gameTime))
+            if (q.status == Quest.Status.progress && q.IsQuestTimedOut(StatusController.Instance.gameTimer.gameTime))
             {
                 FailQuest(q.questID);
             }

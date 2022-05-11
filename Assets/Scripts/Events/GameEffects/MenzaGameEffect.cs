@@ -17,7 +17,7 @@ public class MenzaGameEffect : GameEffect
         yield return null;
         GameTimer _gameTimer = GameObject.FindGameObjectWithTag("StatusController").GetComponent<GameTimer>();
         PlayerStatus _playerStatus= GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
-        if (_gameTimer.gameTime.Hours < 19)
+        if (_gameTimer.gameTime.Hours < 21)
         {
             yield return fade.TriggerFade(2, "O 20 minut později...");
             _playerStatus.addStatValues(energyAdded, 0, hungerAdded);

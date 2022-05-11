@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
-public class CoroutineQueue : MonoBehaviour
+public class CoroutineQueue : MonoBehaviour, IStatusControllerService
 {
     public List<WaitingForSceneEvent> list;
 

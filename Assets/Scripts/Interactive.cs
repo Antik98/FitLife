@@ -10,7 +10,7 @@ using UnityEngine.UI;
 using System.Linq;
 using System;
 
-public class EasterEgg : DisplayHint
+public class Interactive : DisplayHint
 {
     public string displayTextOnHint = "Prozkoumat";
     public Dialogue dialogue;

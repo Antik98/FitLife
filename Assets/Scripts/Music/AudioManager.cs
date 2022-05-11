@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class AudioManager : MonoBehaviour
+public class AudioManager : MonoBehaviour, IStatusControllerService
 {
     public AudioClip[] Music;
     public Sound[] sounds;
@@ -43,6 +43,10 @@ public class AudioManager : MonoBehaviour
     public void restartMusic()
     {
         musicSource.time = 0;
+    }
+    public void Reset()
+    {
+        restartMusic();
     }
 
     public void playSoundName(string name, bool play = true)

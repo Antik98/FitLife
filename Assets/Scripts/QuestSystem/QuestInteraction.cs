@@ -35,7 +35,7 @@ public class QuestInteraction : Quest
     {
         base.CompleteQuest();
         var playerStatus = GameObject.FindGameObjectWithTag("StatusController").GetComponent<PlayerStatus>();
-        playerStatus.social += increaseSocial; 
+        playerStatus.addStatValues(socialVal: increaseSocial);
     }
 
     public override bool IsQuestTimedOut(TimeSpan gameTime)

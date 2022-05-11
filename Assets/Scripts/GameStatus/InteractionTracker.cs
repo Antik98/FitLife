@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-public class InteractionTracker : MonoBehaviour
+public class InteractionTracker : MonoBehaviour, IStatusControllerService
 {
     public int easterEggsFound { get; private set; }
 
@@ -37,7 +37,7 @@ public class InteractionTracker : MonoBehaviour
 
     private void HandleDayPassed()
     {
-        interactions.Clear();
+        //interactions.Clear();
     }
     private bool HandleChangeScene(string scene)
     {
@@ -47,7 +47,6 @@ public class InteractionTracker : MonoBehaviour
 
     public void TriggerHint(object sender, bool view, string hint = "")
     {
-        
         if (view)
         {
             activeInteractions.Add((sender.GetHashCode(), hint));
